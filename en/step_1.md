@@ -5,7 +5,7 @@ In this project, you'll learn how to create your own webpage to tell a story, jo
 ### What you will make
 
 <div class="trinket">
-  <iframe src="https://trinket.io/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/story-final.png">
 </div>
