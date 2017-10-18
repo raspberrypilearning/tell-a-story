@@ -1,22 +1,18 @@
-## Uploading images
+## Finding your own images
 
-__If you have a Trinket account__, you can also upload your own images to your webpage!
+Let's find an image from the web to add to your story.
 
 
 
-+ Click the image icon at the top of your trinket and then click 'Add Image'.
++ Go to <a href="http://jumpto.cc/html-images" target="_blank">jumpto.cc/html-images</a> and find an image that you want to include in your story.
 
-	![screenshot](images/story-upload.png)
++ Right-click the image, and click 'Copy image URL'. The __URL__ is the address of the image.
 
-+ Find your image on your computer, and drag it into your trinket.
+	![screenshot](images/story-url.png)
 
-	![screenshot](images/story-drag.png)
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
-+ You can then just add the name of your new image between the speech marks in your `<img>` tag, like this:
-
-	```
-	<img src="buildings.png">
-	```
+	![screenshot](images/story-image.png)
 
 
 

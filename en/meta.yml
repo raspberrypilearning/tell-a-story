@@ -13,6 +13,7 @@ technologies: html/css
 site_areas: codeclub, webdev
 steps:
 - title: Introduction
+- title: What you will need
 - title: Decide on a story
 - title: Editing your story
 - title: 'Challenge: Make some changes'
@@ -20,4 +21,3 @@ steps:
 - title: Finding your own images
 - title: Uploading images
 - title: 'Challenge: Keep going!'
-
