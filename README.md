@@ -1,3 +1,2 @@
 # tell-a-story
-
-Don't forget to update the project name in LICENSE.md
+In this project, you'll learn how to create your own webpage to tell a story, joke or poem.
