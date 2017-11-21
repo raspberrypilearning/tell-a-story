@@ -8,6 +8,4 @@ You can alter the colours used in the webpage, and you can also use fonts like <
 
 You can find more CSS colour names at [jumpto.cc/colours](http://jumpto.cc/colours){:target="_blank"}.
 
-If you need more help, you can use the [Happy Birthday](https://projects.raspberrypi.org/en/projects/happy-birthday){:target="_blank"} project to help you.
-
 --- /challenge ---
