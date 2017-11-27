@@ -1,18 +1,45 @@
-## Finding your own images
+## Telling your story
 
-Let's find an image from the web to add to your story.
+Let's add a second part to your story.
 
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
+![screenshot](images/story-div.png)
 
-+ Go to <a href="http://jumpto.cc/html-images" target="_blank">jumpto.cc/html-images</a> and find an image that you want to include in your story.
++ Add a paragraph of text inside your new `<div>` tag:
 
-+ Right-click the image, and click 'Copy image URL'. The __URL__ is the address of the image.
+```html
+<p>More text here!</p>
+```
 
-	![screenshot](images/story-url.png)
+![screenshot](images/story-paragraph.png)
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
-	![screenshot](images/story-image.png)
+```html
+<img src="">
+```
 
+![screenshot](images/story-img-tag.png)
 
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
+
+Click the image icon to see the images available for your story.
+
+![screenshot](images/story-see-images.png)
+
++ Decide which image you want to add and remember its name, for example `buildings.png`.
+
++ Click on `index.html` to get back to your code.
+
+![screenshot](images/story-image-name.png)
+
++ Add the name of the image between the speech marks in your `<img>` tag.
+
+```html
+<img src="buildings.png">
+```
+
+![screenshot](images/story-image-name-add.png)

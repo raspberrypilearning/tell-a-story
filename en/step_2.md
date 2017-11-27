@@ -1,13 +1,9 @@
-## Decide on a story
+## What you will need
 
-Before you get coding, you'll need to decide on a story to tell.
+### Hardware
 
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
+### Software
 
-+ Think about the story you want to tell. It could be:
-	+ A famous story;
-	+ A story you have made up;
-	+ Something that has happened to you or someone you know.
-
-	It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
-
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.

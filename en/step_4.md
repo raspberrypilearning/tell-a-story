@@ -1,16 +1,30 @@
---- challenge ---
-## Challenge: Make some changes
-Edit the HTML and the CSS code to customise your webpage.
+## Editing your story
 
-![screenshot](images/story-changes.png)
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-You can alter the colours used in the webpage, and you can also use fonts like <span style="font-family: Arial;">Arial</span>, <span style="font-family: Comic Sans MS;">Comic Sans MS</span>, <span style="font-family: Impact;">Impact</span> and <span style="font-family: Tahoma;">Tahoma</span>.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-You can find more CSS colour names at <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+The project should look like this:
 
-If you need more help, you can use the 'Happy Birthday' project to help you.
+![screenshot](images/story-starter.png)
 
+Webpage content goes in the `<body>` section of the HTML document.
 
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
+![screenshot](images/story-html.png)
 
---- /challenge ---
++ See if you can work out which tags are used to create the different parts of the webpage.
+
+--- collapse ---
+---
+title: Answer
+---
+![screenshot](images/story-elements.png)
+
++ `<h1>` is a __heading__. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for __division__, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an __image__.
++ `<p>` is a __paragraph__ of text.
+
+--- /collapse ---
