@@ -6,7 +6,7 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag.
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
 <p>More text here!</p>
@@ -14,7 +14,7 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can add code to display an image to your new box, by adding this code inside your `<div>` tag:
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
@@ -22,9 +22,9 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags, as they don't have an end tag.
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ To get an image to show up, you need to add the **source** (src) of the image, inside the speech marks.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
 Click the image icon to see the images available for your story.
 
