@@ -8,7 +8,7 @@ The HTML content can be found in the `index.html` file, and the CSS style in the
 
 ![screenshot](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can also use fonts such as:
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
