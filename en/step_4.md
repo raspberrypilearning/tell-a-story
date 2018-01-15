@@ -8,7 +8,7 @@ The project should look like this:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the HTML document.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
 + Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
