@@ -1,0 +1,20 @@
+hero_image: images/tell-a-story.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: Raconte Une Histoire
+description: Create a webpage to tell a story, joke, or poem
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: Introduction
+- title: Trouver une histoire à raconter
+- title: Edite ton histoire
+- title: 'Défi: Fais des changements'
+- title:Raconte ton histoire
+- title: 'Défi: continue!'
