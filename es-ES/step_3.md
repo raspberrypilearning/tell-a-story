@@ -4,10 +4,7 @@ Vamos a empezar editando el contenido HTML y los estilos CSS de la página web.
 
 + Abre este trinket: <a href="http://jumpto.cc/web-story" target="_blank">jumpto.cc/web-story</a>. Si estás leyendo esto en el navegador incluso podrías usar la versión embebida del Trinket que verás abajo.
 
-<div class="trinket">
-	<iframe src="https://trinket.io/embed/html/8083cfebb3" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-	</iframe>
-</div>
+<div class="trinket"><iframe src="https://trinket.io/embed/html/8083cfebb3" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></div>
 
 + También debes recordar del proyecto 'Cumpleaños feliz' que el contenido de la página web va en el `<body>` del documento HTML.
 
