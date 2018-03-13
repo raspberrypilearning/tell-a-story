@@ -2,8 +2,6 @@
 
 Commençons par éditer le contenu HTML et le style CSS de la page web de l'histoire
 
-## A faire { .check}
-
 + Ouvrir ce lien Trinket : <a href="http://jumpto.cc/web-story" target="_blank">jumpto.cc/web-story</a>.
 
 Si tu es sur la version en ligne, tu peux aussi utiliser la version embarquée de Trinket:
