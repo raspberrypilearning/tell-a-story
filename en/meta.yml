@@ -4,14 +4,18 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Tell a story
 description: Create a webpage to tell a story, joke, or poem
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
-steps:
+interests: literature
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
+steps: 
 - title: Introduction
 - title: What you will need
 - title: Decide on a story
