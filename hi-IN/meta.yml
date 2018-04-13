@@ -1,0 +1,23 @@
+hero_image: images/tell-a-story.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+title: एक कहानी सुनाएँ
+description: एक कहानी, चुटकुला या कविता सुनाने के लिए एक वेबपेज बनाएँ
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: भूमिका
+- title: आपको क्या चाहिए होगा
+- title: एक कहानी चुनें
+- title: आपकी कहानी को एडिट करना
+- title: 'चुनौती: कुछ परिवर्तन करें'
+- title: आपकी कहानी सुनाना
+- title: आपके अपने चित्र खोजना
+- title: चित्रों को अपलोड करना
+- title: 'चुनौती: आगे बढ़ते रहें!'
