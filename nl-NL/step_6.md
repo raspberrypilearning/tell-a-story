@@ -2,11 +2,11 @@
 
 Laten we een tweede deel aan je verhaal toevoegen.
 
-+ Ga naar regel 15 van de code en voeg nieuwe `<div>` en `</div>` begin- en eindetags toe. Hiermee wordt een nieuw vak gemaakt voor het volgende deel van je verhaal.
++ Ga naar regel 15 van de code en voeg nieuwe `<div>` en `</div>` begin- en eindtags toe. Hiermee wordt een nieuw vak gemaakt voor het volgende deel van je verhaal.
 
 ![screenshot](images/story-div.png)
 
-+ Voeg een alinea tekst toe aan uw nieuwe `<div>` tag:
++ Voeg een alinea tekst toe aan de nieuwe `<div>` tag:
 
 ```html
 <p>Hier meer tekst!</p>
@@ -26,11 +26,11 @@ Merk op dat `<img>` -tags een beetje verschillen van andere tags: ze hebben geen
 
 + Als je wilt dat een afbeelding wordt weergegeven, moet je de ** de naam van de afbeelding** (`src`) tussen de aanhalingstekens invoegen.
 
-Klik op het image icoon om de beschikbare afbeeldingen voor je verhaal te bekijken.
+Klik op het afbeeldingspictogram om de beschikbare afbeeldingen voor je verhaal te bekijken.
 
 ![screenshot](images/story-see-images.png)
 
-+ Bepaal welke afbeelding je wilt toevoegen en onthoud de naam ervan, bijvoorbeeld `buildings.png`.
++ Kies de afbeelding die je wilt toevoegen en onthoud de naam ervan, bijvoorbeeld `buildings.png`.
 
 + Klik op `index.html` om terug te gaan naar je code.
 
