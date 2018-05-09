@@ -18,13 +18,13 @@ De inhoud van webpagina's komt in het gedeelte `<body>` van het `index.html` HTM
 
 ## \--- collapse \---
 
-## titel: Antwoord
+## title: Antwoord
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is een **heading**. Je kunt de nummers 1 tot 6 gebruiken om koppen van verschillende formaten te maken.
++ `<h1>` is een **kop** (Engels: heading). Je kunt de nummers 1 tot 6 gebruiken om koppen van verschillende formaten te maken.
 + `<div>` is een afkorting van **division** en is een manier om dingen samen te groeperen. In deze webpagina gebruik je het om alle dingen voor je verhaal te groeperen.
 + `<img>` is een **afbeelding**.
-+ `<p>` is een **paragraaf** van tekst.
++ `<p>` is een **alinea** van tekst.
 
 \--- /collapse \---
