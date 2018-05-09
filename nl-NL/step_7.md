@@ -1,6 +1,6 @@
-## Je eigen afbeeldingen vinden
+## Je eigen afbeeldingen zoeken
 
-Laten we een afbeelding op internet vinden die je aan je verhaal kunt toevoegen.
+Laten we een afbeelding op internet zoeken die je aan je verhaal kunt toevoegen.
 
 + Ga naar [deze pagina](http://jumpto.cc/html-images){: target = "_ blank"} en vind een afbeelding die je in je verhaal wilt opnemen.
 
