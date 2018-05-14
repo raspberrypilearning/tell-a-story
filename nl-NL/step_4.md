@@ -18,7 +18,7 @@ De inhoud van webpagina's komt in het gedeelte `<body>` van het `index.html` HTM
 
 --- collapse ---
 ---
-## title: Antwoord
+title: Antwoord
 ---
 ![screenshot](images/story-elements.png)
 
