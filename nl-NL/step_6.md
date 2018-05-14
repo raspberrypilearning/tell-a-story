@@ -24,7 +24,7 @@ Laten we een tweede deel aan je verhaal toevoegen.
 
 Merk op dat `<img>` -tags een beetje verschillen van andere tags: ze hebben geen eindtag.
 
-+ Als je wilt dat een afbeelding wordt weergegeven, moet je de ** de naam van de afbeelding** (`src`) tussen de aanhalingstekens invoegen.
++ Als je wilt dat een afbeelding wordt weergegeven, moet je de **de naam van de afbeelding** (`src`) tussen de aanhalingstekens invoegen.
 
 Klik op het afbeeldingspictogram om de beschikbare afbeeldingen voor je verhaal te bekijken.
 
