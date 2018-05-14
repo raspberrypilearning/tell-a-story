@@ -1,5 +1,4 @@
 --- challenge ---
-
 ## Uitdaging: breng enkele wijzigingen aan
 
 Bewerk de HTML- en CSS-code om je webpagina aan te passen.
