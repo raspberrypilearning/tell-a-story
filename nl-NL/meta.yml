@@ -1,0 +1,28 @@
+---
+hero_image: images/tell-a-story.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Vertel een verhaal
+description: Maak een webpagina om een ​​verhaal, grap of gedicht te vertellen
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: literature
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
+steps:
+  - title: Inleiding
+  - title: Wat je nodig hebt
+  - title: Kies een verhaal
+  - title: Je verhaal bewerken
+  - title: 'Uitdaging: breng enkele wijzigingen aan'
+  - title: Vertel je verhaal
+  - title: Je eigen afbeeldingen zoeken
+  - title: Afbeeldingen uploaden
+  - title: 'Uitdaging: ga door!'
