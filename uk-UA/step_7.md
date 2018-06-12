@@ -1,15 +1,15 @@
-## Finding your own images
+## Пошук власних зображень
 
-Let's find an image on the web to add to your story.
+Знайдемо в Інтернеті зображення, яке можна додати до вашої історії.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Перейдіть на [цю сторінку](http://jumpto.cc/html-images){: target = "_ blank"} і знайдіть зображення, яке хочете додати до історії.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Натисніть правою кнопкою миші на зображення та виберіть **Копіювати URL-адресу зображення** (або **Копіювати адресу зображення**, залежно від комп'ютера, який ви використовуєте). URL-адреса - це адреса зображення.
 
-![screenshot](images/story-url.png)
+![знімок екрану](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Поверніться на сторінку `index.html`.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Вставте URL-адресу у лапках у тег `<img>`. Має з'явитись ваше зображення!
 
-![screenshot](images/story-image.png)
+![знімок екрану](images/story-image.png)
