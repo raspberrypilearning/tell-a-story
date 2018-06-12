@@ -1,9 +1,9 @@
-## Decide on a story
+## Διάλεξε μια ιστορία
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Πριν ξεκινήσεις την κωδικοποίηση, πρέπει να διαλέξεις μια ιστορία. Σκέψου την ιστορία που θέλεις να πεις. Θα μπορούσε να είναι:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Μια διάσημη ιστορία
++ Μια ιστορία που έχεις φανταστεί
++ Κάτι που έχει συμβεί σε σένα ή σε κάποιον που γνωρίζεις
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Δεν χρειάζεται καν να είναι μια ιστορία. Θα μπορούσε να είναι ένα αστείο, ένα ποίημα ή οτιδήποτε άλλο θέλεις!
