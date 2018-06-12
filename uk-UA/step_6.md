@@ -1,45 +1,45 @@
-## Telling your story
+## Розкажіть історію
 
-Let's add a second part to your story.
+Додамо другу частину історії.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ У 15 рядку коду додайте ще раз початковий `<div>` і кінцевий `</div>` теги.
 
-![screenshot](images/story-div.png)
+![знімок екрану](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Додайте абзац тексту у новий тег `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Більше тексту тут!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![знімок екрану](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Відкрити зображення у новому вікні можна, додавши цей код у тег `<div>`:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![знімок екрану](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Зверніть увагу, що теги `<img>` трохи відрізняються від інших: у них немає кінцевого тегу.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Щоб з'являлось зображення, потрібно додати до нього тег **джерело**(`src`) у лапках.
 
-Click the image icon to see the images available for your story.
+Натисніть на значок "зображення", щоб побачити усі зображення, доступні для вашої історії.
 
-![screenshot](images/story-see-images.png)
+![знімок екрану](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Оберіть, яке зображення ви хочете додати, і збережіть його назву, наприклад `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Щоб повернутися до коду, натисніть `index.html`.
 
-![screenshot](images/story-image-name.png)
+![знімок екрану](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Назву зображення напишіть у лапках всередині тегу `<img>`.
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![знімок екрану](images/story-image-name-add.png)
