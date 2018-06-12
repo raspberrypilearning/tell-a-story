@@ -1,30 +1,30 @@
-## Editing your story
+## Редагування історії
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Розпочнемо із редагування HTML та CSS вмісту історії на веб-сторінці.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Відкрийте [цей трінкет](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Проект повинен виглядати так:
 
-![screenshot](images/story-starter.png)
+![знімок екрану](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Вміст веб-сторінки знаходиться в `<body>`розділі `index.html` документу HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Вміст веб-сторінки можна знайти у 7 рядку всередині кодів `<body>` і `</body>`.
 
-![screenshot](images/story-html.png)
+![знімок екрану](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Переконайтеся, що знаєте, які теги використовуються для створення різних частин веб-сторінки.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Відповідь
 
-![screenshot](images/story-elements.png)
+![знімок екрану](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` - це **заголовок**. Щоб створити заголовки різної довжини, використовуйте числа від 1 до 6.
++ `<div>` - це **розділ**. Цей код допомагає об'єднати все докупи. На цій веб-сторінці він використовується, щоб об'єднати елементи кожної частини історії.
++ `<img>` - це **зобаження**.
++ `<p>` - це **абзац** тексту.
 
 \--- /collapse \---
