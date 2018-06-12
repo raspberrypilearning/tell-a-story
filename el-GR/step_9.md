@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Πρόκληση: συνέχισε!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Χρησιμοποίησε όσα έχεις μάθει σε αυτό το έργο για να ολοκληρώσεις την ιστορία σου! Ακολουθεί ένα παράδειγμα:
 
 ![screenshot](images/story-final.png)
 
