@@ -1,20 +1,20 @@
-## Telling your story
+## Αφήγηση της ιστορίας σου
 
-Let's add a second part to your story.
+Ας προσθέσουμε ένα δεύτερο μέρος στην ιστορία σου.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Πήγαινε στη γραμμή 15 του κώδικα και πρόσθεσε ένα άλλο ζευγάρι ετικετών `<div>` και `</div>` αρχής και τέλους. Αυτό θα δημιουργήσει ένα νέο πλαίσιο για το επόμενο μέρος της ιστορίας σου.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Πρόσθεσε μια παράγραφο κειμένου μέσα στη νέα ετικέτα `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Περισσότερο κείμενο εδώ!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Μπορείς να εμφανίσεις μια εικόνα στο νέο σου πλαίσιο προσθέτοντας αυτόν τον κώδικα μέσα στην ετικέτα `<div>`:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Παρατήρησε ότι οι ετικέτες `<img>` διαφέρουν λίγο από τις άλλες ετικέτες: δεν έχουν ετικέτα τέλους.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Για να εμφανίσεις μια εικόνα, θα πρέπει να προσθέσεις την **προέλευση** (`src`) της εικόνας μέσα στα διπλά εισαγωγικά.
 
-Click the image icon to see the images available for your story.
+Κάνε κλικ στο εικονίδιο εικόνας για να δεις τις διαθέσιμες εικόνες για την ιστορία σου.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Διάλεξε ποια εικόνα θέλεις να προσθέσεις και θυμήσου το όνομά της, για παράδειγμα `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Κάνε κλικ στο `index.html` για να επιστρέψεις στον κώδικά σου.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Γράψε το όνομα της εικόνας εντός των διπλών εισαγωγικών στην ετικέτα `<img>`.
 
 ```html
 <img src="buildings.png">
