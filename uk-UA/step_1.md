@@ -1,10 +1,10 @@
-## Introduction
+## Вступ
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+У цьому проекті ви дізнаєтесь як створити власну веб-сторінку, щоб розповісти історію, анекдот чи поему.
 
-### What you will make
+### Що ви будете робити
 
-Scroll down in the trinket to see the punch line!
+Прогортайте вниз у Трінкет, щоб побачити кінець історії!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Що ви дізнаєтесь
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Цей проект охоплює елементи з наступних напрямів навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Додаткова інформація для вчителів
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [ версією для друку ](https://projects.raspberrypi.org/en/projects/tell-a-story/print) {: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Скористайтеся посиланням у нижньому колонтитулі, щоб отримати доступ до сховища GitHub для цього проекту, який містить усі ресурси (включаючи приклад готового проекту) в папці en / resources.
