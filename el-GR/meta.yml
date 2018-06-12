@@ -6,10 +6,10 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+title: Πες μια ιστορία
+description: Δημιούργησε μια ιστοσελίδα για να πεις μια ιστορία, ένα αστείο ή ένα ποίημα
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: literature
+interests: λογοτεχνία
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
@@ -18,20 +18,20 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: What you will need
+    title: Τι θα χρειαστείς
   - 
-    title: Decide on a story
+    title: Διάλεξε μια ιστορία
   - 
-    title: Editing your story
+    title: Επεξεργασία της ιστορίας σου
   - 
-    title: 'Challenge: make some changes'
+    title: 'Πρόκληση: κάνε μερικές αλλαγές'
   - 
-    title: Telling your story
+    title: Αφήγηση της ιστορίας σου
   - 
-    title: Finding your own images
+    title: Βρες τις δικές σου εικόνες
   - 
-    title: Uploading images
+    title: Μεταφόρτωση εικόνων
   - 
-    title: 'Challenge: keep going!'
+    title: 'Πρόκληση: συνέχισε!'
