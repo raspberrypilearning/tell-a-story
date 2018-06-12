@@ -1,16 +1,16 @@
-## Uploading images
+## Μεταφόρτωση εικόνων
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Εάν διαθέτεις λογαριασμό Trinket**, μπορείς επίσης να ανεβάσεις τις δικές σου εικόνες στην ιστοσελίδα σου.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Κάνε κλικ στο εικονίδιο εικόνας στην κορυφή του trinket και στη συνέχεια, κάνε κλικ στο κουμπί **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Κάνε κλικ στο κουμπί **Upload**, στη συνέχεια βρες την εικόνα που θέλεις στον υπολογιστή σου και σύρε την μέσα στο κουτί. Εναλλακτικά, χρησιμοποίησε το κουμπί για να την επιλέξεις.
 
 ![Upload](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Στη συνέχεια, πρόσθεσε μόνο το όνομα της νέας σου εικόνας εντός των διπλών εισαγωγικών στην ετικέτα `<img>`, όπως παρακάτω:
 
 ```html
 <img src="buildings.png">
