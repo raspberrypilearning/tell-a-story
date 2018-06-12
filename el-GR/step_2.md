@@ -1,9 +1,9 @@
-## What you will need
+## Τι θα χρειαστείς
 
-### Hardware
+### Υλικό
 
-+ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
++ Ένας υπολογιστής με δυνατότητα πρόσβασης στο [trinket.io](https://trinket.io){:target="_ blank"}
 
-### Software
+### Λογισμικό
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+Αυτό το έργο μπορεί να ολοκληρωθεί σε ένα πρόγραμμα περιήγησης ιστού χρησιμοποιώντας το [trinket.io](https://trinket.io){:target="_blank"}.
