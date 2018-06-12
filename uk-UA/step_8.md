@@ -1,16 +1,16 @@
-## Uploading images
+## Завантаження зображень
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Якщо ви маєте акаунт у Трінкет**, ви також можете завантажити зображення на вашу веб-сторінку.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Натисніть на значок зображення вгорі трінкету, оберіть **Додати зображення**.
 
-![screenshot](images/story-upload.png)
+![знімок екрану](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Натисніть на кнопку **Завантажити**, знайдіть на комп'ютері зображення, яке хочете використати і перетягніть його в бокс або скористайтеся кнопкою "Обрати зображення".
 
-![Upload](images/upload-image.png)
+![Завантажити](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Додайте назву нового зображення в лапках в тег `<img>`:
 
 ```html
 <img src="buildings.png">
