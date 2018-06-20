@@ -12,7 +12,7 @@ Role para baixo no Trinket para ver o final!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### O que você vai aprender
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
