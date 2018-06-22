@@ -2,21 +2,21 @@
 
 ## Desafio: faça algumas alterações
 
-Edit the HTML and CSS code to customise your webpage.
+Edite os códigos HTML e CSS para personalizar sua página web.
 
 ![screenshot](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+O conteúdo HTML pode ser encontrado no arquivo `index.html`, e o CSS no arquivo `style.css`.
 
 ![screenshot](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+Você também pode alterar as cores usadas na página web e pode usar diferentes fontes, como:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Você pode encontrar mais nomes de cores CSS [aqui](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
