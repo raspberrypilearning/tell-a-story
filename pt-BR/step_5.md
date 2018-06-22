@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Desafio: faça algumas alterações
 
 Edit the HTML and CSS code to customise your webpage.
 
