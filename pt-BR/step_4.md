@@ -1,4 +1,4 @@
-## Editing your story
+## Editando sua história
 
 Let's start by editing the HTML content and CSS style of the story's webpage.
 
