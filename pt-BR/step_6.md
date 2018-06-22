@@ -1,6 +1,6 @@
-## Telling your story
+## Contando sua história
 
-Let's add a second part to your story.
+Vamos adicionar uma segunda parte à sua história.
 
 + Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
