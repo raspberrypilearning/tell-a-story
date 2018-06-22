@@ -1,16 +1,16 @@
-## Uploading images
+## Carregando imagens
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Se você tem uma conta no Trinket**, você também pode carregar suas próprias imagens em sua página web.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Clique no ícone da imagem na parte superior do seu trinket, e depois clique **Adicionar Imagem**.
 
 ![screenshot](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Clique no botão **Carregar** e, em seguida, encontre em seu computador a imagem que você deseja usar e arraste-a para a caixa. Um outra alternativa é usar o botão para selecioná-la.
 
 ![Upload](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Agora, adicione o nome de sua nova imagem entre as aspas em sua tag `<img>`, desta forma:
 
 ```html
 <img src="buildings.png">
