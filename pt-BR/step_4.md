@@ -1,20 +1,20 @@
 ## Editando sua história
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Vamos começar editando o conteúdo HTML e CSS da página web da história.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Abra [este trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+O projeto deve se parecer com isto:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Encontre o conteúdo da página web a partir da linha 7, dentro das tags `<body>` e `</body>`.
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Veja se pode descobrir quais tags são usadas para criar as diferentes partes da página web.
 
 ## \--- collapse \---
 
