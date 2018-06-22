@@ -1,4 +1,4 @@
-## What you will need
+## O que você precisará
 
 ### Hardware
 
