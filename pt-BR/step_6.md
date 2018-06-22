@@ -2,19 +2,19 @@
 
 Vamos adicionar uma segunda parte à sua história.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Vá para a linha 15 do código e adicione outro conjunto de `<div>` e `</div>`, ou seja, tags de início e fim. Isso vai criar uma nova caixa para a próxima parte de sua história.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Adicione um parágrafo de texto dentro da sua nova tag `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Mais texto aqui!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Você pode exibir uma imagem em sua nova caixa adicionando este código dentro de sua tag `<div>`:
 
 ```html
 <img src="">
@@ -22,11 +22,11 @@ Vamos adicionar uma segunda parte à sua história.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Observe que as tags `<img>` são um pouco diferentes das outras tags: elas não tem uma tag final.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Para fazer uma imagem aparecer, você precisa colocar a **fonte** (`src`) da imagem dentro das aspas.
 
-Click the image icon to see the images available for your story.
+Clique no ícone de imagem para ver as imagens disponíveis para sua história.
 
 ![screenshot](images/story-see-images.png)
 
