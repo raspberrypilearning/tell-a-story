@@ -30,13 +30,13 @@ Clique no ícone de imagem para ver as imagens disponíveis para sua história.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Decida qual imagem você deseja adicionar e lembre seu nome, por exemplo `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Clique em `index.html` para voltar ao seu código.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Coloque o nome da imagem entre as aspas na tag `<img>`.
 
 ```html
 <img src="buildings.png">
