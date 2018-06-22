@@ -20,6 +20,6 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabrica
 
 ### Informação adicional para educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Se precisar imprimir este projeto, use a [versão de impressão](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para acessar o repositório deste projeto no GitHub, o qual contém todos os recursos (incluindo um exemplo de projeto finalizado) na pasta 'pt-br/recursos'.
