@@ -22,9 +22,9 @@ O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` é um **cabeçalho (heading)**. Você pode usar os números de 1 a 6 para criar cabeçalhos de diferentes tamanhos.
++ `<div>` é abreviação de **divisão**, e é uma maneira de agrupar coisas. Nesta página web, você a usará para agrupar todas as informações de cada parte da sua história.
++ `<img>` é uma **imagem (image)**.
++ `<p>` é um **parágrafo** de texto.
 
 \--- /collapse \---
