@@ -1,37 +1,37 @@
 ---
-hero_image: images/tell-a-story.png
-theme: green
+hero_image: images / tell-a-story.png
+theme: 緑
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+curriculum: 1、design-1、programming-0、phys-comp-0、製造-0、コミュニティ-0
+title: 話をする
+description: ストーリー、ジョーク、または詩を伝えるウェブページを作成する
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: literature
+interests: 文献
 technologies: html-css-javascript
-site_areas: projects
+site_areas: プロジェクト
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Introduction
+    title: 前書き
   - 
-    title: What you will need
+    title: あなたが必要とするもの
   - 
-    title: Decide on a story
+    title: 物語を決める
   - 
-    title: Editing your story
+    title: あなたの話を編集する
   - 
-    title: 'Challenge: make some changes'
+    title: '課題：いくつかの変更を加える'
   - 
-    title: Telling your story
+    title: あなたの話を伝える
   - 
-    title: Finding your own images
+    title: 自分の画像を見つける
   - 
-    title: Uploading images
+    title: 画像のアップロード
   - 
-    title: 'Challenge: keep going!'
+    title: '挑戦：続ける！'
