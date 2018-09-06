@@ -1,22 +1,22 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: make some changes
+## 課題：いくつかの変更を加える
 
-Edit the HTML and CSS code to customise your webpage.
+HTMLとCSSコードを編集してWebページをカスタマイズします。
 
-![screenshot](images/story-changes.png)
+![スクリーンショット](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+HTMLコンテンツは `index.html` ファイルにあり、CSSスタイルは `style.css` ファイルにあります。
 
-![screenshot](images/story-files.png)
+![スクリーンショット](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+Webページで使用される色を変更することもできます。また、次のような異なるフォントを使用することもできます。
 
 + <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
++ <span style="font-family: Comic Sans MS;">コミックサンズMS</span>
++ <span style="font-family: Impact;">影響</span>
++ <span style="font-family: Tahoma;">タホマ</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+より多くのCSSの色名検索 [ここでは](http://jumpto.cc/colours){：ターゲット= "_空白を"}。
 
-\--- /challenge \---
+\--- /チャレンジ\---
