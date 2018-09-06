@@ -1,10 +1,10 @@
-## Introduction
+## 前書き
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+このプロジェクトでは、自分のWebページを作成してストーリー、ジョーク、または詩を伝える方法を学びます。
 
-### What you will make
+### あなたが作るもの
 
-Scroll down in the trinket to see the punch line!
+小銭を下にスクロールしてパンチラインを見てください！
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### あなたが学ぶもの
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+このプロジェクトでは、 [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){：target = "_ blank"}の次の要素から構成されています。
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [基本的な2Dおよび3Dアセット](https://www.raspberrypi.org/curriculum/design/creator){：target = "_ blank"}を設計します。
 
-### Additional information for educators
+### 教育者のための追加情報
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョンを](https://projects.raspberrypi.org/en/projects/tell-a-story/print){：ターゲット=「_ブランク」}。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+フッターのリンクを使用して、このプロジェクトのGitHubリポジトリにアクセスします。このリポジトリには、 'en / resources'フォルダ内のすべてのリソース（完成プロジェクトの例を含む）が含まれています。
