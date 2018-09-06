@@ -1,15 +1,15 @@
-## Finding your own images
+## 自分の画像を見つける
 
-Let's find an image on the web to add to your story.
+あなたのストーリーに追加するウェブ上の画像を見つけましょう。
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ 移動します [このページ](http://jumpto.cc/html-images){：ターゲット=「_ブランク」}、あなたがあなたの物語に含める画像を見つけます。
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ 画像を右クリックし、[OK]をクリックします **コピーイメージURL** （または **コピー画像アドレス**使用しているコンピュータに応じて、）。 URLはイメージのアドレスです。
 
-![screenshot](images/story-url.png)
+![スクリーンショット](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ `index.html` ページに戻ります。
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ `<img>` タグのスピーチマークの間にURLを貼り付けます。あなたの画像が表示されるはずです！
 
-![screenshot](images/story-image.png)
+![スクリーンショット](images/story-image.png)
