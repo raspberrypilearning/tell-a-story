@@ -1,30 +1,30 @@
-## Editing your story
+## あなたの話を編集する
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+まず、ストーリーのWebページのHTMLコンテンツとCSSスタイルを編集してみましょう。
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ [この小物](http://jumpto.cc/web-story){{target = "_ blank"}にしてください。
 
-The project should look like this:
+プロジェクトは次のようになります。
 
-![screenshot](images/story-starter.png)
+![スクリーンショット](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+ウェブページのコンテンツは、 `index.html` HTMLドキュメントの `<body>` セクションにあります。
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ 7行目以降のWebページコンテンツを `<body>` と `</body>` タグ内で検索します。
 
-![screenshot](images/story-html.png)
+![スクリーンショット](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ ウェブページのさまざまな部分を作成するためにどのタグが使用されているか調べることができます。
 
-## \--- collapse \---
+## \---崩壊\---
 
-## title: Answer
+## タイトル：回答
 
-![screenshot](images/story-elements.png)
+![スクリーンショット](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` は **見出し**です。数字1〜6を使用して、さまざまなサイズの見出しを作成できます。
++ `<div>` は **分割**略であり、物をまとめてグループ化する方法です。このウェブページでは、ストーリーの各部分のすべてのものをまとめてグループ化するために使用します。
++ `<img>` は **画像**です。
++ `<p>` はテキストの **段落** です。
 
-\--- /collapse \---
+\--- /崩壊\---
