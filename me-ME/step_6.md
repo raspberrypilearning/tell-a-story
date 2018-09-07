@@ -24,7 +24,7 @@ Dodajmo drugi dio priče.
 
 Primijeti da su oznake `<img>` malo drugačije od ostalih oznaka: nemaju završnu oznaku.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Da bi se slika pojavila, potrebno je da između navodnika dodaš **izvor** (`src`) slike.
 
 Click the image icon to see the images available for your story.
 
