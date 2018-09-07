@@ -8,8 +8,8 @@ Hajde da na internetu pronađemo sliku koju ćemo dodati u tvoju priču.
 
 ![screenshot](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Vrati se na svoju stranicu `index.htm`.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Zalijepi URL između navodnika unutar svoje oznake `<img>`. Trebalo bi da se pojavi tvoja slika!
 
 ![screenshot](images/story-image.png)
