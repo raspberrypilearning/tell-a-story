@@ -4,11 +4,11 @@ Započnimo sa uređivanjem HTML sadržaja i CSS stila veb-stranice.
 
 + Otvori [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Projekat treba da izgleda ovako:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Sadržaj veb-stranice nalazi se u odjeljku `<body>` u `index.html` HTML dokumenta.
 
 + Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
