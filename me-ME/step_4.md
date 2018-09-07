@@ -23,7 +23,7 @@ Sadržaj veb-stranice nalazi se u odjeljku `<body>` u `index.html` HTML dokument
 ![screenshot](images/story-elements.png)
 
 + `<h1>` je **heading** (naslov). Za kreiranje naslova različitih veličina možeš da koristiš brojeve od 1 do 6.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<div>` je skraćenica za **division** (odjeljak) i koristi se za grupisanje elemenata. Na ovoj veb-stranici koristićeš je da grupišeš sve elemente svakog od dijelova svoje priče.
 + `<img>` is an **image**.
 + `<p>` is a **paragraph** of text.
 
