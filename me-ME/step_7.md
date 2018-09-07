@@ -10,6 +10,6 @@ Hajde da na internetu pronađemo sliku koju ćemo dodati u tvoju priču.
 
 + Vrati se na svoju stranicu `index.htm`.
 
-+ Zalijepi URL između navodnika unutar svoje oznake `<img>`. Trebalo bi da se pojavi tvoja slika!
++ Unesi URL između navodnika unutar svoje oznake `<img>`. Trebalo bi da se pojavi tvoja slika!
 
 ![screenshot](images/story-image.png)
