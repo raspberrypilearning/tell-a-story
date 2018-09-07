@@ -1,4 +1,4 @@
-## Telling your story
+## Pričanje priče
 
 Let's add a second part to your story.
 
