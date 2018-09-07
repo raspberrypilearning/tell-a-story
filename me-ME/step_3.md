@@ -1,4 +1,4 @@
-## Decide on a story
+## Odluči o čemu ćeš pisati
 
 Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
