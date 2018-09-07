@@ -14,15 +14,15 @@ Sadržaj veb-stranice nalazi se u odjeljku `<body>` u `index.html` HTML dokument
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Pokušaj da otkriješ koje oznake se koriste za kreiranje različitih dijelova veb-stranice.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Odgovor
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<h1>` je **heading** (naslov). Za kreiranje naslova različitih veličina možeš da koristiš brojeve od 1 do 6.
 + `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
 + `<img>` is an **image**.
 + `<p>` is a **paragraph** of text.
