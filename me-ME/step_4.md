@@ -10,7 +10,7 @@ Projekat treba da izgleda ovako:
 
 Sadržaj veb-stranice nalazi se u odjeljku `<body>` u `index.html` HTML dokumenta.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Nađi sadržaj veb-stranice od 7. reda nadalje, unutar oznaka `<body>` i `</body>`.
 
 ![screenshot](images/story-html.png)
 
