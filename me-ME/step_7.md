@@ -1,8 +1,8 @@
-## Finding your own images
+## Pronalaženje sopstvene slike
 
-Let's find an image on the web to add to your story.
+Hajde da na internetu pronađemo sliku koju ćemo dodati u tvoju priču.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Idi na [ovu stranicu](http://jumpto.cc/html-images){:target="_blank"} i pronađi sliku koju želiš da dodaš u svoju priču.
 
 + Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
