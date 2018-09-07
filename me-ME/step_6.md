@@ -14,7 +14,7 @@ Dodajmo drugi dio priče.
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ U svoje novo polje možeš da dodaš i sliku tako što ćeš dodati sljedeći kôd unutar oznake `<div>`:
 
 ```html
 <img src="">
@@ -22,7 +22,7 @@ Dodajmo drugi dio priče.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Primijeti da su oznake `<img>` malo drugačije od ostalih oznaka: nemaju završnu oznaku.
 
 + To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
