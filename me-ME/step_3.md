@@ -1,6 +1,6 @@
-## Odluči o čemu ćeš pisati
+## Odaberi priču
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Prije nego što započneš kodiranje, treba da odabereš priču. Razmisli o priči koju želiš da ispričaš. To može biti:
 
 + A famous story
 + A story you have made up
