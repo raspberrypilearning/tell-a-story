@@ -1,8 +1,8 @@
 ## Uređivanje priče
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Započnimo sa uređivanjem HTML sadržaja i CSS stila veb-stranice.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Otvori [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
 The project should look like this:
 
