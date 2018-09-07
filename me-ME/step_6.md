@@ -2,14 +2,14 @@
 
 Dodajmo drugi dio priče.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Idi u 15. red kôda i dodaj još jedan par oznaka, početnu `<div>` i završnu `</div>`. Tako ćeš kreirati novo polje za sljedeći dio tvoje priče.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Dodaj pasus teksta unutar svoje nove `<div>` oznake:
 
 ```html
-<p>More text here!</p>
+<p>Još teksta ovdje!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
