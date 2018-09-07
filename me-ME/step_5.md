@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Izazov: napravi nekoliko izmjena
 
 Edit the HTML and CSS code to customise your webpage.
 
