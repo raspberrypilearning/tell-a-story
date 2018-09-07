@@ -1,8 +1,8 @@
-## Uploading images
+## Prenošenje slika
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Ako imaš Trinket nalog**, možeš takođe da prenosiš sopstvene slike na svoju veb-stranicu.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Klikni na ikonu za slike koja se nalazi u gornjem dijelu tvog trinketa, a zatim klikni na **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
