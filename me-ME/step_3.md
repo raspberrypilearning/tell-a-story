@@ -6,4 +6,4 @@ Prije nego što započneš kodiranje, treba da odabereš priču. Razmisli o pri�
 + Priča koju si izmislio/izmislila
 + Nešto što se dogodilo tebi ili nekome koga poznaješ
 
-Ne mora da bude samo priča. Može da bude šala, pjesma ili bilo šta drugo što želiš!
+Ne mora čak ni da bude priča. Može da bude šala, pjesma ili bilo šta drugo što želiš!
