@@ -1,6 +1,6 @@
 ## Uvod
 
-U ovom projektu naučićeš da napraviš svoju veb-stranicu za pričanje priče, šale ili pjesme.
+U ovom projektu naučićeš kako da napraviš sopstvenu veb-stranicu za pričanje priče, šale ili pjesme.
 
 ### Šta ćeš napraviti
 
