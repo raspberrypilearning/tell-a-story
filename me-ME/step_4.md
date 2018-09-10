@@ -8,7 +8,7 @@ Projekat treba da izgleda ovako:
 
 ![screenshot](images/story-starter.png)
 
-Sadržaj veb-stranice nalazi se u odjeljku `<body>` u `index.html` HTML dokumenta.
+Sadržaj veb-stranice unosi se u odjeljak `<body>`, u `index.html` HTML dokumenta.
 
 + Nađi sadržaj veb-stranice od 7. reda nadalje, unutar oznaka `<body>` i `</body>`.
 
