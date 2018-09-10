@@ -4,7 +4,7 @@ U ovom projektu naučićeš kako da napraviš sopstvenu veb-stranicu za pričanj
 
 ### Šta ćeš napraviti
 
-Listaj nadolje u trinketu da vidiš kraj priče!
+Listaj nadolje u trinketu da vidiš kraj!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
