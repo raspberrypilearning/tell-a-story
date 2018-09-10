@@ -1,6 +1,6 @@
 ## Uređivanje priče
 
-Započnimo sa uređivanjem HTML sadržaja i CSS stila veb-stranice.
+Počnimo sa uređivanjem HTML sadržaja i CSS stila veb-stranice za priču.
 
 + Otvori [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
