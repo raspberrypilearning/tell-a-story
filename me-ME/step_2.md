@@ -2,7 +2,7 @@
 
 ### Hardver
 
-+ Računar na kojem je dostupan [trinket.io](https://trinket.io){:target="_blank"}
++ Računar sa pristupom sajtu [trinket.io](https://trinket.io){:target="_blank"}
 
 ### Software
 
