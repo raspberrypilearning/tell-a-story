@@ -9,9 +9,9 @@ curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Cuenta una Historia
 description: Crea una página web que narre una historia, broma o poema.
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: literature
+interests: literatura
 technologies: html-css-javascript
-site_areas: projects
+site_areas: proyectos
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -30,8 +30,8 @@ steps:
   - 
     title: 'Desafío: ¡Continuamos!'
   - 
-    title: Finding your own images
+    title: Encontrar tus propias imágenes
   - 
-    title: Uploading images
+    title: Subir las imágenes
   - 
-    title: 'Challenge: keep going!'
+    title: 'Desafío: sigue adelante!'
