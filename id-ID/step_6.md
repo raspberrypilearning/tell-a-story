@@ -1,45 +1,45 @@
-## Telling your story
+## Menceritakan kisah Anda
 
-Let's add a second part to your story.
+Mari tambahkan bagian kedua ke cerita Anda.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Pergi ke baris 15 dari kode, dan tambahkan lagi set `<div>` dan `</div>` awal dan akhir tag. Ini akan membuat kotak baru untuk bagian selanjutnya dari cerita Anda.
 
-![screenshot](images/story-div.png)
+![tangkapan layar](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Tambahkan paragraf teks di dalam tag `<div>` baru Anda:
 
 ```html
-<p>More text here!</p>
+<p>Lebih banyak teks di sini!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![tangkapan layar](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Anda dapat menampilkan gambar di kotak baru Anda dengan menambahkan kode ini di dalam tag `<div>`:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![tangkapan layar](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Perhatikan bahwa tag `<img>` sedikit berbeda dengan tag lain: tag tidak memiliki tag akhir.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Agar gambar muncul, Anda perlu menambahkan **sumber** (`src`) dari gambar di dalam tanda ucapan.
 
-Click the image icon to see the images available for your story.
+Klik ikon gambar untuk melihat gambar yang tersedia untuk cerita Anda.
 
-![screenshot](images/story-see-images.png)
+![tangkapan layar](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Tentukan gambar mana yang ingin Anda tambahkan dan ingat namanya, misalnya `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Klik pada `index.html` untuk kembali ke kode Anda.
 
-![screenshot](images/story-image-name.png)
+![tangkapan layar](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Tambahkan nama gambar di antara tanda ucapan di tag `<img>`.
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![tangkapan layar](images/story-image-name-add.png)
