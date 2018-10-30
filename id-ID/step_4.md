@@ -1,30 +1,30 @@
-## Editing your story
+## Mengedit cerita Anda
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Mari kita mulai dengan mengedit konten HTML dan gaya CSS dari halaman web cerita.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Buka [trinket ini](http://jumpto.cc/web-story){: target = "_ blank"}.
 
-The project should look like this:
+Proyek akan terlihat seperti ini:
 
-![screenshot](images/story-starter.png)
+![tangkapan layar](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Konten halaman web masuk ke bagian `<body>` dari `index.html` dokumen HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Temukan konten halaman web dari baris 7 dan seterusnya, di dalam tag `<body>` dan `</body>`.
 
-![screenshot](images/story-html.png)
+![tangkapan layar](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Lihat apakah Anda dapat menentukan tag mana yang digunakan untuk membuat bagian berbeda dari halaman web.
 
-## \--- collapse \---
+## \--- jatuh \---
 
-## title: Answer
+## judul: Jawaban
 
-![screenshot](images/story-elements.png)
+![tangkapan layar](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` adalah **pos**. Anda dapat menggunakan angka 1 hingga 6 untuk membuat judul dengan ukuran berbeda.
++ `<div>` kependekan untuk **divisi**, dan merupakan cara mengelompokkan hal-hal bersama. Di halaman web ini, Anda akan menggunakannya untuk mengelompokkan semua hal untuk setiap bagian dari cerita Anda.
++ `<img>` adalah **gambar**.
++ `<p>` adalah **paragraf** dari teks.
 
-\--- /collapse \---
+\--- /jatuh \---
