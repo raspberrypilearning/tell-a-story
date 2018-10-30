@@ -1,30 +1,30 @@
-## Editing your story
+## 이야기 수정하기
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+이야기 웹 페이지에서 HTML 콘텐츠와 CSS 스타일을 수정해 보도록 하겠습니다.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ [trinket 열기](http://jumpto.cc/web-story){:target="_blank"}
 
-The project should look like this:
+프로젝트는 아래와 같이 보일 것입니다:
 
-![screenshot](images/story-starter.png)
+![스크린샷](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+웹 페이지의 내용은 `index.html`의 `<body>` 섹션에 있습니다.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ 웹페이지 내용은 7번 내용부터이며, `<body>`와 `</body>` 태그 사이에 있습니다.
 
-![screenshot](images/story-html.png)
+![스크린샷](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ 각각의 내용들이 어떤 태그에 해당되는지 확인해 보세요.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: 정답
 
-![screenshot](images/story-elements.png)
+![스크린샷](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>`은 **제목**입니다. 1에서 6까지의 숫자를 사용하여 다양한 크기의 제목을 만들 수 있습니다.
++ `<div>`은 **division**의 약자로, 레이아웃을 나누는데 주로 쓰입니다. 이 웹페이지에서 이야기의 각 부분에 대한 자료를 그룹화하는데 사용합니다.
++ `<img>`는 **이미지**를 삽입하는 태그입니다. src 속성을 통해 이미지 경로를 지정합니다.
++ `<p>`은 **문단**의 약자로, 하나의 문단을 만들 때 쓰입니다.
 
 \--- /collapse \---
