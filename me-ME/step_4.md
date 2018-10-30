@@ -8,7 +8,7 @@ Projekat treba da izgleda ovako:
 
 ![screenshot](images/story-starter.png)
 
-Sadržaj veb-stranice unosi se u odjeljak `<body>`, u `index.html` HTML dokumenta.
+Sadržaj veb-stranice unosi se u dio `<body>` HTML dokumenta `index.html`.
 
 + Nađi sadržaj veb-stranice od 7. reda nadalje, unutar oznaka `<body>` i `</body>`.
 
@@ -23,7 +23,7 @@ Sadržaj veb-stranice unosi se u odjeljak `<body>`, u `index.html` HTML dokument
 ![screenshot](images/story-elements.png)
 
 + `<h1>` je **heading** (naslov). Za kreiranje naslova različitih veličina možeš da koristiš brojeve od 1 do 6.
-+ `<div>` je skraćenica za **division** (odjeljak) i to je način grupisanja stvari. Na ovoj veb-stranici koristićeš je da grupišeš elemente za svaki dio svoje priče.
++ `<div>` je skraćenica za **division** (odjeljak) i koristi se za grupisanje stvari. Na ovoj veb-stranici odjeljak ćeš koristiti da grupišeš elemente za svaki dio svoje priče.
 + `<img>` je **image** (slika).
 + `<p>` je **paragraph** (pasus) teksta.
 
