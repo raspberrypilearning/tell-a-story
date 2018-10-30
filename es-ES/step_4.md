@@ -1,30 +1,30 @@
-## Editing your story
+## Editando tu historia
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Empecemos por editar el contenido HTML y el estilo CSS de la página web de la historia.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Abre [este trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+El proyecto debe verse así:
 
-![screenshot](images/story-starter.png)
+![captura de pantalla](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+El contenido de la página web va en la `<body>`sección del documento HTML `index.html`.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y ` </body>`.
 
-![screenshot](images/story-html.png)
+![captura de pantalla](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Fíjate si puedes averiguar qué etiquetas se utilizan para crear las diferentes partes de la página web.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Respuesta
 
-![screenshot](images/story-elements.png)
+![captura de pantalla](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` es un encabezado ** **. Puedes usar los números del 1 al 6 para crear encabezados de diferentes tamaños.
++ `<div>` es la abreviatura de **division**, y es una forma de agrupar cosas. En esta página web, la usarás para agrupar todas las cosas de cada parte de tu historia.
++ `<img>`es **image**, una imagen.
++ `<p>`es un **paragraph**, un párrafo de texto.
 
 \--- /collapse \---
