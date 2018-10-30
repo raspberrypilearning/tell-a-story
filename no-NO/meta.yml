@@ -1,0 +1,37 @@
+---
+hero_image: bilder / tips story.png
+theme: grønn
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programmering-0, phys-comp-0, produksjon-0, fellesskap-0
+title: Fortell en historie
+description: Lag en nettside for å fortelle en historie, spøk eller dikt
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: litteratur
+technologies: html-css-javascript
+site_areas: prosjekter
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
+steps:
+  - 
+    title: Introduksjon
+  - 
+    title: Hva du trenger
+  - 
+    title: Bestem deg en historie
+  - 
+    title: Redigerer historien din
+  - 
+    title: 'Utfordring: gjør noen endringer'
+  - 
+    title: Forteller historien din
+  - 
+    title: Finne dine egne bilder
+  - 
+    title: Laster opp bilder
+  - 
+    title: 'Utfordring: Fortsett!'
