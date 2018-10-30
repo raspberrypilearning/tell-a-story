@@ -2,11 +2,11 @@
 
 ## Izazov: napravi nekoliko izmjena
 
-Uredi HTML i CSS kôdove da prilagodiš veb-stranicu svojim željama.
+Uredi HTML kôd i CSS kôd da prilagodiš veb-stranicu svojim željama.
 
 ![screenshot](images/story-changes.png)
 
-HTML sadržaj nalazi se u datoteci `index.html`, a CSS stil u datoteci `style.css`.
+HTML sadržaj nalazi se u `index.html` datoteci, a CSS stil u `style.css` datoteci.
 
 ![screenshot](images/story-files.png)
 
