@@ -1,22 +1,22 @@
-\--- challenge \---
+\--- tantangan \---
 
-## Challenge: make some changes
+## Tantangan: buat beberapa perubahan
 
-Edit the HTML and CSS code to customise your webpage.
+Edit kode HTML dan CSS untuk menyesuaikan halaman web Anda.
 
-![screenshot](images/story-changes.png)
+![tangkapan layar](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+Konten HTML dapat ditemukan di file `index.html` , dan gaya CSS dalam `file style.css`.
 
-![screenshot](images/story-files.png)
+![tangkapan layar](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+Anda juga dapat mengubah warna yang digunakan di halaman web, dan Anda dapat menggunakan font yang berbeda seperti:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Impact;">Dampak</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Temukan lebih banyak nama warna CSS [sini](http://jumpto.cc/colours){: target = "_ blank"}.
 
-\--- /challenge \---
+\--- / tantangan \---
