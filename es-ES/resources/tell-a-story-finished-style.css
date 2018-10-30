@@ -1,10 +1,10 @@
 body {
-  background-color: lightblue;
+  background-color: lightgreen;
   font-family: Comic Sans MS;
 }
 div {
   display: inline-block;
-  position: relative;
+  posición: relativa;
   overflow: hidden;
   margin: 2px;
   background-color: lightyellow;
@@ -15,7 +15,7 @@ div {
 p {
   position: absolute;
   background-color: white;
-  bottom:-1em;
+  bottom: 1px;
   border-top: 2px solid black;
   border-right: 2px solid black;
   padding: 5px;
