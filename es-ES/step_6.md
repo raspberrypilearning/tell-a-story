@@ -1,45 +1,45 @@
-## Telling your story
+## Cuenta tu historia
 
-Let's add a second part to your story.
+Agreguemos una segunda parte a tu historia.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Ve a la línea 15 del código y agrega otro conjunto de etiquetas `<div>` y ` </div>` de inicio y finalización. Esto creará una nueva caja para la siguiente parte de tu historia.
 
-![screenshot](images/story-div.png)
+![captura de pantalla](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Agrega un párrafo de texto dentro de tu nueva etiqueta `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>¡Más texto aquí!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![captura de pantalla](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Puedse mostrar una imagen en tu nueva caja agregando este código dentro de tu etiqueta `<div>`:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![captura de pantalla](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Ten en cuenta que las etiquetas `<img>` son un poco diferentes a otras etiquetas: no tienen una etiqueta final.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Para que aparezca una imagen, debes agregar el **origen** (` src `) de la imagen dentro de las comillas.
 
-Click the image icon to see the images available for your story.
+Haz clic en el icono de imagen para ver las imágenes disponibles para tu historia.
 
-![screenshot](images/story-see-images.png)
+![captura de pantalla](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Decide qué imagen deseas agregar y recuerda su nombre, por ejemplo, `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Haz clic en `index.html` para volver a tu código.
 
-![screenshot](images/story-image-name.png)
+![captura de pantalla](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Agrega el nombre de la imagen entre las comillas en tu etiqueta `<img>`.
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![captura de pantalla](images/story-image-name-add.png)
