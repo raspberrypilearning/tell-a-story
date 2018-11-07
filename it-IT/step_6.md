@@ -1,12 +1,12 @@
-## Telling your story
+## Racconta la tua storia
 
-Let's add a second part to your story.
+Aggiungiamo una seconda parte alla tua storia.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Vai alla riga 15 del codice e aggiungi un'altra coppia di tag di inizio `<div>` e di fine `</div>`. Questo creerà un nuovo "contenitore" per la parte successiva della tua storia.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Aggiungi un paragrafo di testo nel tag `<div>`:
 
 ```html
 <p>More text here!</p>
