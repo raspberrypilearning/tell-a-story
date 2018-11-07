@@ -1,10 +1,10 @@
-## Introduction
+## Introduzione
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+In questo progetto, imparerai a creare la tua pagina web per raccontare una storia, barzelletta, o poesia.
 
-### What you will make
+### Cosa farai
 
-Scroll down in the trinket to see the punch line!
+Scorri verso il basso nel trinket per vedere come finisce la storia!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,12 +14,12 @@ Scroll down in the trinket to see the punch line!
 
 ### What you will learn
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Questo progetto include argomenti dai seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Risorse base di design 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Informazioni aggiuntive per gli educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target = "_ blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Clicca il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
