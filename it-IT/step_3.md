@@ -1,9 +1,9 @@
-## Decide on a story
+## Scegli la storia
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Prima di programmare, dovrai scegliere una storia. Pensa a cosa vuoi raccontare. Potrebbe essere:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Una storia famosa
++ Una storia che hai inventato
++ Qualcosa che è successo a te o a qualcuno che conosci
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Non deve nemmeno essere una storia. Potrebbe essere una barzelletta, una poesia o qualsiasi altra cosa tu voglia!
