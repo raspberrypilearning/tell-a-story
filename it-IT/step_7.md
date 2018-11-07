@@ -1,8 +1,8 @@
-## Finding your own images
+## Cerca le tue immagini
 
-Let's find an image on the web to add to your story.
+Cerchiamo un'immagine su Internet da aggiungere alla tua storia.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Vai su [questa pagina](http://jumpto.cc/html-images){:target="_blank"}, e trova un'immagine che vuoi includere nella tua storia.
 
 + Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
