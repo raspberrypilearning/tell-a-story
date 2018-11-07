@@ -9,12 +9,12 @@ Aggiungiamo una seconda parte alla tua storia.
 + Aggiungi un paragrafo di testo nel tag `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Altro testo qui!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Puoi mostrare un'immagine nel tuo nuovo contenitore aggiunge questo codice nel tag `<div>`:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Aggiungiamo una seconda parte alla tua storia.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Guarda che i tag `<img>` sono un po' diversi dagli altri: non hanno un tag di fine.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Per far visualizzare un'immagine, devi aggiungere la **sorgente** (`src`) dell'immagine dentro le virgolette.
 
-Click the image icon to see the images available for your story.
+Clicca sull'icona delle immagini per vedere le immagini disponibili per la tua storia.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Decidi quale immagine aggiungere e ricordati il suo nome, per esempio `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Clicca su `index.html` per tornare al tuo codice.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Aggiungi il nome dell'immagine tra le virgolette nel tuo tag `<img>`.
 
 ```html
 <img src="buildings.png">
