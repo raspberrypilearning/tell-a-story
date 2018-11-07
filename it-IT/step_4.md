@@ -1,30 +1,30 @@
-## Editing your story
+## Fai modifiche alla tua storia
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Iniziamo modificando il contenuto HTML e lo stile CSS della pagina web della storia.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Apri [questo trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Il progetto dovrebbe assomigliare a questo:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Il contenuto della pagina web va nella sezione `<body>` del documento HTML `index.html`.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Troverai il contenuto della pagina web dalla riga 7 in poi, dentro i tag `<body>` e `</body>`.
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Prova a capire quali sono i tag da usare per creare le diverse parti della pagina web.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Risposta
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` è un'**intestazione**. Puoi usare i numeri da 1 a 6 per creare intestazioni di misure differenti.
++ `<div>` è l'abbreviazione di **divisore** ed è un modo di raggruppare vari elementi. In questa pagina, lo userai per mettere insieme tutti gli elementi di ogni parte della tua storia.
++ `<img>` è un'**immagine**.
++ `<p>` è un **paragrafo** del testo.
 
 \--- /collapse \---
