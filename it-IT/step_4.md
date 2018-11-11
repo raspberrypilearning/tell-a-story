@@ -1,4 +1,4 @@
-## Fai modifiche alla tua storia
+## Fare modifiche alla tua storia
 
 Iniziamo modificando il contenuto HTML e lo stile CSS della pagina web della storia.
 
