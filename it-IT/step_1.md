@@ -1,6 +1,6 @@
 ## Introduzione
 
-In questo progetto, imparerai a creare la tua pagina web per raccontare una storia, barzelletta, o poesia.
+In questo progetto, imparerai a creare la tua pagina web per raccontare una storia, barzelletta o poesia.
 
 ### Cosa farai
 
@@ -12,7 +12,7 @@ Scorri verso il basso nel trinket per vedere come finisce la storia!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Che cosa imparerai
 
 Questo progetto include argomenti dai seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -22,4 +22,4 @@ Questo progetto include argomenti dai seguenti componenti del [Raspberry Pi Digi
 
 Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target = "_ blank"} .
 
-Clicca il link a piè di pagina per accedere alla repository di GitHub relativa a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
+Clicca il link a piè di pagina per accedere al repository di GitHub relativo a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.
