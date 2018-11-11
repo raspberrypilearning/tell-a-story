@@ -6,7 +6,7 @@ Aggiungiamo una seconda parte alla tua storia.
 
 ![screenshot](images/story-div.png)
 
-+ Aggiungi un paragrafo di testo nel tag `<div>`:
++ Aggiungi un paragrafo di testo nel nuovo tag `<div>`:
 
 ```html
 <p>Altro testo qui!</p>
@@ -14,7 +14,7 @@ Aggiungiamo una seconda parte alla tua storia.
 
 ![screenshot](images/story-paragraph.png)
 
-+ Puoi mostrare un'immagine nel tuo nuovo contenitore aggiunge questo codice nel tag `<div>`:
++ Puoi inserire un'immagine nel tuo nuovo contenitore aggiungendo questo codice nel tag `<div>`:
 
 ```html
 <img src="">
@@ -22,9 +22,9 @@ Aggiungiamo una seconda parte alla tua storia.
 
 ![screenshot](images/story-img-tag.png)
 
-Guarda che i tag `<img>` sono un po' diversi dagli altri: non hanno un tag di fine.
+Fai attenzione che i tag `<img>` sono un po' diversi dagli altri: non hanno un tag di fine.
 
-+ Per far visualizzare un'immagine, devi aggiungere la **sorgente** (`src`) dell'immagine dentro le virgolette.
++ Per rendere visibile un'immagine, devi aggiungere la **posizione d'origine** (`src`) dell'immagine dentro le virgolette.
 
 Clicca sull'icona delle immagini per vedere le immagini disponibili per la tua storia.
 
