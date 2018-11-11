@@ -1,4 +1,4 @@
-## Cerca le tue immagini
+## Cercare le tue immagini
 
 Cerchiamo un'immagine su Internet da aggiungere alla tua storia.
 
