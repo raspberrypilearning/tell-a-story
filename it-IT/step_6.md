@@ -1,4 +1,4 @@
-## Racconta la tua storia
+## Raccontare la tua storia
 
 Aggiungiamo una seconda parte alla tua storia.
 
