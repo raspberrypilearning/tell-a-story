@@ -17,6 +17,6 @@ Võid ka muuta veebilehel kasutatud värve ja kasutada erinevaid fonte, näiteks
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Leia rohkem CSS-i värvimärke [siin](http://jumpto.cc/colours){: target = "_ blank"}.
+Leia rohkem CSS-i värvinimesid [siit](http://jumpto.cc/colours){: target = "_ blank"}.
 
 \--- /challenge \---
