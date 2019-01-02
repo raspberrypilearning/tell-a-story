@@ -30,7 +30,7 @@ Klõpsa pildiikoonil, et näha oma loo jaoks saadaval olevaid pilte.
 
 ![kuvatõmmis](images/story-see-images.png)
 
-+ Otsusta, millise pildi soovid lisada ja jäta selle nimi meelde, näiteks `ehitised.png`.
++ Otsusta, millise pildi soovid lisada ja jäta selle nimi meelde, näiteks `buildings.png`.
 
 + Koodi vaatamiseks klõpsa `index.html`-il, et oma koodi juurde tagasi jõuda.
 
