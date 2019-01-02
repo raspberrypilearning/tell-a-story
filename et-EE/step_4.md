@@ -24,7 +24,7 @@ Veebilehe sisu läheb `&lt;body&gt;` jaotisesse `index.html` HTML-dokumendis.
 
 + `&lt;h1&gt;` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
 + `&lt;div&gt;` on lühend **jaotamisele**ja see on moodus asjade rühmitamiseks. Sellel veebilehel saad seda kasutada, et rühmitada kõik asjad oma loo iga osa jaoks.
-+ `<img>` on **kujutist**.
-+ `<p>` on teksti **lõige**.
++ `&lt;img&gt;` on **kujutis**.
++ `&lt;p&gt;` on teksti **lõik**.
 
-\--- / kollaps \---
+\--- /collapse \---
