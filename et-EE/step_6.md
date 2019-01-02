@@ -6,40 +6,40 @@ Lisame su loole teise osa.
 
 ![kuvatõmmis](images/story-div.png)
 
-+ Lisage uus lõik `<div>` tag:
++ Lisa oma uue sildi `&lt;div&gt;` sisse tekstilõik:
 
 ```html
-<p>veel teksti siia!</p>
+&lt;p&gt;Veel teksti siia!&lt;/p&gt;
 ```
 
-![ekraanipilt](images/story-paragraph.png)
+![kuvatõmmis](images/story-paragraph.png)
 
-+ Uue kastiga saate pilti kuvada, lisades selle koodi oma `<div>` sildi sees:
++ Uues kastis saad kuvada pildi, lisades selle koodi oma `&lt;div&gt;` sildi sees:
 
 ```html
-<img src="">
+&lt;img src=""&gt;
 ```
 
-![ekraanipilt](images/story-img-tag.png)
+![kuvatõmmis](images/story-img-tag.png)
 
-Pange tähele, et `<img>` sildid on teistest siltidest veidi erinevad: neil pole lõppmärki.
+Pane tähele, et `&lt;img&gt;` sildid on teistest siltidest veidi erinevad: neil pole lõppsilti.
 
-+ Pildi kuvamiseks, mis kuvatakse, peate lisama sõnaraamatus oleva pildi **allika** (`src`).
++ Pildi kuvamiseks pead lisama pildi **allika**(`src`) jutumärkide vahele.
 
-Klõpsake pildiikoonil, et vaadata oma lugu jaoks saadaval olevaid pilte.
+Klõpsa pildiikoonil, et näha oma loo jaoks saadaval olevaid pilte.
 
-![ekraanipilt](images/story-see-images.png)
+![kuvatõmmis](images/story-see-images.png)
 
-+ Otsustage, millist pilti soovite lisada ja oma nime meeldetuletuseks, näiteks `buildings.png`.
++ Otsusta, millise pildi soovid lisada ja jäta selle nimi meelde, näiteks `ehitised.png`.
 
-+ Koodi vaatamiseks klikkige `index.html`.
++ Koodi vaatamiseks klõpsa `index.html`-il, et oma koodi juurde tagasi jõuda.
 
-![ekraanipilt](images/story-image-name.png)
+![kuvatõmmis](images/story-image-name.png)
 
-+ Lisage oma pildil `<img>` märgi kõnemärkide nimed.
++ Lisa pildi nimi oma `&lt;img&gt;` sildis olevate jutumärkide vahele.
 
 ```html
-<img src="buildings.png">
+&lt;img src="buildings.png"&gt;
 ```
 
-![ekraanipilt](images/story-image-name-add.png)
+![kuvatõmmis](images/story-image-name-add.png)
