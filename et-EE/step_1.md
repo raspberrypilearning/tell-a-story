@@ -1,8 +1,8 @@
 ## Sissejuhatus
 
-Selles projektis saate teada, kuidas oma veebilehte luua, et jutustada lugu, nalja või luuletust.
+Selles projektis saad teada, kuidas oma veebilehte luua, et rääkida lugu, nali või luuletus.
 
-### Mida teete
+### Mida sa teed
 
 Hüppeliinide vaatamiseks klikkige ninakinnitusega!
 
