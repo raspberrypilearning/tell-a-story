@@ -1,6 +1,6 @@
-## Otsustage lugu
+## Otsusta, mis lugu rääkida
 
-Enne koodi saamist peate otsima lugu. Mõelge loo kohta, mida soovite öelda. See võib olla:
+Enne kodeerimise alustamist pead otsima loo. Mõtle loo peale, mida soovid rääkida. See võib olla:
 
 + Kuulus lugu
 + Lugu, mille olete teinud
