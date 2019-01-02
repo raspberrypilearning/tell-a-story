@@ -12,17 +12,17 @@ Veebilehe sisu läheb `&lt;body&gt;` jaotisesse `index.html` HTML-dokumendis.
 
 + Veebilehe sisu leiad alates 7. reast, `&lt;body&gt;` ja `&lt;/body&gt;` siltide seest.
 
-![ekraanipilt](images/story-html.png)
+![kuvatõmmis](images/story-html.png)
 
-+ Vaadake, kas saate välja selgitada, milliseid sildid veebi erinevate osade loomiseks kasutatakse.
++ Vaata, kas suudad välja mõelda, milliseid silte veebilehe erinevate osade loomiseks kasutatakse.
 
-## \--- kokkuvarisemine \---
+## \--- collapse \---
 
-## pealkiri: Vastus
+## title: Vastus
 
-![ekraanipilt](images/story-elements.png)
+![kuvatõmmis](images/story-elements.png)
 
-+ `<h1>` on **rubriiki**. Võite kasutada numbreid 1 kuni 6 erinevate suuruste rubriikide loomiseks.
++ `&lt;h1&gt;` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
 + `<div>` on lühike **jagunemisele**ja see on moodus rühmitada asjad kokku. Sellel veebilehel saate seda kasutada, et rühmitada kõik lugu iga osa kohta.
 + `<img>` on **kujutist**.
 + `<p>` on teksti **lõige**.
