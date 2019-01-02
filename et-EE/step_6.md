@@ -1,6 +1,6 @@
-## Räägib oma lugu
+## Oma loo rääkimine
 
-Lisame teie loole teise osa.
+Lisame su loole teise osa.
 
 + Minge koodi reale 15 ja lisage teise komplekti `<div>` ja `</div>` sildi algus ja lõpp. See loob uue lindi järgmise osa.
 
