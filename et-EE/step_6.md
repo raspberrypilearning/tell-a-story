@@ -2,7 +2,7 @@
 
 Lisame su loole teise osa.
 
-+ Minge koodi reale 15 ja lisage teise komplekti `<div>` ja `</div>` sildi algus ja lõpp. See loob uue lindi järgmise osa.
++ Mine koodi 15. reale ja lisa teine komplekt `&lt;div&gt;` ja `&lt;/div&gt;` algus- ja lõppsilte. See loob uue kasti sinu loo järgmise osa jaoks.
 
 ![ekraanipilt](images/story-div.png)
 
