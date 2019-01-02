@@ -1,14 +1,14 @@
-## Oma lugu redigeerides
+## Oma loo muutmine
 
-Alustame HTML-i sisu ja lugu veebisaidi CSS-stiili muutmisega.
+Alustame loo veebilehe HTML-sisu ja CSS-stiili muutmisega.
 
-+ Avage [see nipsutaja](http://jumpto.cc/web-story){: target = "_ blank"}.
++ Ava [see trinket](http://jumpto.cc/web-story){:target ="_blank"}.
 
-Projekt peaks olema selline:
+Projekt peaks välja nägema selline:
 
-![ekraanipilt](images/story-starter.png)
+![kuvatõmmis](images/story-starter.png)
 
-Veebilehe sisu läheb `index.html` HTML-i dokumendi jaotisesse `<body>`.
+Veebilehe sisu läheb `&lt;body&gt;` jaotisesse `index.html` HTML-dokumendis.
 
 + Veebilehe sisu leiate rida 7 edasi, sees `<body>` ja `</body>` sildid.
 
