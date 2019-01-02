@@ -4,7 +4,7 @@ Lisame su loole teise osa.
 
 + Mine koodi 15. reale ja lisa teine komplekt `&lt;div&gt;` ja `&lt;/div&gt;` algus- ja lõppsilte. See loob uue kasti sinu loo järgmise osa jaoks.
 
-![ekraanipilt](images/story-div.png)
+![kuvatõmmis](images/story-div.png)
 
 + Lisage uus lõik `<div>` tag:
 
