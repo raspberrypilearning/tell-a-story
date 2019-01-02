@@ -1,17 +1,17 @@
 ---
 hero_image: images/tell-a-story.png
-theme: roheline
+theme: green
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Jutusta lugu
-description: Looge lehe, nalja või luuletuse saamiseks veebileht
+title: Räägi lugu
+description: Loo veebileht loo, nalja või luuletuse rääkimiseks
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: kirjandus
+interests: literature
 technologies: html-css-javascript
-site_areas: projektid
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -20,18 +20,18 @@ steps:
   - 
     title: Sissejuhatus
   - 
-    title: Mida peate
+    title: Mida sul vaja on
   - 
-    title: Otsustage lugu
+    title: Otsusta, mis lugu rääkida
   - 
-    title: Oma lugu redigeerides
+    title: Oma loo muutmine
   - 
-    title: 'Väljakutse: tehke muudatusi'
+    title: 'Väljakutse: tee muudatusi'
   - 
-    title: Räägib oma lugu
+    title: Oma loo rääkimine
   - 
-    title: Teie enda piltide leidmine
+    title: Sinu enda piltide leidmine
   - 
     title: Piltide üleslaadimine
   - 
-    title: 'Väljakutse: jätkake!'
+    title: 'Väljakutse: jätka!'
