@@ -10,7 +10,7 @@ Projekt peaks välja nägema selline:
 
 Veebilehe sisu läheb `&lt;body&gt;` jaotisesse `index.html` HTML-dokumendis.
 
-+ Veebilehe sisu leiate rida 7 edasi, sees `<body>` ja `</body>` sildid.
++ Veebilehe sisu leiad alates 7. reast, `&lt;body&gt;` ja `&lt;/body&gt;` siltide seest.
 
 ![ekraanipilt](images/story-html.png)
 
