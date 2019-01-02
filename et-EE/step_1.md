@@ -4,7 +4,7 @@ Selles projektis saad teada, kuidas oma veebilehte luua, et rääkida lugu, nali
 
 ### Mida sa teed
 
-Hüppeliinide vaatamiseks klikkige ninakinnitusega!
+Keri trinketis alla, et näha lõppu!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,11 +14,11 @@ Hüppeliinide vaatamiseks klikkige ninakinnitusega!
 
 ### Mida sa õpid
 
-See projekt hõlmab elemente, mis koosnevad järgmistest [Rasvapuu Pi digitaalsete õppekavade](http://rpf.io/curriculum){: target = "_ blank"} järgmistest osadest:
+Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum){:target="_blank"} järgmistest valdkondadest:
 
-+ [Disaini põhilised 2D ja 3D varad](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank"}.
 
-### Täiendav teave õpetajate jaoks
+### Lisainfo õpetajatele
 
 Kui teil on vaja printida selle projekti, siis kasutage [Printerisõbralik versioon](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
 
