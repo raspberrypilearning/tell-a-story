@@ -3,7 +3,7 @@
 Enne kodeerimise alustamist pead otsima loo. Mõtle loo peale, mida soovid rääkida. See võib olla:
 
 + Kuulus lugu
-+ Lugu, mille olete teinud
-+ Midagi, mis juhtus sinuga või kellega teate
++ Lugu, mille oled välja mõelnud
++ Midagi, mis juhtus sinuga või kellegagi, keda tead
 
-See ei pea isegi olema lugu. See võiks olla nali, luuletus või midagi muud, mida soovite!
+See ei pea isegi lugu olema. See võib olla nali, luuletus või mida iganes muud, mida soovid!
