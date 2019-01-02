@@ -1,15 +1,15 @@
-## Teie enda piltide leidmine
+## Sinu enda piltide leidmine
 
-Looge oma veebis oleva pildi leidmiseks.
+Leiame pildi veebist, mida su loole lisada.
 
-+ Mine [sellele lehele](http://jumpto.cc/html-images){: target = "_ blank"} ja leidke pilt, mida soovite oma lugu lisada.
++ Mine [sellele lehele](http://jumpto.cc/html-images){:target="_blank"} ja leia pilt, mille soovid oma loole lisada.
 
-+ Paremklõpsake pilti ja klõpsake **kopeeri pildi URL-i** (või **Kopeeri pildi aadress**, olenevalt kasutatavast arvutist). URL on pildi aadress.
++ Paremklõpsa pildil, seejärel klõpsa **kopeeri pildi URL** (või **kopeeri pildi aadress**, olenevalt kasutatavast arvutist). URL on pildi aadress.
 
-![ekraanipilt](images/story-url.png)
+![kuvatõmmis](images/story-url.png)
 
 + Mine tagasi oma `index.html` lehele.
 
-+ Kleepige URL-i oma silti `<img>` kõnemärkide vahele. Sa peaksid nägema oma pilti!
++ Kleebi URL oma `&lt;img&gt;` sildis olevate jutumärkide vahele. Sa peaksid nägema oma pilti ilmumas!
 
-![ekraanipilt](images/story-image.png)
+![kuvatõmmis](images/story-image.png)
