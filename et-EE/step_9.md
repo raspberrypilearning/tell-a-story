@@ -1,9 +1,9 @@
-\--- väljakutse \---
+\--- challenge \---
 
-## Väljakutse: jätkake!
+## Väljakutse: jätka!
 
-Kasutage seda, mida olete selles projektis õppinud, lõpetage oma lugu rääkimise lõpetamiseks! Siin on näide:
+Kasuta seda, mida oled selles projektis õppinud, et lõpetada oma loo rääkimine! Siin on näide:
 
-![ekraanipilt](images/story-final.png)
+![kuvatõmmis](images/story-final.png)
 
-\--- / väljakutse \---
+\--- /challenge \---
