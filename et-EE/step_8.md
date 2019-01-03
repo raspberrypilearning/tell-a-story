@@ -1,17 +1,17 @@
 ## Piltide üleslaadimine
 
-**Kui teil on Trinket konto**, võite oma pildid oma veebilehele üles laadida.
+**Kui sul on Trinketi konto**, võid oma pildid ka oma veebilehele üles laadida.
 
-+ Klõpsake oma žetooni ülaosas oleval kujutiseikoonil ja seejärel nupul **Lisa pilt**.
++ Klõpsa oma trinketi ülaosas oleval pildiikoonil ja seejärel nupul **lisa pilt**.
 
-![ekraanipilt](images/story-upload.png)
+![kuvatõmmis](images/story-upload.png)
 
-+ Klõpsake nupul **Upload** , seejärel leidke pilt, mida soovite oma arvutis kasutada, ja lohistage see kasti. Alternatiivina kasutage seda nuppu.
++ Klõpsake ** üleslaadimisel ** nupp, siis leidke pilt, mida soovite oma arvutis kasutada, ja lohistage see kasti. Teise võimalusena kasutage nuppu selle valimiseks.
 
-![Laadi üles](images/upload-image.png)
+![Lae üles](images/upload-image.png)
 
-+ Siis lihtsalt lisage oma uue pildi nimi oma märgi `<img>` kõnemärkide vahel, näiteks:
++ Siis lihtsalt lisa oma uue pildi nimi oma `&lt;img&gt;` sildi jutumärkide vahele, näiteks nii:
 
 ```html
-<img src="buildings.png">
+&lt;img src="buildings.png"&gt;
 ```
