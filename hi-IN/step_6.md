@@ -1,23 +1,23 @@
-## Telling your story
+## अपनी कहानी बताना
 
-Let's add a second part to your story.
+आइए अपनी कहानी में एक दूसरा भाग जोड़ते हैं।
 
 + Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ अपने नए `&lt;div&gt;` टैग के अंदर पाठ का एक अनुच्छेद जोड़ें:
 
 ```html
-<p>More text here!</p>
+&lt;p&gt; अधिक पाठ यहां! &lt;/p&gt;
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ आप अपने `&lt;div&gt;` टैग के अंदर इस कोड को जोड़कर अपने नए बॉक्स में एक छवि प्रदर्शित कर सकते हैं:
 
 ```html
-<img src="">
+&lt;img src=""&gt;
 ```
 
 ![screenshot](images/story-img-tag.png)
