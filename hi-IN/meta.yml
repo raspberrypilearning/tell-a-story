@@ -1,26 +1,26 @@
 ---
 hero_image: images/tell-a-story.png
-theme: green
-duration: 2
+theme: हरा
+duration: 0
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+description: कहानी, चुटकुला या कविता बताने के लिए एक वेबपेज बनाएं
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: literature
+interests: साहित्य
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 4
-last_tested: 2018-12-01
+version: 0
+last_tested: २०१८-१२-०१
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: What you will need
+    title: आपको किन चीजों की आवश्यकता होगी
   - 
     title: Decide on a story
   - 
