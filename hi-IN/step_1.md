@@ -1,10 +1,10 @@
-## Introduction
+## परिचय
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+इस परियोजना में, आप सीखेंगे कि कहानी, चुटकुला या कविता बताने के लिए अपना खुद का वेबपेज कैसे बनाया जाए।
 
-### What you will make
+### आप क्या बनाएँगे
 
-Scroll down in the trinket to see the punch line!
+पंच लाइन देखने के लिए Trinket में नीचे स्क्रॉल करें!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,9 +12,9 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### आप क्या सीखेंगे
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} (Raspberry Pi डिजिटल निर्माण पाठ्यक्रम) के निम्नलिखित तत्वों को शामिल किया गया है:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
