@@ -1,16 +1,16 @@
-## Uploading images
+## Učitavanje slike
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Ako imate račun za trinker**, na svoju web-stranicu možete i prenijeti vlastite slike.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Kliknite ikonu slike na vrhu trice, a zatim kliknite **Dodaj sliku**.
 
 ![screenshot](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Kliknite **Upload** zatim pronađite sliku koju želite koristiti na računalu i povucite je u okvir. Alternativno, pomoću gumba ga odaberite.
 
-![Upload](images/upload-image.png)
+![Učitaj](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Dodajte naziv slike između oznaka govora u oznaku `<img>`:
 
 ```html
 <img src="buildings.png">
