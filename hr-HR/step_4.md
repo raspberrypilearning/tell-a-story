@@ -1,30 +1,30 @@
-## Editing your story
+## Uredite svoju priču
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Počnimo uređivanjem HTML sadržaja i CSS stila web-stranice priče.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Otvorite [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Projekt bi trebao izgledati ovako:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Sadržaj web-stranice ide u `<body>` odjeljak `index.html` HTML dokument.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Pronađite sadržaj web stranice od retka 7 nadalje, unutar `<body>` i `</body>` oznake.
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Pogledajte možete li odrediti koje se oznake koriste za stvaranje različitih dijelova web-stranice.
 
 ## \--- collapse \---
 
-## title: Answer
+## naslov: Odgovor
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` je **heading**. Možete koristiti brojeve od 1 do 6 za stvaranje naslova različitih veličina.
++ `<div>` je skraćenica za ** podjela **, i to je način grupiranja stvari. Na ovoj web-stranici upotrebljavat ćete je za grupiranje svih stvari za svaki dio vaše priče.
++ `<img>` je **slika**.
++ `<p>` je **paragraf** teksta.
 
 \--- /collapse \---
