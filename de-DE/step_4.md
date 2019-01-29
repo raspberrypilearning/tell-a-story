@@ -1,30 +1,30 @@
 ## Erzähl deine Geschichte
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu bearbeiten.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Öffne [dieses trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Das Projekt sollte so aussehen:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTML-Dokument aufgenommen.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Suche den Inhalt der Webseite ab Zeile 7 innerhalb von `<body>` und ` </body>` Marken.
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Versuche herauszufinden, welche Marken benutzt werden, um die unterschiedlichen Teile der Webseite zu erstellen.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Lösung
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` ist eine ** Überschrift **. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
++ `<div>` steht für ** Division ** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
++ `<img>` ist ein Bild ** **.
++ `<p>` ist ein Absatz ** ** von Text.
 
 \--- /collapse \---
