@@ -1,4 +1,4 @@
-## Editing your story
+## Erzähl deine Geschichte
 
 Let's start by editing the HTML content and CSS style of the story's webpage.
 
