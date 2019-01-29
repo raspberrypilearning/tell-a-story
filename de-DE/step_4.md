@@ -25,6 +25,6 @@ Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTM
 + `<h1>` ist eine ** Überschrift **. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
 + `<div>` steht für ** Division ** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
 + `<img>` ist ein Bild ** **.
-+ `<p>` ist ein Absatz ** ** von Text.
++ `<p>` ist ein Abschnitt** ** mit Text.
 
 \--- /collapse \---
