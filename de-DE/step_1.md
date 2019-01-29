@@ -1,10 +1,10 @@
-## Introduction
+## Einführung
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+In diesem Projekt wirst du lernen, eine eigene Webseite zu erstellen um eine Geschichte, einen Witz oder ein Gedicht zu erzählen.
 
-### What you will make
+### Was du machen wirst
 
-Scroll down in the trinket to see the punch line!
+Scroll im trinket nach unten um die Pointe zu sehen!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,9 +12,9 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Was du lernen wirst
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum) {:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
