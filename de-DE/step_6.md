@@ -2,19 +2,19 @@
 
 Füge einen zweiten Teil zu deiner Geschichte hinzu.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Gehe zur Zeile 15 des Codes und füge einen weiteres Paar von `<div>` und ` </div>` Start- und End-Tags hinzu. Dadurch wird eine neue Box für den nächsten Teil deiner Geschichte erstellt.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Füge einen Textabschnitt in dein neues `<div>` -Tag ein:
 
 ```html
-<p>More text here!</p>
+<p> Mehr Text hier! </p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Du kannst ein Bild in deiner neuen Box anzeigen, indem du diesen Code in den `<div>` -Tag einfügst:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Beachte, dass `<img>` -Tags sich ein wenig von anderen Tags unterscheiden: Sie haben kein End-Tag.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Damit ein Bild angezeigt wird, musst du die Quelle des Bildes ** ** (` src `) innerhalb der Sprachmarken hinzufügen.
 
-Click the image icon to see the images available for your story.
+Klicke auf das Bildsymbol, um die für deine Geschichte verfügbaren Bilder anzuzeigen.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Lege fest, welches Bild du hinzufügen möchtest, und merke dir dessen Namen, beispielsweise ` buildings.png `.
 
-+ Click on `index.html` to get back to your code.
++ Klicke auf ` index.html ` um zu deinem Code zurückzukehren.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Füge den Namen des Bildes zwischen den Sprachmarken in deinem `<img>` -Tag hinzu.
 
 ```html
 <img src="buildings.png">
