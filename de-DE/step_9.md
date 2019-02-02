@@ -2,7 +2,7 @@
 
 ## Zusatzaufgabe: mach weiter!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Nutze das, was du in diesem Projekt gelernt habst, um deine Geschichte zu erzählen! Hier ist ein Beispiel:
 
 ![screenshot](images/story-final.png)
 
