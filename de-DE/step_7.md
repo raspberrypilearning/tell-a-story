@@ -1,6 +1,6 @@
-## Finding your own images
+## Suche eigene Bilder
 
-Let's find an image on the web to add to your story.
+Lass uns im Web ein Bild finden, um es deiner Geschichte hinzuzufügen.
 
 + Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
