@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Zusatzaufgabe: mach weiter!
 
 Use what you've learnt in this project to finish telling your story! Here's an example:
 
