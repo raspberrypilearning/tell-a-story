@@ -1,10 +1,10 @@
-## Introduction
+## 介紹
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+在這個項目中，您將學習如何創建自己的網頁來講述故事，笑話或詩歌。
 
-### What you will make
+### 你要做什麼
 
-Scroll down in the trinket to see the punch line!
+在小飾品中向下滾動以查看妙語！
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### 你會學到什麼
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+該項目涵蓋了 [Raspberry Pi數字製作課程](http://rpf.io/curriculum){：target =“_ blank”}的以下幾個元素：
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator){：target =“_ blank”}。
 
-### Additional information for educators
+### 教育工作者的其他信息
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/tell-a-story/print){：target =“_ blank”}。
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+使用頁腳中的鏈接訪問此項目的GitHub存儲庫，該存儲庫包含“en / resources”文件夾中的所有資源（包括示例完成的項目）。
