@@ -6,4 +6,4 @@ Before you get coding, you'll need to decide on a story. Think about the story y
 + एक कहानी जो आपने बनाई है
 + ऐसा कुछ जो आपके या आपके जानने वाले के साथ हुआ है
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+यह एक कहानी होना जरूरी नहीं है। यह एक चुटकुला हो सकता है, एक कविता, या कुछ और जो आप चाहते हैं!
