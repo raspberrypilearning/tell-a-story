@@ -28,13 +28,13 @@
 
 Click the image icon to see the images available for your story.
 
-![screenshot](images/story-see-images.png)
+![स्क्रीनशॉट](images/story-see-images.png)
 
 + Decide which image you want to add and remember its name, for example `buildings.png`.
 
 + Click on `index.html` to get back to your code.
 
-![screenshot](images/story-image-name.png)
+![स्क्रीनशॉट](images/story-image-name.png)
 
 + Add the name of the image between the speech marks in your `<img>` tag.
 
@@ -42,4 +42,4 @@ Click the image icon to see the images available for your story.
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![स्क्रीनशॉट](images/story-image-name-add.png)
