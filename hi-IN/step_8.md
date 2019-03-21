@@ -10,7 +10,7 @@
 
 ![अपलोड](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ फिर अपने `<img>` टैग में भाषण के निशान के बीच अपनी नई छवि का नाम इस तरह जोड़ें:
 
 ```html
 <img src="buildings.png">
