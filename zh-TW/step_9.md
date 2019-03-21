@@ -1,9 +1,9 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: keep going!
+## 挑戰：繼續前進！
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+使用您在此項目中學到的知識來完成講述您的故事！這是一個例子：
 
-![screenshot](images/story-final.png)
+![截圖](images/story-final.png)
 
-\--- /challenge \---
+\--- /挑戰\---
