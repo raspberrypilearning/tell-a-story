@@ -6,7 +6,7 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
+title: कोई कहानी सुनाओ
 description: कहानी, चुटकुला या कविता बताने के लिए एक वेबपेज बनाएं
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
@@ -14,15 +14,15 @@ technologies: html-css-javascript
 site_areas: projects
 hardware: ''
 software: html-css-javascript
-version: 0
-last_tested: २०१८-१२-०१
+version: 4
+last_tested: 2018-12-01
 steps:
   - 
     title: परिचय
   - 
-    title: आपको किन चीजों की आवश्यकता होगी
+    title: आपको किसकी ज़रूरत होगी
   - 
-    title: Decide on a story
+    title: एक कहानी पर फैसला करें
   - 
     title: अपनी कहानी का संपादन
   - 
@@ -32,6 +32,6 @@ steps:
   - 
     title: अपनी खुद की छवियां ढूंढना
   - 
-    title: चित्र अपलोड करें
+    title: चित्र अपलोड करना
   - 
     title: 'चुनौती: चलते रहो!'
