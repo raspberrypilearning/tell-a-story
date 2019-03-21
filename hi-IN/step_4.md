@@ -14,7 +14,7 @@
 
 ![स्क्रीनशॉट](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ देखें कि क्या आप वेबपेज के विभिन्न हिस्सों को बनाने के लिए किन टैग्स का उपयोग कर सकते हैं।
 
 ## \--- collapse \---
 
@@ -22,7 +22,7 @@
 
 ![स्क्रीनशॉट](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<h1>` एक **शीर्षक** है । विभिन्न आकारों के शीर्षकों को बनाने के लिए आप संख्या १ से ६ का उपयोग कर सकते हैं।
 + `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
 + `<img>` is an **image**.
 + `<p>` is a **paragraph** of text.
