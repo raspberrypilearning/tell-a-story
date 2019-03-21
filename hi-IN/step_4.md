@@ -1,10 +1,10 @@
-## Editing your story
+## अपनी कहानी का संपादन
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+आइए कहानी के वेबपेज की HTML सामग्री और CSS शैली को संपादित करने से शुरू करते है।
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ खोलें [यह ट्रिंकेट](http://jumpto.cc/web-story){:target= "_ blank"}।
 
-The project should look like this:
+परियोजना इस तरह दिखनी चाहिए:
 
 ![स्क्रीनशॉट](images/story-starter.png)
 
