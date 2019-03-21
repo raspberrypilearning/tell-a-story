@@ -1,6 +1,6 @@
-## Finding your own images
+## अपनी खुद की छवियां ढूंढना
 
-Let's find an image on the web to add to your story.
+आइए अपनी कहानी में जोड़ने के लिए वेब पर एक छवि खोजें।
 
 + Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
