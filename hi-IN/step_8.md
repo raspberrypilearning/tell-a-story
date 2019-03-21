@@ -1,14 +1,14 @@
-## Uploading images
+## चित्र अपलोड करना
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**यदि आपके पास एक ट्रिंकेट खाता है**, आप अपने स्वयं के चित्र भी अपने वेबपेज पर अपलोड कर सकते हैं।
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ अपने ट्रिंकेट के शीर्ष पर स्थित छवि आइकन पर क्लिक करें और फिर **छवि जोड़ें(Add image)** क्लिक करें।
 
-![screenshot](images/story-upload.png)
+![स्क्रीनशॉट](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ **अपलोड(Upload)** बटन पर क्लिक करें, फिर वह छवि ढूंढें जिसे आप अपने कंप्यूटर पर उपयोग करना चाहते हैं और इसे बॉक्स में खींचें। वैकल्पिक रूप से, इसे चुनने के लिए बटन का उपयोग करें।
 
-![Upload](images/upload-image.png)
+![अपलोड](images/upload-image.png)
 
 + Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
