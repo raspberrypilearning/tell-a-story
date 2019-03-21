@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## चुनौती: कुछ बदलाव करें
 
-Edit the HTML and CSS code to customise your webpage.
+अपने वेबपृष्ठ को अनुकूलित करने के लिए HTML और CSS कोड संपादित करें।
 
 ![स्क्रीनशॉट](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+HTML सामग्री `index.html` में पाई जा सकती है, और `style.css` फ़ाइल में CSS शैली ।
 
 ![स्क्रीनशॉट](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+आप वेबपृष्ठ में उपयोग किए गए रंगों को भी बदल सकते हैं, और आप विभिन्न फोंट का उपयोग कर सकते हैं जैसे:
 
 + <span style="font-family: Arial;">एरियल(Arial)</span>
 + <span style="font-family: Comic Sans MS;">कॉमिक संस एमएस(Comic Sans MS)</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
++ <span style="font-family: Impact;">इंपैक्ट(Impact)</span>
++ <span style="font-family: Tahoma;">तहोमा(Tahoma)</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+आप अधिक सीएसएस(CSS) रंग के नाम [यहां](http://jumpto.cc/colours){:target="_blank"} पा सकते हैं ।
 
 \--- /challenge \---
