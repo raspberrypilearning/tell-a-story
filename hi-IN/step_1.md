@@ -22,4 +22,4 @@
 
 अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण संपूर्ण परियोजना सहित)।
