@@ -2,14 +2,14 @@
 
 आइए अपनी कहानी में जोड़ने के लिए वेब पर एक छवि खोजें।
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ [इस पृष्ठ](http://jumpto.cc/html-images){:target="_blank"} पर जाएं, और एक छवि खोजें जो आप अपने कहानी में शामिल करना चाहते हैं।
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ छवि पर राइट-क्लिक करें, और **छवि URL की प्रतिलिपि बनाएँ(Copy Image URL)** पर क्लिक करें (या **छवि पता कॉपी करें(Copy Image Address)**, आपके द्वारा उपयोग किए जा रहे कंप्यूटर पर निर्भर करता है)। URL छवि का पता है।
 
-![screenshot](images/story-url.png)
+![स्क्रीनशॉट](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ अपने `index. html` पृष्ठ पर वापस जाएं ।
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ अपने `<img>` टैग में भाषण के निशान के बीच URL चिपकाएँ। आपको अपनी छवि दिखाई देनी चाहिए!
 
-![screenshot](images/story-image.png)
+![स्क्रीनशॉट](images/story-image.png)
