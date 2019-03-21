@@ -8,9 +8,9 @@
 
 ![स्क्रीनशॉट](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+वेबपेज कंटेंट `index.html` HTML डॉक्यूमेंट के `<body>` सेक्शन में जाता है ।
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ लाइन ७ के बाद से `<body>` और `</body>` टैग के अंदर वेबपृष्ठ सामग्री खोजें।
 
 ![स्क्रीनशॉट](images/story-html.png)
 
