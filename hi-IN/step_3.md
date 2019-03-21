@@ -1,6 +1,6 @@
 ## एक कहानी पर फैसला करें
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+इससे पहले कि आप कोडिंग करें, आपको एक कहानी तय करनी होगी। आप जो कहानी बताना चाहते हैं, उसके बारे में सोचें। यह हो सकता:
 
 + एक प्रसिद्ध कहानी
 + एक कहानी जो आपने बनाई है
