@@ -2,8 +2,8 @@
 
 ## चुनौती: चलते रहो!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+अपनी कहानी कहने के लिए इस परियोजना में आपने जो सीखा है उसका उपयोग करें! यहाँ एक उदाहरण है:
 
-![screenshot](images/story-final.png)
+![स्क्रीनशॉट](images/story-final.png)
 
 \--- /challenge \---
