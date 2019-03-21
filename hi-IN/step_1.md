@@ -20,6 +20,6 @@
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
