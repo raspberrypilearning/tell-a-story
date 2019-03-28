@@ -1,4 +1,4 @@
-## Decide sobre una historia
+## Decide una historia
 
 Antes de empezar a escribir el código, tendrás que decidirte por una historia. Piensa en la historia que quieres contar. Podría ser:
 
