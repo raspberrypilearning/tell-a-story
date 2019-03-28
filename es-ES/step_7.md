@@ -2,7 +2,7 @@
 
 Encontremos una imagen en la web para agregar a tu historia.
 
-+ Ve a [esta página](http://jumpto.cc/html-images) {: target = "_ blank"}, y encuentra una imagen que quieras incluir en tu historia.
++ Ve a [esta página](http://jumpto.cc/html-images){:target="_ blank"}, y encuentra una imagen que quieras incluir en tu historia.
 
 + Haz clic derecho en la imagen y haz clic en **Copiar URL de la imagen** (o **Copiar dirección de imagen**, dependiendo de la computadora que estés usando). La URL es la dirección de la imagen.
 
