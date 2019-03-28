@@ -14,7 +14,7 @@ Agreguemos una segunda parte a tu historia.
 
 ![captura de pantalla](images/story-paragraph.png)
 
-+ Puedse mostrar una imagen en tu nueva caja agregando este código dentro de tu etiqueta `<div>`:
++ Puedes mostrar una imagen en tu nueva caja agregando este código dentro de tu etiqueta `<div>`:
 
 ```html
 <img src="">
@@ -24,7 +24,7 @@ Agreguemos una segunda parte a tu historia.
 
 Ten en cuenta que las etiquetas `<img>` son un poco diferentes a otras etiquetas: no tienen una etiqueta final.
 
-+ Para que aparezca una imagen, debes agregar el **origen** (` src `) de la imagen dentro de las comillas.
++ Para que aparezca una imagen, debes agregar el **origen** (`src`) de la imagen dentro de las comillas.
 
 Haz clic en el icono de imagen para ver las imágenes disponibles para tu historia.
 
