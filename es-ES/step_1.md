@@ -1,6 +1,6 @@
 ## Introducción
 
-En este proyecto, aprenderá cómo crear tu propia página web para contar una historia, un chiste o un poema.
+En este proyecto, aprenderás cómo crear tu propia página web para contar una historia, un chiste o un poema.
 
 ### Lo que vas a hacer
 
