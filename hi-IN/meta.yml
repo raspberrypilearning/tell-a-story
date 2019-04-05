@@ -10,15 +10,15 @@ title: कोई कहानी सुनाओ
 description: कहानी, चुटकुला या कविता बताने के लिए एक वेबपेज बनाएं
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
-technologies: html-css-javascript
-site_areas: projects
+technologies: html/css
+site_areas: प्रोजेक्ट
 hardware: ''
-software: html-css-javascript
+software: htmp-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
     title: आपको किसकी ज़रूरत होगी
   - 
