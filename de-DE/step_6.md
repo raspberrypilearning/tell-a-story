@@ -4,7 +4,7 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 
 + Gehe zur Zeile 15 des Codes und füge einen weiteres Paar von `<div>` und ` </div>` Start- und End-Tags hinzu. Dadurch wird eine neue Box für den nächsten Teil deiner Geschichte erstellt.
 
-![screenshot](images/story-div.png)
+![Screenshot](images/story-div.png)
 
 + Füge einen Textabschnitt in dein neues `<div>` -Tag ein:
 
@@ -28,13 +28,13 @@ Beachte, dass `<img>` -Tags sich ein wenig von anderen Tags unterscheiden: Sie h
 
 Klicke auf das Bildsymbol, um die für deine Geschichte verfügbaren Bilder anzuzeigen.
 
-![screenshot](images/story-see-images.png)
+![Screenshot](images/story-see-images.png)
 
 + Lege fest, welches Bild du hinzufügen möchtest, und merke dir dessen Namen, beispielsweise ` buildings.png `.
 
 + Klicke auf ` index.html ` um zu deinem Code zurückzukehren.
 
-![screenshot](images/story-image-name.png)
+![Screenshot](images/story-image-name.png)
 
 + Füge den Namen des Bildes zwischen den Sprachmarken in deinem `<img>` -Tag hinzu.
 
@@ -42,4 +42,4 @@ Klicke auf das Bildsymbol, um die für deine Geschichte verfügbaren Bilder anzu
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![Screenshot](images/story-image-name-add.png)
