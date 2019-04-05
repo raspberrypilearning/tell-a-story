@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: faça algumas alterações
 
@@ -19,4 +19,4 @@ Você também pode alterar as cores usadas na página web e pode usar diferentes
 
 Você pode encontrar mais nomes de cores CSS [aqui](http://jumpto.cc/colours){:target="_blank"}.
 
-\--- /challenge \---
+\--- challenge \---
