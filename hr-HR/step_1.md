@@ -20,6 +20,6 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa
 
 ### Dodatne informacije za voditelje kluba
 
-Ako trebate ispisati ovaj projekt, koristite [ verziju koja je prilagođena za pisač ](https://projects.raspberrypi.org/en/projects/tell-a-story/print) {: Target = "_ blank"} .
+Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:Target="_ blank"} .
 
 Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-Hr/resources'.
