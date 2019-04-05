@@ -1,4 +1,4 @@
-## 소개
+## 들어가며
 
 이 프로젝트에서는 이야기, 농담, 시 등을 설명하는 웹 페이지를 만드는 방법에 대해 배웁니다.
 
@@ -18,7 +18,7 @@
 
 + [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### 교육자를 위한 추가 정보
+### 교사들을 위한 부가 설명
 
 이 프로젝트를 프린트하고자 한다면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} 을 사용하십시오.
 
