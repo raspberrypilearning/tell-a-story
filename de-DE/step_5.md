@@ -8,7 +8,7 @@ Bearbeite den HTML- und CSS-Code, um deine Webseite anzupassen.
 
 Die HTML-Inhalte findest du in der `index.html`-Datei und die CSS-Style in der `style.css` Datei.
 
-![screenshot](images/story-files.png)
+![Screenshot](images/story-files.png)
 
 Du kannst auch die auf der Webseite verwendeten Farben ändern und verschiedene Schriftarten verwenden, z. B.:
 
