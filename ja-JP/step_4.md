@@ -4,7 +4,7 @@
 
 + [この小物](http://jumpto.cc/web-story){{target = "_ blank"}にしてください。
 
-プロジェクトは次のようになります。
+プロジェクトはこのようになります。
 
 ![スクリーンショット](images/story-starter.png)
 
@@ -12,13 +12,13 @@
 
 + 7行目以降のWebページコンテンツを `<body>` と `</body>` タグ内で検索します。
 
-![スクリーンショット](images/story-html.png)
+![screenshot](images/story-html.png)
 
 + ウェブページのさまざまな部分を作成するためにどのタグが使用されているか調べることができます。
 
-## \---崩壊\---
+## \--- collapse \---
 
-## タイトル：回答
+## title: 答え
 
 ![スクリーンショット](images/story-elements.png)
 
@@ -27,4 +27,4 @@
 + `<img>` は **画像**です。
 + `<p>` はテキストの **段落** です。
 
-\--- /崩壊\---
+\--- /collapse \---
