@@ -4,7 +4,7 @@
 
 + कोड की पंक्ति 15 पर जाएं, और दूसरे सेट में `<div>` और `</div>` टैग शुरू करें और समाप्त करें । यह आपकी कहानी के अगले भाग के लिए एक नया बॉक्स बनाएगा।
 
-![screenshot](images/story-div.png)
+![स्क्रीनशॉट](images/story-div.png)
 
 + अपने नए `&lt;div&gt;` टैग के अंदर पाठ का एक अनुच्छेद जोड़ें:
 
@@ -12,15 +12,15 @@
 &lt;p&gt; अधिक पाठ यहां! &lt;/p&gt;
 ```
 
-![screenshot](images/story-paragraph.png)
+![स्क्रीनशॉट](images/story-paragraph.png)
 
 + आप अपने `&lt;div&gt;` टैग के अंदर इस कोड को जोड़कर अपने नए बॉक्स में एक छवि प्रदर्शित कर सकते हैं:
 
 ```html
-&lt;img src=""&gt;
+<img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![स्क्रीनशॉट](images/story-img-tag.png)
 
 ध्यान दें कि `&lt;img&gt;` टैग अन्य टैग्स से थोडे अलग हैं: उनके पास एक अंतिम टैग नहीं है।
 
