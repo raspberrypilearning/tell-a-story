@@ -1,4 +1,4 @@
-## Einführung
+## Einleitung
 
 In diesem Projekt wirst du lernen, eine eigene Webseite zu erstellen um eine Geschichte, einen Witz oder ein Gedicht zu erzählen.
 
@@ -16,10 +16,10 @@ Scroll im trinket nach unten um die Pointe zu sehen!
 
 Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum) {:target="_blank"}:
 
-+ [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator)"}.
++ [Entwurf von grundlegenden 2D- and 3D-Gütern](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### Zusätzliche Informationen für Pädagogen
 
-Wenn Sie dieses Projekt drucken möchten, verwenden Sie die druckfreundliche [-Version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} .
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
 Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".
