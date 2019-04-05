@@ -4,21 +4,21 @@
 
 + [trinket 열기](http://jumpto.cc/web-story){:target="_blank"}
 
-프로젝트는 아래와 같이 보일 것입니다:
+프로젝트는 아래와 같을겁니다:
 
-![스크린샷](images/story-starter.png)
+![<0>로 구성된 제목과 단락 스타일을  설정하기위해 CSS 코드를 추가하십시오.](images/story-starter.png)
 
 웹 페이지의 내용은 `index.html`의 `<body>` 섹션에 있습니다.
 
 + 웹페이지 내용은 7번 내용부터이며, `<body>`와 `</body>` 태그 사이에 있습니다.
 
-![스크린샷](images/story-html.png)
+![screenshot](images/story-html.png)
 
 + 각각의 내용들이 어떤 태그에 해당되는지 확인해 보세요.
 
 ## \--- collapse \---
 
-## title: 정답
+## title: 답변
 
 ![스크린샷](images/story-elements.png)
 
