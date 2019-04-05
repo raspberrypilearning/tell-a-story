@@ -1,17 +1,17 @@
 ---
-hero_image: images / tell-a-story.png
-theme: 緑
+hero_image: images/tell-a-story.png
+theme: green
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1、design-1、programming-0、phys-comp-0、製造-0、コミュニティ-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: 話をする
 description: ストーリー、ジョーク、または詩を伝えるウェブページを作成する
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: 文献
 technologies: html-css-javascript
-site_areas: プロジェクト
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
