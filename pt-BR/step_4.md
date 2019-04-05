@@ -2,11 +2,11 @@
 
 Vamos começar editando o conteúdo HTML e CSS da página web da história.
 
-+ Abra [este trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Abra [este trinket](http://jumpto.cc/web-story) {:target="_blank"}.
 
-O projeto deve se parecer com isto:
+O arquivo ficará assim:
 
-![screenshot](images/story-starter.png)
+![captura de Tela](images/story-starter.png)
 
 O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
@@ -18,7 +18,7 @@ O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Resposta
 
 ![screenshot](images/story-elements.png)
 
