@@ -1,4 +1,4 @@
-## Erzähl deine Geschichte
+## Aufgabe: Nimm ein paar Veränderungen vor
 
 Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu bearbeiten.
 
@@ -12,19 +12,19 @@ Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTM
 
 + Suche den Inhalt der Webseite ab Zeile 7 innerhalb von `<body>` und ` </body>` Marken.
 
-![screenshot](images/story-html.png)
+![Screenshot](images/story-html.png)
 
 + Versuche herauszufinden, welche Marken benutzt werden, um die unterschiedlichen Teile der Webseite zu erstellen.
 
 ## \--- collapse \---
 
-## title: Lösung
+## title: Antwort
 
-![screenshot](images/story-elements.png)
+![Screenshot](images/story-elements.png)
 
 + `<h1>` ist eine ** Überschrift **. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
 + `<div>` steht für ** Division ** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
 + `<img>` ist ein Bild ** **.
 + `<p>` ist ein Abschnitt** ** mit Text.
 
-\--- /collapse \---
+\--- /collapse\---
