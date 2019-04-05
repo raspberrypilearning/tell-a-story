@@ -4,7 +4,7 @@
 
 + 코드의 15번으로 가서, 새로운 `<div>`와 `</div>` 쌍을 추가하세요. 그러면 스토리의 두 번째 부분에 대한 새로운 공간이 만들어 집니다.
 
-![스크린샷](images/story-div.png)
+![screenshot](images/story-div.png)
 
 + 아래 코드를 새로운 `<div>` 태그 안에 추가하세요.
 
