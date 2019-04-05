@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- 도전 \---
 
 ## 과제: 몇 가지 변경하기
 
@@ -8,7 +8,7 @@ HTML과 CSS 코드를 편집하여 웹페이지를 커스터마이징해 봅시�
 
 HTML 내용은 `index.html` 파일에서 찾을 수 있고, CSS 스타일은 `style.css` 파일에서 찾을 수 있습니다.
 
-![스크린샷](images/story-files.png)
+![screenshot](images/story-files.png)
 
 웹 페이지에서 사용되는 색상을 변경할 수도 있으며 다음과 같은 다양한 글꼴을 사용할 수 있습니다.
 
