@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: continue!
 
