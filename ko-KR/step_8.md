@@ -4,7 +4,7 @@
 
 + Trinket 상단의 이미지 아이콘을 클릭한 다음 **Add Image**를 클릭하세요.
 
-![스크린샷](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
 + **업로드**를 클릭하고, 사용하고 싶은 이미지를 찾아 드래그하거나, 버튼을 사용하여 선택하세요.
 
