@@ -6,7 +6,7 @@ Lass uns im Web ein Bild finden, um es deiner Geschichte hinzuzufügen.
 
 + Klicke mit der rechten Maustaste auf das Bild und klicke auf ** Bild-URL kopieren ** (oder ** Bildadresse kopieren **, abhängig vom verwendeten Computer). Die URL ist die Adresse des Bildes.
 
-![screenshot](images/story-url.png)
+![Screenshot](images/story-url.png)
 
 + Gehe zurück zu deiner ` index.html ` Seite.
 
