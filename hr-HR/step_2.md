@@ -1,4 +1,4 @@
-## Što će vam trebati
+## Trebat ćeš
 
 ### Hardver
 
