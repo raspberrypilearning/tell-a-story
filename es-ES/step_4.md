@@ -25,7 +25,7 @@ title: Respuesta
 
 + `<h1>` es un encabezado ** **. Puedes usar los números del 1 al 6 para crear encabezados de diferentes tamaños.
 + `<div>` es la abreviatura de **division**, y es una forma de agrupar cosas. En esta página web, la usarás para agrupar todas las cosas de cada parte de tu historia.
-+ `<img>`es **image**, una imagen.
-+ `<p>`es un **paragraph**, un párrafo de texto.
++ `<img>` es **image**, una imagen.
++ `<p>` es un **paragraph**, un párrafo de texto.
 
 --- /collapse ---

@@ -1,6 +1,6 @@
 ## Subiendo imagenes
 
-** Si tienes una cuenta Trinket **, también puedes subir tus propias imágenes a tu página web.
+**Si tienes una cuenta Trinket**, también puedes subir tus propias imágenes a tu página web.
 
 + Haz clic en el icono de la imagen en la parte superior de tu trinket, y luego haz clic en **Agregar imagen**.
 
