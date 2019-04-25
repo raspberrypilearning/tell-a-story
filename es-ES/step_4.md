@@ -2,7 +2,7 @@
 
 Empecemos por editar el contenido HTML y el estilo CSS de la página web de la historia.
 
-+ Abre [este trinket](resources/tell-a-story-index.html){:target="_blank"}.
++ Abre [este trinket](https://trinket.io/html/842dd360f1){:target="_blank"}.
 
 El proyecto debe verse así:
 
@@ -10,7 +10,7 @@ El proyecto debe verse así:
 
 El contenido de la página web va en la `<body>`sección del documento HTML `index.html`.
 
-+ Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y ` </body>`.
++ Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y `</body>`.
 
 ![captura de pantalla](images/story-html.png)
 
