@@ -1,10 +1,9 @@
-## Decide que quieres contar
+## Lo que necesitarás
 
-Antes de empezar a codificar tienes que decidir que historia quieres contar.
+### Equipo
 
-+ Piensa sobre la historia que quieres contar. Podría ser:
-	+ Una historia famosa;
-	+ Una historia inventada por tí;
-	+ Algo que te haya pasado o le haya pasado a alguien que conoces.
++ Un ordenador capaz de acceder a [trinket.io](https://trinket.io){:target="_blank"}
 
-	Ni siquiera tiene que ser una historia. Puede ser un chiste, un poema o lo que tú quieras!
+### Software
+
+Este proyecto se puede completar en un navegador web usando [trinket.io](https://trinket.io){:target="_blank"}.

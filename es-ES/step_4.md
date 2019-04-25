@@ -1,11 +1,31 @@
---- challenge ---
-## Desafío: Haz algunos cambios 
-Edita el código HTML y CSS para personalizar tu página web.
+## Editando tu historia
 
-![screenshot](images/story-changes.png)
+Empecemos por editar el contenido HTML y el estilo CSS de la página web de la historia.
 
-Puedes modificar los colores de la página web y también puedes elegir que fuentes utilizar como por ejemplo, <span style="font-family: Arial;">Arial</span>, <span style="font-family: Comic Sans MS;">Comic Sans MS</span>, <span style="font-family: Impact;">Impact</span> y <span style="font-family: Tahoma;">Tahoma</span>.
++ Abre [este trinket](https://trinket.io/html/842dd360f1){:target="_blank"}.
 
-Si necesitas más ayuda mira el proyecto 'Cumpleaños feliz'.
+El proyecto debe verse así:
 
---- /challenge ---
+![captura de pantalla](images/story-starter.png)
+
+El contenido de la página web va en la `<body>` sección del documento HTML `index.html`.
+
++ Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y `</body>`.
+
+![captura de pantalla](images/story-html.png)
+
++ Fíjate si puedes averiguar qué etiquetas se utilizan para crear las diferentes partes de la página web.
+
+--- collapse ---
+---
+title: Respuesta
+---
+
+![captura de pantalla](images/story-elements.png)
+
++ `<h1>` es un encabezado ** **. Puedes usar los números del 1 al 6 para crear encabezados de diferentes tamaños.
++ `<div>` es la abreviatura de **division**, y es una forma de agrupar cosas. En esta página web, la usarás para agrupar todas las cosas de cada parte de tu historia.
++ `<img>` es **image**, una imagen.
++ `<p>` es un **paragraph**, un párrafo de texto.
+
+--- /collapse ---
