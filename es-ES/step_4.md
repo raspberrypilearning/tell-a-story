@@ -8,7 +8,7 @@ El proyecto debe verse así:
 
 ![captura de pantalla](images/story-starter.png)
 
-El contenido de la página web va en la `<body>`sección del documento HTML `index.html`.
+El contenido de la página web va en la `<body>` sección del documento HTML `index.html`.
 
 + Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y `</body>`.
 
