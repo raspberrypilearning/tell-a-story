@@ -12,4 +12,4 @@
 
 + अपने `<img>` टैग में भाषण के निशान के बीच URL चिपकाएँ। आपको अपनी छवि दिखाई देनी चाहिए!
 
-![स्क्रीनशॉट](images/story-image.png)
+![screenshot](images/story-image.png)
