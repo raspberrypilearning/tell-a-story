@@ -4,11 +4,11 @@
 
 अपने वेबपृष्ठ को अनुकूलित करने के लिए HTML और CSS कोड संपादित करें।
 
-![स्क्रीनशॉट](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
 HTML सामग्री `index.html` में पाई जा सकती है, और `style.css` फ़ाइल में CSS शैली ।
 
-![स्क्रीनशॉट](images/story-files.png)
+![screenshot](images/story-files.png)
 
 आप वेबपृष्ठ में उपयोग किए गए रंगों को भी बदल सकते हैं, और आप विभिन्न फोंट का उपयोग कर सकते हैं जैसे:
 
