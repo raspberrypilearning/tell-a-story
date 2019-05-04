@@ -14,12 +14,12 @@
 
 ### आप क्या सीखेंगे
 
-यह प्रोजेक्ट [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित तत्वों को पूरा करता है{:target="_blank"}:
+इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} (Raspberry Pi डिजिटल निर्माण पाठ्यक्रम) के निम्नलिखित तत्वों को शामिल किया गया है:
 
 + [डिज़ाइन बेसिक 2D और 3D सामग्री](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
-अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
+अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
 
 इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण संपूर्ण परियोजना सहित)।
