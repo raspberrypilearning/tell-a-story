@@ -4,6 +4,6 @@
 
 अपनी कहानी कहने के लिए इस परियोजना में आपने जो सीखा है उसका उपयोग करें! यहाँ एक उदाहरण है:
 
-![स्क्रीनशॉट](images/story-final.png)
+![screenshot](images/story-final.png)
 
 \--- /challenge \---
