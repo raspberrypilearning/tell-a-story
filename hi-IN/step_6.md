@@ -4,37 +4,37 @@
 
 + कोड की पंक्ति 15 पर जाएं, और दूसरे सेट में `<div>` और `</div>` टैग शुरू करें और समाप्त करें । यह आपकी कहानी के अगले भाग के लिए एक नया बॉक्स बनाएगा।
 
-![स्क्रीनशॉट](images/story-div.png)
+![screenshot](images/story-div.png)
 
 + अपने नए `&lt;div&gt;` टैग के अंदर पाठ का एक अनुच्छेद जोड़ें:
 
 ```html
-&lt;p&gt; अधिक पाठ यहां! &lt;/p&gt;
+<p>अधिक पाठ यहां!</p>
 ```
 
-![स्क्रीनशॉट](images/story-paragraph.png)
+![screenshot](images/story-paragraph.png)
 
-+ आप अपने `&lt;div&gt;` टैग के अंदर इस कोड को जोड़कर अपने नए बॉक्स में एक छवि प्रदर्शित कर सकते हैं:
++ आप अपने `<div>` टैग के अंदर इस कोड को जोड़कर अपने नए बॉक्स में एक छवि प्रदर्शित कर सकते हैं:
 
 ```html
 <img src="">
 ```
 
-![स्क्रीनशॉट](images/story-img-tag.png)
+![screenshot](images/story-img-tag.png)
 
-ध्यान दें कि `&lt;img&gt;` टैग अन्य टैग्स से थोडे अलग हैं: उनके पास एक अंतिम टैग नहीं है।
+ध्यान दें कि `<img>` टैग अन्य टैग्स से थोडे अलग हैं: उनके पास एक अंतिम टैग नहीं है।
 
 + दिखाने के लिए एक छवि प्राप्त करने के लिए, आपको छवि की **स्रोत(source)**(`src`) को भाषण के निशान के अंदर जोड़ना होगा ।
 
 अपनी कहानी के लिए उपलब्ध चित्रों को देखने के लिए छवि आइकन पर क्लिक करें।
 
-![स्क्रीनशॉट](images/story-see-images.png)
+![screenshot](images/story-see-images.png)
 
 + यह तय करें कि आप किस छवि को जोड़ना चाहते हैं और उसका नाम याद रखें, उदाहरण के लिए `buildings.png` ।
 
 + अपने कोड को वापस पाने के लिए `index. html` पर क्लिक करें ।
 
-![स्क्रीनशॉट](images/story-image-name.png)
+![screenshot](images/story-image-name.png)
 
 + फिर अपने `<img>` टैग में भाषण के निशान के बीच अपनी नई छवि का नाम जोड़ें ।
 
@@ -42,4 +42,4 @@
 <img src="buildings.png">
 ```
 
-![स्क्रीनशॉट](images/story-image-name-add.png)
+![screenshot](images/story-image-name-add.png)
