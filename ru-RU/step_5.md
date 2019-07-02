@@ -1,12 +1,12 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Испытание: внести некоторые изменения
 
-Edit the HTML and CSS code to customise your webpage.
+Отредактируй код HTML и CSS, чтобы настроить свою веб-страницу.
 
 ![screenshot](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+Содержимое HTML можно найти в ` index.html. ` файл и стиль CSS в ` style.css ` файл.
 
 ![screenshot](images/story-files.png)
 
