@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Задача: продолжай!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Используй то, что ты узнал в этом проекте, чтобы закончить рассказывать свою историю! Вот пример:
 
-![screenshot](images/story-final.png)
+![скриншот](images/story-final.png)
 
 \--- /challenge \---
