@@ -4,6 +4,6 @@
 
 + Известная история
 + История, которую ты предумал
-+ Something that has happened to you or someone you know
++ Что-то, что случилось с тобой или с кем-то, кого ты знаешь
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Это даже не должно быть историей. Это может быть шутка, стихотворение или что-то еще, что ты хочешь!
