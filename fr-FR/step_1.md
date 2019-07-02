@@ -1,8 +1,8 @@
 ## Introduction
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+Dans ce projet, tu apprendras à créer votre propre page Web pour raconter une histoire, une blague ou un poème.
 
-### What you will make
+### Ce que tu vas faire
 
 Scroll down in the trinket to see the punch line!
 
