@@ -6,25 +6,25 @@ Commençons par éditer le contenu HTML et le style CSS de la page Web du récit
 
 Le projet doit ressembler à ça:
 
-![screenshot](images/story-starter.png)
+![capture d’écran](images/story-starter.png)
 
 Le contenu de la page Web se trouve dans la section `<body>` du ` index.html ` Document HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Cherche le contenu de la page Web à partir de la ligne 7, entre les mots clés `<body>` et `</body>`.
 
-![screenshot](images/story-html.png)
+![capture d'écran](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Vois si tu peux déterminer quelles balises sont utilisées pour créer les différentes parties de la page Web.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Réponse
 
-![screenshot](images/story-elements.png)
+![capture d'écran](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` est un en-tête ** ** . Tu peux utiliser les chiffres 1 à 6 pour créer des en-têtes de différentes tailles.
++ `<div>` est l'abréviation de ** division ** , et est une façon de regrouper des choses. Dans cette page Web, tu vas l'utiliser pour regrouper tous les éléments de chaque partie de ton récit.
++ `<img>` est une ** image ** .
++ `<p>` est un ** paragraphe ** du texte.
 
 \--- /collapse \---
