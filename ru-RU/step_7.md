@@ -4,12 +4,12 @@
 
 + Перейди на [эту страницу](http://jumpto.cc/html-images){:target="_blank"}, и найди изображение, которое ты хочешь включить в свою историю.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Щелкни правой кнопкой мыши изображение и выбери ** Скопировать URL-адрес изображения. ** (или ** Копировать адрес изображения ** в зависимости от компьютера, который ты используешь). URL-адрес является адресом изображения.
 
-![screenshot](images/story-url.png)
+![скриншот](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Вернись в свой ` index.html ` стр.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Вставь URL-адрес между ковычками в теге `<img>`. Ты должен увидеть своё изображение!
 
-![screenshot](images/story-image.png)
+![скриншот](images/story-image.png)
