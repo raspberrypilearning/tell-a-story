@@ -17,6 +17,6 @@ Je kunt ook de kleuren die op de webpagina worden gebruikt wijzigen en je kunt v
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Vind [hier](http://jumpto.cc/colours){: target = "_ blank"} meer CSS-kleurnamen.
+Vind [hier](http://jumpto.cc/colours){:target="_blank"} meer CSS-kleurnamen.
 
 \--- /challenge \---
