@@ -20,6 +20,6 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"}.
 
 Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repository voor dit project, dat alle bronnen (inclusief een voorbeeld van een voltooid project) bevat in de map 'en/resources'.
