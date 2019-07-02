@@ -2,7 +2,7 @@
 
 Laten we beginnen met het bewerken van de HTML-inhoud en CSS-stijl van de webpagina van het verhaal.
 
-+ Open [deze trinket](http://jumpto.cc/web-story){: target = "_ blank"}.
++ Open [deze trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
 Het project zou er als volgt uit moeten zien:
 
