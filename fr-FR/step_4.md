@@ -1,14 +1,14 @@
-## Editing your story
+## Modifie ton histoire
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Commençons par éditer le contenu HTML et le style CSS de la page Web du récit.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Ouvre [ce trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Le projet doit ressembler à ça:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Le contenu de la page Web se trouve dans la section `<body>` du ` index.html ` Document HTML.
 
 + Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
