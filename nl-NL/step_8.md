@@ -1,6 +1,6 @@
 ## Afbeeldingen uploaden
 
-**Als je een Trinket-account**hebt, kun je ook je eigen afbeeldingen uploaden naar je webpagina.
+**Als je een Trinket-account** hebt, kun je ook je eigen afbeeldingen uploaden naar je webpagina.
 
 + Klik op het afbeeldingspictogram boven aan je trinket en klik vervolgens op **Add Image**.
 
