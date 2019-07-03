@@ -14,9 +14,9 @@ Blader naar beneden in de trinket om de clou te zien!
 
 ### Wat ga je leren
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+Dit project behandelt elementen uit de volgende onderdelen van de [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Ontwerp eenvoudige 2D en 3D objecten](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Ontwerp standaard 2D- en 3D-items](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
 ### Aanvullende informatie voor clubleiders
 
