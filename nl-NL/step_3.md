@@ -1,6 +1,6 @@
 ## Kies een verhaal
 
-Voordat je gaat coderen, moet je een verhaal kiezen. Denk aan het verhaal dat je wilt vertellen. Het zou kunnen:
+Voordat je gaat coderen, moet je een verhaal kiezen. Denk aan het verhaal dat je wilt vertellen. Het zou kunnen zijn:
 
 + Een beroemd verhaal
 + Een verhaal dat je verzonnen hebt
