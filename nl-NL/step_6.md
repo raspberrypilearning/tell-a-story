@@ -1,4 +1,4 @@
-## Je verhaal vertellen
+## Vertel je verhaal
 
 Laten we een tweede deel aan je verhaal toevoegen.
 
