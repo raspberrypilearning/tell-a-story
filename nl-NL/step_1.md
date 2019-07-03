@@ -2,7 +2,7 @@
 
 In dit project leer je hoe je je eigen webpagina kunt maken om een ​​verhaal, grap of gedicht te vertellen.
 
-### Wat ga je maken?
+### Wat ga je maken
 
 Blader naar beneden in de trinket om de clou te zien!
 
