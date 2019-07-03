@@ -22,7 +22,7 @@ Laten we een tweede deel aan je verhaal toevoegen.
 
 ![screenshot](images/story-img-tag.png)
 
-Merk op dat `<img>` -tags een beetje verschillen van andere tags: ze hebben geen eindtag.
+Merk op dat `<img>` tags een beetje verschillen van andere tags: ze hebben geen eindtag.
 
 + Als je wilt dat een afbeelding wordt weergegeven, moet je de ** de naam van de afbeelding** (`src`) tussen de aanhalingstekens invoegen.
 
