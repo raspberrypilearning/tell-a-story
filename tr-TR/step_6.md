@@ -2,19 +2,19 @@
 
 Hikayene ikinci bir bölüm ekleyelim.
 
-+ Kodun 15. satırına gidin ve başka bir `<div>` ve `</div>` başlangıç ve bitiş etiketi ekleyin. Bu, hikayenizin bir sonraki kısmı için yeni bir kutu oluşturacaktır.
++ Kodun 15. satırına gidin ve başka bir `<div>` ve `</div>` başlangıç ve bitiş etiketi ekleyin. Bu, hikayenizin bir sonraki kısmı için yeni bir kbölüm oluşturacaktır.
 
 ![ekran görüntüsü](images/story-div.png)
 
 + Yeni `<div>` etiketinizin içine bir metin paragrafı ekleyin:
 
 ```html
-<p>Burada daha fazla metin!</p>
+<p>Buraya metin girilecek!</p>
 ```
 
 ![ekran görüntüsü](images/story-paragraph.png)
 
-+ Bu kodu `<div>` etiketinize ekleyerek yeni kutunuzda bir resim görüntüleyebilirsiniz:
++ Bu kodu `<div>` etiketinize ekleyerek yeni bölümünüzde bir resim görüntüleyebilirsiniz:
 
 ```html
 <img src="">
