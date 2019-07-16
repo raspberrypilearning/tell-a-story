@@ -17,6 +17,6 @@ Web sayfasında kullanılan renkleri de değiştirebilir ve aşağıdakiler gibi
 + <span style="font-family: Impact;">darbe</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Burada daha fazla CSS renk ismi [bulunuz](http://jumpto.cc/colours){: target = "_ blank"}.
+Burada daha fazla CSS renk ismi [bulabilirsiniz](http://jumpto.cc/colours){: target = "_ blank"}.
 
 \--- /meydan okuma \---
