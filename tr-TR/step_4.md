@@ -27,4 +27,4 @@ Web sayfasının içeriği `index.html` HTML belgesinin `<body>` bölümünde ol
 + `<img>` **görüntü**.
 + `<p>` a, **paragraf** metin.
 
-\--- /çöküş \---
+\--- /collapse \---
