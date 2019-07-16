@@ -1,6 +1,6 @@
 ## Giriş
 
-Bu projede, bir hikaye, şaka ya da şiir anlatmak için kendi web sayfanızı nasıl oluşturacağınızı öğreneceksiniz.
+Bu projede, bir hikaye, şaka ya da şiir anlatmak için kendi web sayfanızı nasıl oluşturabileceğinizi öğreneceksiniz.
 
 ### Ne yapacaksın
 
