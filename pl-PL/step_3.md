@@ -1,9 +1,9 @@
-## Decide on a story
+## Wybierz historyjkę
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Zanim zaczniesz kodować, musisz wymyślić historyjkę. Pomyśl o historii, którą chcesz opowiedzieć. To może być:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Słynna opowieść
++ Historia wymyślona przez Ciebie
++ Coś, co przydarzyło się tobie lub komuś, kogo znasz
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+To nawet nie musi być historia. To może być dowcip, wiersz lub cokolwiek, czego chcesz!
