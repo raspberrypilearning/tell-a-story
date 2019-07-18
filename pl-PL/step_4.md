@@ -1,6 +1,6 @@
-## Editing your story
+## Redakcja twojego opowiadania
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Zacznijmy od edycji treści HTML i stylu CSS strony internetowej opowiadania.
 
 + Otwórz [ten fragment kodu](http://jumpto.cc/web-story){:target="_blank"}.
 
