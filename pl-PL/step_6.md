@@ -1,4 +1,4 @@
-## Telling your story
+## Opowiedz swoją historię
 
 Dodajmy drugą część do twojej historii.
 
