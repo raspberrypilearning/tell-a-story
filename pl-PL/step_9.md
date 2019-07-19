@@ -1,8 +1,8 @@
 \--- wyzwanie \---
 
-## Challenge: keep going!
+## Wyzwanie: Nie zatrzymuj się!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Wykorzystaj to, czego nauczyłeś się w tym projekcie, aby opowiedzieć historię do końca! Oto przykład:
 
 ![zrzut ekranu](images/story-final.png)
 
