@@ -8,7 +8,7 @@
 
 + Kliknij **Prześlij**, a następnie znajdź na komputerze obraz, który chcesz użyć i przeciągnij go do pudełka. Możesz też użyć przycisku, aby go wybrać.
 
-![Upload](images/upload-image.png)
+![Wysyłanie](images/upload-image.png)
 
 + Następnie po prostu dodaj nazwę obrazka pomiędzy znaki cudzysłowu w Twoim znaczniku `<img>`:
 
