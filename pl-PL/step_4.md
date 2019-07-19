@@ -8,13 +8,13 @@ Projekt powinien wyglądać następująco:
 
 ![zrzut ekranu](images/story-starter.png)
 
-Zawartość strony znajduje się w sekcji `<body>` ` index.html ` dokumentu HTML.
+Zawartość strony znajduje się w sekcji `<body>` dokumentu HTML ` index.html `.
 
-+ Sprawdź zawartość strony internetowej, zaczynając od linii 7, pomiędzy tagami `<body>`</0> i `</body>`.
++ Sprawdź zawartość strony internetowej, zaczynając od linii 7, pomiędzy tagami `<body>` i `</body>`.
 
 ![zrzut ekranu](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Sprawdź, czy możesz ustalić, które tagi są używane do tworzenia różnych części strony.
 
 ## \--- collapse \---
 
@@ -22,9 +22,9 @@ Zawartość strony znajduje się w sekcji `<body>` ` index.html ` dokumentu HTML
 
 ![zrzut ekranu](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` jest **nagłówkiem**. Możesz użyć cyfr od 1 do 6, aby utworzyć nagłówki o różnym rozmiarze.
++ `<div>` to skrót od **podziału** (ang. division) i jest sposobem grupowania rzeczy razem. Na tej stronie użyjesz jej do zgrupowania wszystkich elementów dla każdej części twojej historii.
++ `<img>` to **obraz**.
++ `<p>` to **akapit** tekstu.
 
 \--- /collapse \---
