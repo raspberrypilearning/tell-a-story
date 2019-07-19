@@ -36,7 +36,7 @@ Kliknij ikonę obrazu, aby zobaczyć grafiki dostępne dla Twojej historii.
 
 ![zrzut ekranu](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Dodaj nazwę obrazka pomiędzy znaki cudzysłowu w znaczniku `<img>`.
 
 ```html
 <img src="buildings.png">
