@@ -24,15 +24,15 @@ Dodajmy drugą część do twojej historii.
 
 Zauważ, że tagi `<img>` są nieco inne od pozostałych znaczników: nie mają tagu końcowego.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Aby wyświetlić obraz, musisz dodać **źródło** (`src`) obrazu wewnątrz cudzysłowowa.
 
-Click the image icon to see the images available for your story.
+Kliknij ikonę obrazu, aby zobaczyć grafiki dostępne dla Twojej historii.
 
 ![zrzut ekranu](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Zdecyduj, który obrazek chcesz dodać i zapamiętaj jego nazwę, na przykład ` buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Kliknij na `index.html`, aby wrócić do swojego kodu.
 
 ![zrzut ekranu](images/story-image-name.png)
 
