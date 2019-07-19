@@ -1,20 +1,20 @@
 ## Telling your story
 
-Let's add a second part to your story.
+Dodajmy drugą część do twojej historii.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Przejdź do linii 15 kodu i dodaj kolejny zestaw tagów otwierających `<div>` oraz zamykających `</div>`.
 
 ![zrzut ekranu](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Dodaj akapit tekstu wewnątrz nowego tagu `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Więcej tekstu!</p>
 ```
 
 ![zrzut ekranu](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Możesz wyświetlić obraz w nowym polu, dodając ten kod do tagu `<div>`:
 
 ```html
 <img src="">
@@ -22,7 +22,7 @@ Let's add a second part to your story.
 
 ![zrzut ekranu](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Zauważ, że tagi `<img>` są nieco inne od pozostałych znaczników: nie mają tagu końcowego.
 
 + To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
