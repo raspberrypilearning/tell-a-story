@@ -8,9 +8,9 @@ Projekt powinien wyglądać następująco:
 
 ![zrzut ekranu](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Zawartość strony znajduje się w sekcji `<body>` ` index.html ` dokumentu HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Sprawdź zawartość strony internetowej, zaczynając od linii 7, pomiędzy tagami `<body>`</0> i `</body>`.
 
 ![zrzut ekranu](images/story-html.png)
 
