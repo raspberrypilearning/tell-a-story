@@ -4,12 +4,12 @@
 
 + انتقل إلى [هذه الصفحة](http://jumpto.cc/html-images){: target = "_ blank"}، وابحث عن صورة تريد إضافتها في قصتك.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ انقر بزر الماوس الأيمن على الصورة، وانقر على **نسخ عنوان URL للصورة** (أو **نسخ عنوان الصورة**، اعتماداً على الكمبيوتر الذي تستخدمه). عنوان URL هو عنوان الصورة.
 
 ![لقطة شاشة](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ ارجع إلى الصفحة `index.html` الخاصة بك.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ الصق عنوان URL بين علامات الكلام في العلامة `<img>`. يجب أن ترى صورتك تظهر!
 
 ![لقطة شاشة](images/story-image.png)
