@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## تحدي: قم ببعض التغييرات
 
-Edit the HTML and CSS code to customise your webpage.
+قم بتحرير كود HTML و CSS لتخصيص صفحة الويب الخاصة بك.
 
 ![لقطة شاشة](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+يمكن العثور على محتوى HTML في الملف `index.html`، ونمط CSS في الملف `style.css`.
 
 ![لقطة الشاشة](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+يمكنك أيضًا تغيير الألوان المستخدمة في صفحة الويب، ويمكنك استخدام خطوط مختلفة مثل:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
++ <span style="font-family: Tahoma;">Tahome</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+يمكنك العثور على المزيد من أسماء ألوان CSS [هنا](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
