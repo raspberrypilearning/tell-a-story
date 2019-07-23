@@ -1,8 +1,8 @@
-## Finding your own images
+## العثور على الصور الخاصة بك
 
-Let's find an image on the web to add to your story.
+لنجد صورة على الويب لإضافتها إلى قصتك.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ انتقل إلى [هذه الصفحة](http://jumpto.cc/html-images){: target = "_ blank"}، وابحث عن صورة تريد إضافتها في قصتك.
 
 + Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
