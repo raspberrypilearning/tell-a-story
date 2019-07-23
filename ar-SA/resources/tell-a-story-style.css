@@ -1,6 +1,6 @@
-البناء
+body {
   background-color: white;
-  نوع الخط: Arial;
+  font-family: Arial;
 }
 div {
   display: inline-block;
