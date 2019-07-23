@@ -6,12 +6,12 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: احكي قصة
-description: انشء صفحة ويب لتقروي قصة, نكتة, او قصيدة
+title: سرد قصة
+description: انشئ صفحة ويب لتقروي قصة أو نكتة أو قصيدة
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: ادب
+interests: literature
 technologies: html-css-javascript
-site_areas: codeclub, python
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
@@ -22,16 +22,16 @@ steps:
   - 
     title: ما ستحتاج إليه
   - 
-    title: اتخاذ قرار بشان قصة
+    title: اتخاذ قرار بشأن قصة
   - 
-    title: تعديل على قصتك
+    title: تحرير قصتك
   - 
-    title: 'تحدي: اصنع بعض التغيرات'
+    title: 'تحدي: قم ببعض التغييرات'
   - 
     title: رواية قصتك
   - 
-    title: ايجاد صورك الخاصة
+    title: العثور على الصور الخاصة بك
   - 
-    title: تحميل الصور
+    title: رفع الصور
   - 
-    title: 'تحدي: امضي قدما!'
+    title: 'تحدي: امضي قدماً!'
