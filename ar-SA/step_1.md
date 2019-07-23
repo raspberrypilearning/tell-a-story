@@ -1,10 +1,10 @@
 ## المقدمة
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+في هذا المشروع، ستتعلم كيفية إنشاء صفحة الويب الخاصة بك لرواية قصة أو نكتة أو قصيدة.
 
 ### ما الذي ستصنعه
 
-Scroll down in the trinket to see the punch line!
+انتقل للأسفل لرؤية العبرة!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
