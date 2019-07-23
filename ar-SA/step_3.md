@@ -1,9 +1,9 @@
-## Decide on a story
+## اتخاذ قرار بشان قصة
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+قبل أن تبدأ بالتكويد، ستحتاج إلى اتخاذ قرار بشأن قصة. فكر في القصة التي تريد سردها. يمكن ان تكون:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ قصة مشهورة
++ قصة اختلقتها
++ شيء ما حدث لك أو لشخص تعرفه
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+ليس بالضرورة أن تكون قصة. قد تكون مزحة أو قصيدة أو أي شيء آخر تريده!
