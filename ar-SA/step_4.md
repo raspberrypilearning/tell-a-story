@@ -8,13 +8,13 @@
 
 ![لقطة شاشة](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+محتوى صفحة الويب يوضع في القسم `<body>` من `index.html` في مستند HTML.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ ابحث عن محتوى صفحة الويب من السطر 7 فصاعدًا، داخل العلامات `<body>` و ` </body>`.
 
 ![لقطة الشاشة](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ حاول معرفة العلامات التي يتم استخدامها لإنشاء الأجزاء المختلفة من صفحة الويب.
 
 ## \--- collapse \---
 
@@ -22,9 +22,9 @@ Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
 ![لقطة الشاشة](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
++ `<h1>` هو **عنوان**. يمكنك استخدام الأرقام من 1 إلى 6 لإنشاء عناوين بأحجام مختلفة.
++ `<div>` هو اختصار لـ **division** أي التقسيم ، وهو وسيلة لتجميع الأشياء معًا. في صفحة الويب هذه، ستستخدمه لتجميع كل العناصر معًا لكل جزء من قصتك.
++ `<img>` هي **صورة**.
 + `<p>` is a **paragraph** of text.
 
 \--- /collapse \---
