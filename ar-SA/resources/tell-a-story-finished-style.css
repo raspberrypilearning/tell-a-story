@@ -1,6 +1,6 @@
-جسم
-  الخلفية-اللون: ازرق فاتح;
-  خط-عاىلة: مضحك;
+body {
+  background-color: lightblue;
+  font-family: Comic Sans MS;
 {
 div {
   display: inline-block;
