@@ -1,16 +1,16 @@
-## Uploading images
+## رفع الصور
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**إذا كان لديك حساب Trinket**، يمكنك أيضاً رفع صورك إلى صفحتك الويب.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ انقر على أيقونة الصورة في أعلى الـ Trinket الخاصة بك، ثم انقر على **إضافة صورة**.
 
 ![لقطة شاشة](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ انقر علر الزر **رفع**، ثم ابحث عن الصورة التي تريد استخدامها على كمبيوترك واسحبها إلى الصندوق. بدلاً من ذلك، استخدم الزر لتحديدها.
 
-![Upload](images/upload-image.png)
+![رفع](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ ثم فقط أضف اسم صورتك الجديدة بين علامات الكلام في العلامة `<img>`، هكذا:
 
 ```html
 <img src="buildings.png">
