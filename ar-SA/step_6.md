@@ -1,20 +1,20 @@
-## Telling your story
+## رواية قصتك
 
-Let's add a second part to your story.
+دعنا نضيف جزء ثاني لقصتك.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ انتقل إلى السطر 15 من التعليمات البرمجية، وقم بإضافة مجموعة أخرى من `<div>` و ` </div>` علامات البداية والنهاية. سيؤدي هذا إلى إنشاء صندوق جديد للجزء التالي من قصتك.
 
 ![لقطة شاشة](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ أضف فقرة من النص داخل العلامة `<div>` الجديدة:
 
 ```html
-<p>More text here!</p>
+<p>المزيد من النص هنا!</p>
 ```
 
 ![لقطة شاشة](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ يمكنك عرض صورة في صندوقك الجديد عن طريق إضافة هذا الكود في العلامة `<div>` الخاصة بك:
 
 ```html
 <img src="">
