@@ -1,10 +1,10 @@
-## Editing your story
+## تحرير قصتك
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+لنبدأ بتحرير محتوى HTML ونمط CSS لصفحة الويب الخاصة بالقصة.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ افتح [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-الآن يجب أن يبدو الملف الخاص بك مثل هذا:
+سيكون المشروع بالشكل التالي:
 
 ![لقطة شاشة](images/story-starter.png)
 
