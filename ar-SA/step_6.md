@@ -22,21 +22,21 @@
 
 ![لقطة الشاشة](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+لاحظ أن العلامات `<img>` مختلفة قليلاً عن العلامات الأخرى: لا تحتوي على علامة نهاية.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ لجعل صورة تظهر، عليك إضافة **المصدر** (`src`) من الصورة داخل علامات الكلام.
 
-Click the image icon to see the images available for your story.
+انقر على أيقونة الصورة لرؤية الصور المتاحة لقصتك.
 
 ![لقطة الشاشة](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ اختر الصورة التي تريد إضافتها وتذكر اسمها، مثلاً `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ انقر على ` index.html ` للعودة إلى تعليماتك البرمجية.
 
 ![لقطة الشاشة](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ أضف اسم الصورة بين علامات الكلام في العلامة `<img>`.
 
 ```html
 <img src="buildings.png">
