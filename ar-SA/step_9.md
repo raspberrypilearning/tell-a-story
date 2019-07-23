@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## تحدي: امضي قدماً!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+استخدم ما تعلمته في هذا المشروع لإنهاء سرد قصتك! إليك مثال:
 
 ![لقطة شاشة](images/story-final.png)
 
