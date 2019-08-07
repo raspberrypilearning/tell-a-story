@@ -9,7 +9,7 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 + Füge einen Textabschnitt in dein neues `<div>` -Tag ein:
 
 ```html
-<p> Mehr Text hier! </p>
+<p>Mehr Text hier!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
@@ -24,7 +24,7 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 
 Beachte, dass `<img>` -Tags sich ein wenig von anderen Tags unterscheiden: Sie haben kein End-Tag.
 
-+ Damit ein Bild angezeigt wird, musst du die Quelle des Bildes ** ** (` src `) innerhalb der Sprachmarken hinzufügen.
++ Damit ein Bild angezeigt wird, musst du die **Quelle** des Bildes (`src`) innerhalb der Sprachmarken hinzufügen.
 
 Klicke auf das Bildsymbol, um die für deine Geschichte verfügbaren Bilder anzuzeigen.
 
