@@ -1,4 +1,4 @@
-## Aufgabe: Nimm ein paar Veränderungen vor
+## Erstell deine Geschichte
 
 Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu bearbeiten.
 
@@ -6,7 +6,7 @@ Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu b
 
 Das Projekt sollte so aussehen:
 
-![screenshot](images/story-starter.png)
+![Screenshot](images/story-starter.png)
 
 Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTML-Dokument aufgenommen.
 
@@ -22,9 +22,9 @@ Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTM
 
 ![Screenshot](images/story-elements.png)
 
-+ `<h1>` ist eine ** Überschrift **. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
-+ `<div>` steht für ** Division ** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
-+ `<img>` ist ein Bild ** **.
-+ `<p>` ist ein Abschnitt** ** mit Text.
++ `<h1>` ist eine **Überschrift**. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
++ `<div>` steht für **Division** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
++ `<img>` ist ein **Bild**.
++ `<p>` ist ein **Absatz** mit Text.
 
-\--- /collapse\---
+\--- /collapse \---
