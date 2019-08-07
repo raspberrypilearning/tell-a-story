@@ -12,7 +12,7 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 <p>Mehr Text hier!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![Screenshot](images/story-paragraph.png)
 
 + Du kannst ein Bild in deiner neuen Box anzeigen, indem du diesen Code in den `<div>` -Tag einfügst:
 
@@ -20,7 +20,7 @@ Füge einen zweiten Teil zu deiner Geschichte hinzu.
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![Screenshot](images/story-img-tag.png)
 
 Beachte, dass `<img>` -Tags sich ein wenig von anderen Tags unterscheiden: Sie haben kein End-Tag.
 
@@ -30,9 +30,9 @@ Klicke auf das Bildsymbol, um die für deine Geschichte verfügbaren Bilder anzu
 
 ![Screenshot](images/story-see-images.png)
 
-+ Lege fest, welches Bild du hinzufügen möchtest, und merke dir dessen Namen, beispielsweise ` buildings.png `.
++ Lege fest, welches Bild du hinzufügen möchtest, und merke dir dessen Namen, beispielsweise `buildings.png`.
 
-+ Klicke auf ` index.html ` um zu deinem Code zurückzukehren.
++ Klicke auf `index.html` um zu deinem Code zurückzukehren.
 
 ![Screenshot](images/story-image-name.png)
 
