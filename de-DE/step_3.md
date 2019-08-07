@@ -6,4 +6,4 @@ Bevor du anfängst zu programmieren, musst du dich für eine Geschichte entschei
 + Eine Geschichte, die du erfunden hast
 + Etwas, das dir oder jemandem passiert ist, den du kennst
 
-Es muss nicht einmal eine Geschichte sein. Es könnte ein Witz, ein Gedicht oder etwas anderes sein, was du erzählen möchtest!
+Es muss nicht einmal eine Geschichte sein. Es könnte auch ein Witz, ein Gedicht oder etwas anderes sein, was du erzählen möchtest!
