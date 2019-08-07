@@ -4,9 +4,9 @@
 
 Bearbeite den HTML- und CSS-Code, um deine Webseite anzupassen.
 
-![screenshot](images/story-changes.png)
+![Screenshot](images/story-changes.png)
 
-Die HTML-Inhalte findest du in der `index.html`-Datei und die CSS-Style in der `style.css` Datei.
+Die HTML-Inhalte findest du in der `index.html` Datei und die CSS-Style in der `style.css` Datei.
 
 ![Screenshot](images/story-files.png)
 
