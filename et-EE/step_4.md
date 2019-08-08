@@ -8,7 +8,7 @@ Projekt peaks välja nägema selline:
 
 ![kuvatõmmis](images/story-starter.png)
 
-Veebilehe sisu läheb `&lt;body&gt;` jaotisesse `index.html` HTML-dokumendis.
+Veebilehe sisu läheb `<body>` jaotisesse `index.html` HTML-dokumendis.
 
 + Veebilehe sisu leiad alates 7. reast, `&lt;body&gt;` ja `&lt;/body&gt;` siltide seest.
 
