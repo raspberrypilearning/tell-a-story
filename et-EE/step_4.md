@@ -23,8 +23,8 @@ Veebilehe sisu läheb `<body>` jaotisesse `index.html` HTML-dokumendis.
 ![kuvatõmmis](images/story-elements.png)
 
 + `<h1>` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
-+ `&lt;div&gt;` on lühend **jaotamisele**ja see on moodus asjade rühmitamiseks. Sellel veebilehel saad seda kasutada, et rühmitada kõik asjad oma loo iga osa jaoks.
-+ `&lt;img&gt;` on **kujutis**.
-+ `&lt;p&gt;` on teksti **lõik**.
++ `<div>` on lühend **jaotamisele**ja see on moodus asjade rühmitamiseks. Sellel veebilehel saad seda kasutada, et rühmitada kõik asjad oma loo iga osa jaoks.
++ `<img>` on **kujutis**.
++ `<p>` on teksti **lõige**.
 
 \--- /collapse \---
