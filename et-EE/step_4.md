@@ -10,7 +10,7 @@ Projekt peaks välja nägema selline:
 
 Veebilehe sisu läheb `<body>` jaotisesse `index.html` HTML-dokumendis.
 
-+ Veebilehe sisu leiad alates 7. reast, `&lt;body&gt;` ja `&lt;/body&gt;` siltide seest.
++ Veebilehe sisu leiad alates 7. reast edasi,seest `<body>`ja`</body>` sildiga.
 
 ![kuvatõmmis](images/story-html.png)
 
@@ -22,7 +22,7 @@ Veebilehe sisu läheb `<body>` jaotisesse `index.html` HTML-dokumendis.
 
 ![kuvatõmmis](images/story-elements.png)
 
-+ `&lt;h1&gt;` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
++ `<h1>` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
 + `&lt;div&gt;` on lühend **jaotamisele**ja see on moodus asjade rühmitamiseks. Sellel veebilehel saad seda kasutada, et rühmitada kõik asjad oma loo iga osa jaoks.
 + `&lt;img&gt;` on **kujutis**.
 + `&lt;p&gt;` on teksti **lõik**.
