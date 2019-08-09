@@ -10,6 +10,6 @@ Leiame pildi veebist, mida su loole lisada.
 
 + Mine tagasi oma `index.html` lehele.
 
-+ Kleebi URL oma `&lt;img&gt;` sildis olevate jutumärkide vahele. Sa peaksid nägema oma pilti ilmumas!
++ Kleebi URL oma `<img>` sildis olevate jutumärkide vahele. Sa peaksid nägema oma pilti ilmumas!
 
 ![kuvatõmmis](images/story-image.png)
