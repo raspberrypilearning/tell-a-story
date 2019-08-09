@@ -6,15 +6,15 @@ Lisame su loole teise osa.
 
 ![kuvatõmmis](images/story-div.png)
 
-+ Lisa oma uue sildi `&lt;div&gt;` sisse tekstilõik:
++ Lisa oma uue sildi `<div>` sisse tekstilõik:
 
 ```html
-&lt;p&gt;Veel teksti siia!&lt;/p&gt;
+<p>veel teksti siia!</p>
 ```
 
 ![kuvatõmmis](images/story-paragraph.png)
 
-+ Uues kastis saad kuvada pildi, lisades selle koodi oma `&lt;div&gt;` sildi sees:
++ Uues kastis saad kuvada pildi, lisades selle koodi oma `<div>` sildi sees:
 
 ```html
 &lt;img src=""&gt;
