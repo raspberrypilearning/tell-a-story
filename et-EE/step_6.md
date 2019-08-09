@@ -9,7 +9,7 @@ Lisame su loole teise osa.
 + Lisa oma uue sildi `<div>` sisse tekstilõik:
 
 ```html
-<p>veel teksti siia!</p>
+<p>Veel teksti siia!</p>
 ```
 
 ![kuvatõmmis](images/story-paragraph.png)
@@ -17,12 +17,12 @@ Lisame su loole teise osa.
 + Uues kastis saad kuvada pildi, lisades selle koodi oma `<div>` sildi sees:
 
 ```html
-&lt;img src=""&gt;
+<img src="">
 ```
 
 ![kuvatõmmis](images/story-img-tag.png)
 
-Pane tähele, et `&lt;img&gt;` sildid on teistest siltidest veidi erinevad: neil pole lõppsilti.
+Pane tähele, et `<img>` sildid on teistest siltidest veidi erinevad: neil pole lõppsilti.
 
 + Pildi kuvamiseks pead lisama pildi **allika**(`src`) jutumärkide vahele.
 
@@ -36,10 +36,10 @@ Klõpsa pildiikoonil, et näha oma loo jaoks saadaval olevaid pilte.
 
 ![kuvatõmmis](images/story-image-name.png)
 
-+ Lisa pildi nimi oma `&lt;img&gt;` sildis olevate jutumärkide vahele.
++ Lisa pildi nimi oma `<img>` sildis olevate jutumärkide vahele.
 
 ```html
-&lt;img src="buildings.png"&gt;
+<img src="buildings.png">
 ```
 
 ![kuvatõmmis](images/story-image-name-add.png)
