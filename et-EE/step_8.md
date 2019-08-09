@@ -10,8 +10,8 @@
 
 ![Lae üles](images/upload-image.png)
 
-+ Siis lihtsalt lisa oma uue pildi nimi oma `&lt;img&gt;` sildi jutumärkide vahele, näiteks nii:
++ Siis lihtsalt lisa oma uue pildi nimi oma `<img>` sildi jutumärkide vahele, näiteks nii:
 
 ```html
-&lt;img src="buildings.png"&gt;
+<img src="buildings.png">
 ```
