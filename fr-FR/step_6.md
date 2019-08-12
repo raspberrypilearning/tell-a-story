@@ -30,9 +30,9 @@ Clique sur l'icône de l'image pour voir les images disponibles pour ton histoir
 
 ![capture d'écran](images/story-see-images.png)
 
-+ Décide quelle image tu veux ajouter et rappelle toi son nom, par exemple ` buildings.png ` .
++ Décide quelle image tu veux ajouter et rappelle toi son nom, par exemple `buildings.png` .
 
-+ Clique sur ` index.html ` pour revenir à ton code.
++ Clique sur `index.html` pour revenir à ton code.
 
 ![capture d'écran](images/story-image-name.png)
 
