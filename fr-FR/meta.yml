@@ -7,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Raconte Une Histoire
-description: Create a webpage to tell a story, joke, or poem
+description: Créer une page Web pour raconter une histoire, une blague ou un poème
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
