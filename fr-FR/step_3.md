@@ -1,6 +1,6 @@
 ## Choisis une histoire
 
-Avant de coder, vous tu dois une histoire. Pense à l'histoire que tu veux raconter. Ca peut être:
+Avant de coder, tu auras besoin de choisir une histoire. Pense à l'histoire que tu veux raconter. Çà peut être:
 
 + Une histoire connue
 + Une histoire que tu as inventée
