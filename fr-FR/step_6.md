@@ -14,7 +14,7 @@ Ajoutons une deuxième partie à ton histoire.
 
 ![capture d’écran](images/story-paragraph.png)
 
-+ Tu peux afficher une image dans votre nouvelle boîte en ajoutant ce code dans ta balise `<div>`:
++ Tu peux afficher une image dans ta nouvelle boîte en ajoutant ce code dans ta balise `<div>`:
 
 ```html
 <img src="">
@@ -24,7 +24,7 @@ Ajoutons une deuxième partie à ton histoire.
 
 Note que les balises `<img>` sont un peu différentes des autres balises: elles n’ont pas de balise de fin.
 
-+ Pour faire apparaître une image, tu dois ajouter la source **. ** (` src ` ) de l'image à l'intérieur des repères de parole.
++ Pour faire apparaître une image, tu dois ajouter la **source** (`src` ) de l'image à l'intérieur des repères de parole.
 
 Clique sur l'icône de l'image pour voir les images disponibles pour ton histoire.
 
