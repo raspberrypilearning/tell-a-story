@@ -1,6 +1,6 @@
-## Ce dont tu auras besoin
+## Ce que tu auras besoin
 
-### Equipement informatique
+### Matériel informatique
 
 + Un ordinateur capable d'accéder à [trinket.io](https://trinket.io){:target="_blank"}
 
