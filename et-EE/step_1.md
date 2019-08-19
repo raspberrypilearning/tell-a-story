@@ -22,4 +22,4 @@ Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppek
 
 Kui sul on vaja see projekt välja printida, siis kasuta [printerisõbralikku versiooni](https://projects.raspberrypi.org/et-EE/projects/tell-a-story/print){:target="_blank"}.
 
-Kasuta linki jaluses, et pääseda ligi selle projekti GitHub varamule, mis sisaldab kõiki ressursse (kaasa arvatud valmisprojekti näidist) 'est/resources' kaustas.
+Kasuta linki jaluses, et pääseda ligi selle projekti GitHub varamule, mis sisaldab kõiki ressursse (kaasa arvatud valmisprojekti näidist) 'en/resources' kaustas.

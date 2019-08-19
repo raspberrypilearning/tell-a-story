@@ -6,7 +6,7 @@
 
 ![kuvatõmmis](images/story-upload.png)
 
-+ Klõpsake ** üleslaadimisel ** nupp, siis leidke pilt, mida soovite oma arvutis kasutada, ja lohistage see kasti. Teise võimalusena kasutage nuppu selle valimiseks.
++ Klõpsake **üleslaadimisel** nupp, siis leidke pilt, mida soovite oma arvutis kasutada, ja lohistage see kasti. Teise võimalusena kasutage nuppu selle valimiseks.
 
 ![Lae üles](images/upload-image.png)
 
