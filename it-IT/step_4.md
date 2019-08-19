@@ -1,13 +1,31 @@
---- challenge ---
-## Sfida: Effettua delle modifiche 
-Modifica il codice HTML e CSS per personalizzare la pagina Web.
+## Fai modifiche alla tua storia
 
-![screenshot](images/story-changes.png)
+Iniziamo modificando il contenuto HTML e lo stile CSS della pagina web della storia.
 
-Puoi modificare i colori utilizzati nella pagina Web e puoi anche usare caratteri come <span style="font-family: Arial;">Arial</span>, <span style="font-family: Comic Sans MS;">Comic Sans MS</span>, <span style="font-family: Impact;">Impact</span> e <span style="font-family: Tahoma;">Tahoma</span>.
++ Apri [questo trinket](https://trinket.io/html/88e3147727){:target="_blank"}.
 
-Altri nomi di colori CSS sono disponibili qui: <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Il progetto dovrebbe assomigliare a questo:
 
-Se ti serve aiuto, puoi consultare il progetto "Buon compleanno".
+![screenshot](images/story-starter.png)
 
---- /challenge ---
+Il contenuto della pagina web va nella sezione `<body>` del documento HTML `index.html`.
+
++ Troverai il contenuto della pagina web dalla riga 7 in poi, dentro i tag `<body>` e `</body>`.
+
+![screenshot](images/story-html.png)
+
++ Prova a capire quali sono i tag da usare per creare le diverse parti della pagina web.
+
+--- collapse ---
+---
+title: Risposta
+---
+
+![screenshot](images/story-elements.png)
+
++ `<h1>` è un'**intestazione**. Puoi usare i numeri da 1 a 6 per creare intestazioni di misure differenti.
++ `<div>` è l'abbreviazione di **divisore** ed è un modo di raggruppare vari elementi. In questa pagina, lo userai per mettere insieme tutti gli elementi di ogni parte della tua storia.
++ `<img>` è un'**immagine**.
++ `<p>` è un **paragrafo** del testo.
+
+--- /collapse ---
