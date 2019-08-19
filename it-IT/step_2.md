@@ -1,10 +1,9 @@
-## Pensa a una storia
+## Cosa ti servirà
 
-Prima di iniziare a programmare, dovrai pensare a una storia da raccontare.
+### Hardware
 
-+ Pensa alla storia che vorresti raccontare. Ad esempio:
-	+ Una storia conosciuta;
-	+ Una storia che ti sei inventato/a;
-	+ Qualcosa che è successo a te o a qualcuno che conosci.
++ Un computer in grado di accedere al sito [trinket.io](https://trinket.io){:target="_blank"}
 
-	Non deve essere necessariamente una storia. Può essere una barzelletta, una poesia o qualsiasi altra cosa che desideri tu!
+### Software
+
+Questo progetto può essere completato con un browser web usando [trinket.io](https://trinket.io){:target="_blank"}.

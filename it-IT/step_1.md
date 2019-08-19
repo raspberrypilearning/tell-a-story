@@ -1,59 +1,25 @@
 ## Introduzione
 
-In questo progetto, imparerai a creare la tua pagina Web per raccontare una storia, una barzelletta o una poesia.
+In questo progetto, imparerai a creare la tua pagina web per raccontare una storia, barzelletta o poesia.
 
-![screenshot](images/story-final.png)
+### Cosa farai
 
-## Risorse online
+Scorri verso il basso nel trinket per vedere come finisce la storia!
 
-Si consiglia di utilizzare [trinket](https://trinket.io/) per scrivere in linguaggio HTML e CSS online. Questo progetto contiene i seguenti trinket:
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/7e5e6e5f1d?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/story-final.png">
+</div>
 
-+ [Punto di partenza per "Racconta una storia" -- jumpto.cc/web-story](http://jumpto.cc/web-story)
+### Che cosa imparerai
 
-Per scrivere il proprio codice HTML e CSS, i bambini possono inoltre utilizzare il seguente trinket vuoto [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) oppure questo modello di trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Questo progetto include argomenti dai seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-È disponibile anche un trinket con esempi di soluzioni alle sfide:
++ [Risorse base di design 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ ["Racconta una storia" finito -- trinket.io/html/c8afdef912](https://trinket.io/html/c8afdef912)
+### Informazioni aggiuntive per gli educatori
 
-## Risorse offline
-Questo progetto può essere completato [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferito. È possibile accedere alle risorse del progetto facendo clic sul link "Project Materials" (Materiali per il progetto). Il link apre la sezione "Project Resources" (Risorse del progetto) che contiene le risorse necessarie ai bambini per completare il progetto offline. È bene assicurarsi che tutti i bambini abbiano accesso a una copia di queste risorse. Questa sezione contiene i seguenti file:
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/it-IT/projects/tell-a-story/print){:target="_blank"} .
 
-+ template/index.html
-+ template/style.css
-+ tell-a-story/index.html
-+ tell-a-story/style.css
-+ tell-a-story/buildings.png
-+ tell-a-story/sun.png
-
-È inoltre presente una versione completata delle sfide di questo progetto nella sezione "Volunteer Resources" (Risorse per i volontari), che contiene:
-
-+ tell-a-story-finished/index.html
-+ tell-a-story-finished/style.css
-+ tell-a-story-finished/boy.png
-+ tell-a-story-finished/girl.png
-
-(Tutte le risorse sopra indicate possono essere scaricate anche come file ".zip" di progetto e di volontario.)
-
-## Obiettivi di apprendimento
-+ Scrittura di HTML:
-	+ tag `<div>` e raggruppamento di elementi;
-	+ tag `<img>` e URL delle immagini;
-	+ intestazioni `<h1>` - `<h6>`.
-
-Questo progetto copre elementi contenuti nei seguenti filoni di [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Progettazione di risorse 2D e 3D di base](https://www.raspberrypi.org/curriculum/design/creator).
-
-## Sfide
-+ "Effettua delle modifiche" - modifica del contenuto HTML e dello stile CSS;
-+ "Continua tu!" - applicazione di tag e stile per creare una storia completa.
-
-## Completamento del progetto offline
-+ Se i bambini completano il progetto offline, dovranno salvare le immagini che intendono utilizzare nella stessa cartella del file `Story.html`.
-
-	Possono quindi semplicemente aggiungere il nome del file nei tag `<img>`:
-
-	```
-		<img src="house.png" />
-	``` 
+Clicca il link a piè di pagina per accedere al repository di GitHub relativo a questo progetto, che contiene tutte le risorse necessarie (incluso un esempio di progetto completo) nella cartella 'en/resources'.

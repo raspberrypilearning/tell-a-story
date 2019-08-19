@@ -1,10 +1,9 @@
-## Trouver une histoire à raconter
+## Ce que tu auras besoin
 
-Avant de commencer à coder, il faut trouver une histoire à raconter.
+### Matériel informatique
 
-+ Pense à l'histoire que tu veux raconter. Ça pourrait être:
-	+ Une histoire célèbre
-	+ Une histoire que tu as inventée
-	+ Quelque chose qui t'est arrivé ou à quelqu'un que tu connais
++ Un ordinateur capable d'accéder à [trinket.io](https://trinket.io){:target="_blank"}
 
-	Ce n'est pas forcément une histoire. Ça peut être une blague, un poème ou ce que tu veux!
+### Logiciel
+
+Ce projet peut être complété dans un navigateur Web en utilisant [trinket.io](https://trinket.io){:target="_blank"}.

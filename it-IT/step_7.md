@@ -1,17 +1,15 @@
-## Caricamento di immagini
+## Cerca le tue immagini
 
-__Se hai un account su Trinket__, puoi anche caricare le tue immagini sulla pagina Web!
+Cerchiamo un'immagine su Internet da aggiungere alla tua storia.
 
-+ Fai clic sull’icona delle immagini situata nella parte superiore di trinket e quindi su "Add Image" (Aggiungi immagine).
++ Vai su [questa pagina](http://jumpto.cc/html-images){:target="_blank"} e trova un'immagine che vuoi includere nella tua storia.
 
-	![screenshot](images/story-upload.png)
++ Fai clic col tasto destro sull'immagine e clicca **Copia l'URL dell'immagine** (oppure **Copia l'indirizzo dell'immagine**, a seconda del computer che stai usando). L'URL è l'indirizzo dell'immagine.
 
-+ Trova l’immagine sul computer e trascinala in trinket.
+![screenshot](images/story-url.png)
 
-	![screenshot](images/story-drag.png)
++ Ritorna alla pagina `index.html`.
 
-+ Puoi quindi aggiungere il nome dell’immagine nuova tra le virgolette del tag `<img>`, nel modo seguente:
++ Incolla l'URL tra le virgolette del tuo tag `<img>`. Dovresti vedere la tua immagine che appare!
 
-	```
-	<img src="buildings.png">
-	```
+![screenshot](images/story-image.png)

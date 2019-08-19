@@ -1,43 +1,22 @@
-## Racconta la tua storia
+--- challenge ---
 
-Aggiungiamo ora una seconda parte alla storia.
+## Sfida: fai delle modifiche
 
-+ Vai alla riga 15 del codice e aggiungi un’altra coppia di tag `<div>` e `</div>` di apertura e chiusura. Verrà creata una nuova casella per la parte successiva della storia.
+Modifica il codice HTML e CSS per personalizzare la tua pagina web.
 
-	![screenshot](images/story-div.png)
+![screenshot](images/story-changes.png)
 
-+ Aggiungi un paragrafo di testo all’interno del nuovo tag `<div>`.
+Puoi trovare il codice HTML nel file `index.html` e quello CSS nel file `style.css`.
 
-	```
-	<p>Aggiungi qui del testo!</p>
-	```
+![screenshot](images/story-files.png)
 
-	![screenshot](images/story-paragraph.png)
+Puoi anche cambiare i colori usati nella pagina e puoi usare vari tipi di carattere come:
 
-+ Puoi infine aggiungere un’immagine nella nuova casella aggiungendo questa sintassi all’interno del tag `<div>`:
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-	```
-	<img src="">
-	```
+Trova altri nomi di colori CSS [qua](http://jumpto.cc/colours){:target="_blank"}.
 
-	![screenshot](images/story-img-tag.png)
-
-	I tag `<img>` sono leggermente diversi dagli altri, in quanto non dispongono di un tag di chiusura.
-
-+ Per le immagini in HTML, dovrai aggiungere la __fonte__ dell’immagine, all’interno delle virgolette.
-
-	Fai clic sull’icona delle immagini per visualizzare le immagini disponibili per la tua storia.
-
-	![screenshot](images/story-see-images.png)
-
-+ Trova il nome di un’immagine che desideri aggiungere, ad esempio `buildings.png`. Fai clic su `index.html` per tornare al codice.
-
-	![screenshot](images/story-image-name.png)
-
-+ Puoi quindi aggiungere il nome dell’immagine tra le virgolette del tag `<img>`.
-
-	```
-	<img src="buildings.png">
-	```
-
-	![screenshot](images/story-image-name-add.png)
+--- /challenge ---
