@@ -1,4 +1,4 @@
-## Lade die Bilder hoch
+## Lade eigene Bilder hoch
 
 ** Wenn du ein Trinket-Konto hast ** kannst du auch eigene Bilder auf deine Webseite hochladen.
 
