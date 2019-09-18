@@ -1,13 +1,31 @@
---- challenge ---
-## Aufgabe: Nimm ein paar Veränderungen vor
-Bearbeite den HTML und den CSS Code, um deine Webseite speziell und eigen anzufertigen.
+## Erstell deine Geschichte
 
-![screenshot](images/story-changes.png)
+Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu bearbeiten.
 
-Du kannst die Farben ändern, die auf der Webseite benutzt werden, und du kannst auch folgende Schriftgrößen benutzen <span style="font-family: Arial;">Arial</span>, <span style="font-family: Comic Sans MS;">Comic Sans MS</span>, <span style="font-family: Impact;">Impact</span> and <span style="font-family: Tahoma;">Tahoma</span>.
++ Öffne [dieses trinket](https://trinket.io/html/c16d148ff2){:target="_blank"}.
 
-Du findest weitere CSS Farbnamen unter <a href="http://jumpto.cc/colours" target="_blank">jumpto.cc/colours</a>.
+Das Projekt sollte so aussehen:
 
-Falls du weitere Hilfestellung benötigst, kannst du dich auf das 'Happy Birthday' Projekt beziehen.
+![Screenshot](images/story-starter.png)
 
---- /challenge ---
+Der Inhalt der Webseite wird in den Abschnitt `<body>` von `index.html` vom HTML-Dokument aufgenommen.
+
++ Suche den Inhalt der Webseite ab Zeile 7 innerhalb von `<body>` und `</body>` Marken.
+
+![Screenshot](images/story-html.png)
+
++ Versuche herauszufinden, welche Marken benutzt werden, um die unterschiedlichen Teile der Webseite zu erstellen.
+
+--- collapse ---
+---
+title: Antwort
+---
+
+![Screenshot](images/story-elements.png)
+
++ `<h1>` ist eine **Überschrift**. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
++ `<div>` steht für **Division** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
++ `<img>` ist ein **Bild**.
++ `<p>` ist ein **Absatz** mit Text.
+
+--- /collapse ---

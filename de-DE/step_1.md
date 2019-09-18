@@ -1,59 +1,25 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt lernst du, wie du deine eigene Webseite erstellst, um eine Geschichte, einen Witz oder ein Gedicht zu erzählen.
+In diesem Projekt wirst du lernen, eine eigene Webseite zu erstellen um eine Geschichte, einen Witz oder ein Gedicht zu erzählen.
 
-![screenshot](images/story-final.png)
+### Was du machen wirst
 
-## Online Ressourcen
+Scroll im trinket nach unten um die Pointe zu sehen!
 
-Wir empfehlen [trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/7aa9738db1?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/story-final.png">
+</div>
 
-+ ['Tell a Story' starting point -- jumpto.cc/web-story](http://jumpto.cc/web-story)
+### Was du lernen wirst
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML und CSS Code zu schreiben, bzw. alternativ können sie diese Vorlage [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum) {:target="_blank"}:
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
++ [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-+ ['Tell a Story' Finished -- trinket.io/html/c8afdef912](https://trinket.io/html/c8afdef912)
+### Zusätzliche Informationen für Pädagogen
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , wenn bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Wenn Sie dieses Projekt ausdrucken möchten, verwenden Sie bitte die [druckerfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/tell-a-story/print){:target="_blank"}.
 
-+ template/index.html
-+ template/style.css
-+ tell-a-story/index.html
-+ tell-a-story/style.css
-+ tell-a-story/buildings.png
-+ tell-a-story/sun.png
-
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
-
-+ tell-a-story-finished/index.html
-+ tell-a-story-finished/style.css
-+ tell-a-story-finished/boy.png
-+ tell-a-story-finished/girl.png
-
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
-
-## Lernziele
-+ HTML schreiben:
-	+ `<div>` Tag und Gruppierung von Elementen;
-	+ `<img>` Tag und Bilder URLs;
-	+ `<h1>` - `<h6>` Überschriften.
-
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
-
-+ [Design Grundlagen 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
-
-## Aufgaben
-+ „Änderungen produzieren“: HTML Inhalt und CSS Stil bearbeiten;
-+ „Mach weiter so! “: Tags und Gestaltung anwenden, um eine vollendete Geschichte zu erstellen.
-
-## Dieses Projekt offline fertig stellen
-+ Falls die Kinder dieses Projekt offline fertig stellen sollen, müssen sie die Bilder, die sie hierfür benutzen wollen, im gleichen Verzeichnis wie ihre `Story.html` (Geschichte) Datei abspeichern.
-
-	Sie müssen dann nur den Namen der Datei zu ihren `<img>` Tags hinzufügen:
-
-	```
-		<img src="house.png" />
-	``` 
+Verwenden Sie den Link in der Fußzeile, um auf das GitHub-Repo für dieses Projekt zuzugreifen. Dieses enthält alle Ressourcen (einschließlich eines Beispiels für ein abgeschlossenes Projekt) im Ordner "de-DE/resources".

@@ -1,24 +1,9 @@
-## Die Geschichte bearbeiten
+## Entscheide dich für eine Geschichte
 
-Lass uns damit beginnen, den HTML Inhalt und CSS Stil der Geschichten-Webseite zu bearbeiten.
+Bevor du anfängst zu programmieren, musst du dich für eine Geschichte entscheiden. Denk über die Geschichte, die zu erzählen willst, nach. Es könnte sein:
 
-+ Dieses Trinket öffnen: <a href="http://jumpto.cc/web-story" target="_blank">jumpto.cc/web-story</a>. 
++ Eine bekannte Geschichte
++ Eine Geschichte, die du erfunden hast
++ Etwas, das dir oder jemandem passiert ist, den du kennst
 
-	Das Projekt sollte so aussehen:
-	
-	![screenshot](images/story-starter.png)
-
-+ Du wirst dich vielleicht noch an das 'Happy Birthday' Projekt erinnern: Der Webseiteninhalt kommt in den `<body>` (Body, bzw. Hauptteil) des HTML Dokuments.
-
-	Gehe zu Zeile 7 des Codes und du solltest den Webseiteninhalt, der sich in den `<body>` und den `</body>` Tags befindet, sehen können.
-
-	![screenshot](images/story-html.png)
-
-+ Kannst du unterscheiden, welche Tags benutzt werden, um die verschiedenen Komponente der Webseite zu erstellen?
-
-	![screenshot](images/story-elements.png)
-
-	+ `<h1>` ist eine __Überschrift__. Du kannst die Zahlen von 1 bis 6 benutzen, um Überschriften in unterschiedlichen Größen zu erstellen;
-	+ `<div>` ist eine Abkürzung für __Division__ (bzw. Teilung) und ist eine Methode, um Dinge zusammen zu gruppieren. Bei dieser Webseite wirst du es benutzen, um alle Dinge für jeden Aspekt deiner Geschichte zusammen zu gruppieren;
-	+ `<img>` ist ein __Bild__ (bzw. „Image“);
-	+ `<p>` ist ein __Absatz__ (bzw. „Paragraph“) von Text.
+Es muss nicht einmal eine Geschichte sein. Es könnte auch ein Witz, ein Gedicht oder etwas anderes sein, was du erzählen möchtest!
