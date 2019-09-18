@@ -9,7 +9,7 @@ Nutze das, was du in diesem Projekt gelernt habst, um deine Geschichte zu erzäh
 --- /challenge ---
 
 
-Von der Community übersetzt
+**Von der Community übersetzt**
 
 Dieses Projekt wurde von **Martin Ruhle** übersetzt und von **Julien de Boer** überprüft.
 

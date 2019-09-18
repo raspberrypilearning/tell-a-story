@@ -14,7 +14,7 @@ Scroll im trinket nach unten um die Pointe zu sehen!
 
 ### Was du lernen wirst
 
-Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum) {:target="_blank"}:
+Dieses Projekt umfasst Elemente aus den folgenden Themen des [Raspberry Pi Digital Making Lehrplans](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
