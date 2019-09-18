@@ -1,43 +1,22 @@
-## Eine Geschichte erzählen
+--- challenge ---
 
-Lass uns einen zweiten Teil zu deiner Geschichte hinzufügen.
+## Aufgabe: mach ein paar Änderungen
 
-+ Gehe zu Zeile 15 des Codes und füge ein weiteres Set von `<div>` und `</div>` Start- und End-Tags hinzu. Dies erstellt ein neues Kästchen für den nächsten Teil deiner Geschichte.
+Bearbeite den HTML- und CSS-Code, um deine Webseite anzupassen.
 
-	![screenshot](images/story-div.png)
+![Screenshot](images/story-changes.png)
 
-+ Füge einen Textabsatz innerhalb deines neuen `<div>` Tags hinzu.
+Die HTML-Inhalte findest du in der `index.html` Datei und die CSS-Style in der `style.css` Datei.
 
-	```
-	<p>Noch mehr Text hier!</p>
-	```
+![Screenshot](images/story-files.png)
 
-	![screenshot](images/story-paragraph.png)
+Du kannst auch die auf der Webseite verwendeten Farben ändern und verschiedene Schriftarten verwenden, z. B.:
 
-+ Zum Schluss kannst du ein Bild zu deinem neuen Kästchen hinzufügen, indem du diesen Code innerhalb deines `<div>` Tags hinzufügst:
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-	```
-	<img src="">
-	```
+Du findest weitere CSS-Farbnamen [hier](http://jumpto.cc/colours){:target="_blank"}.
 
-	![screenshot](images/story-img-tag.png)
-
-	Beachte bitte, dass die `<img>` Tags etwas anders als die anderen Tags sind, weil sie keinen End-Tag besitzen.
-
-+ Bei HTML Bildern musst du die __Quelle__ des Bildes innerhalb der Anführungszeichen hinzufügen. 
-
-	Klicke auf das Bildsymbol, um zu sehen, welche Bilder dir für deine Geschichte zur Verfügung stehen.
-
-	![screenshot](images/story-see-images.png)
-
-+ Finde den Namen eines Bildes, das du hinzufügen möchtest, z. B. `buildings.png` (Gebäude). Du kannst dann auf `index.html` klicken, um wieder zurück zu deinem Code zu gelangen.
-
-	![screenshot](images/story-image-name.png)
-
-+ Du kannst dann den Namen des Bildes zwischen den Anführungszeichen in deinem `<img>` Tag hinzufügen.
-
-	```
-	<img src="buildings.png">
-	```
-
-	![screenshot](images/story-image-name-add.png)
+--- /challenge ---

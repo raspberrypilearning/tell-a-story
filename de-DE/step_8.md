@@ -1,7 +1,17 @@
---- challenge ---
-## Aufgabe: Mach weiter so! 
-Benutze das, was du in diesem Projekt gelernt hast, um deine Geschichte zu Ende zu erzählen! Hier ist ein Beispiel:
+## Lade eigene Bilder hoch
 
-![screenshot](images/story-final.png)
+**Wenn du ein Trinket-Konto hast** kannst du auch eigene Bilder auf deine Webseite hochladen.
 
---- /challenge ---
++ Klicke auf das Bildsymbol oben im Trinket und klicke dann auf **Bild hinzufügen**.
+
+![Screenshot](images/story-upload.png)
+
++ Klicke auf **Upload**. Wähle dann das Bild aus, das du auf deinem Computer verwenden möchtest und ziehe es in das Feld. Alternativ kannst du es auch mit der Taste auswählen.
+
+![Upload](images/upload-image.png)
+
++ Füge den Namen des Bildes zwischen den Marken in deinem `<img>` -Tag hinzu:
+
+```html
+<img src="buildings.png">
+```

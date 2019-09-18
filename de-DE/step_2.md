@@ -1,10 +1,9 @@
-## Denk dir eine Geschichte aus
+## Was du brauchen wirst
 
-Bevor du mit dem Programmieren beginnst, musst du dir eine Geschichte ausdenken, bzw. auswählen, welche du erzählen willst.
+### Hardware
 
-+ Denke ein wenig über die Geschichte nach. Es könnte:
-	+ eine berühmte Geschichte sein;
-	+ eine Geschichte sein, die du erfunden hast;
-	+ etwas sein, das entweder dir oder einem Freund/einer Freundin passiert ist.
++ Einen Computer, der auf [trinket.io](https://trinket.io){:target="_blank"} zugreifen kann
 
-	Es muss nicht unbedingt eine Geschichte sein. Es könnte auch ein Witz oder ein Gedicht sein oder etwas ganz anderes, das du erzählen willst!
+### Software
+
+Dieses Projekt kann in einem Webbrowser mit [trinket.io](https://trinket.io){:target="_blank"} bearbeitet werden.

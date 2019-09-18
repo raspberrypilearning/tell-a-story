@@ -1,17 +1,15 @@
-## Bilder hochladen
+## Suche eigene Bilder
 
-__Wenn du ein Trinket Konto hast__, kannst du auch deine eigenen Bilder zur Webseite hochladen!
+Lass uns im Web ein Bild finden, um es deiner Geschichte hinzuzufügen.
 
-+ Klicke auf das Bildsymbol oberhalb deines Trinkets und klicke dann auf 'Add Image' (Bild hinzufügen).
++ Gehe zu [dieser Seite](http://jumpto.cc/html-images){:target="_blank"} und finde ein Bild, das du in deine Geschichte aufnehmen möchtest.
 
-	![screenshot](images/story-upload.png)
++ Klicke mit der rechten Maustaste auf das Bild und klicke auf **Bild-URL kopieren** (oder **Bildadresse kopieren**, abhängig vom verwendeten Computer). Die URL ist die Adresse des Bildes.
 
-+ Finde dein Bild auf deinem Computer und ziehe es mit der Maus in dein Trinket.
+![Screenshot](images/story-url.png)
 
-	![screenshot](images/story-drag.png)
++ Gehe zurück zu deiner `index.html` Seite.
 
-+ Du brauchst dann nur noch den Namen deines neuen Bildes zwischen die Anführungszeichen in deinem `<img>` Tag einzufügen, so wie hier dargestellt:
++ Füge die URL zwischen den Sprachmarken in deinem `<img>` -Tag ein. Du solltest das Bild jetzt sehen können!
 
-	```
-	<img src="buildings.png">
-	```
+![screenshot](images/story-image.png)
