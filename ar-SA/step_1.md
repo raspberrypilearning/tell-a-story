@@ -4,7 +4,7 @@
 
 ### ما الذي ستصنعه
 
-انتقل للأسفل لرؤية العبرة!
+انتقل للأسفل في trinket لرؤية العمل النهائي!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
