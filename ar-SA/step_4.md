@@ -2,15 +2,15 @@
 
 لنبدأ بتحرير محتوى HTML ونمط CSS لصفحة الويب الخاصة بالقصة.
 
-+ افتح [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ افتح [هذا الـ trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-سيكون المشروع بالشكل التالي:
+يجب ان يبدو المشروع مثل هذا:
 
 ![لقطة شاشة](images/story-starter.png)
 
 محتوى صفحة الويب يوضع في القسم `<body>` من `index.html` في مستند HTML.
 
-+ ابحث عن محتوى صفحة الويب من السطر 7 فصاعدًا، داخل العلامات `<body>` و ` </body>`.
++ ابحث عن محتوى صفحة الويب من السطر 7 فصاعدًا، داخل علامات التبويب`<body>` و ` </body>`.
 
 ![لقطة الشاشة](images/story-html.png)
 
