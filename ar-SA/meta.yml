@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: سرد قصة
-description: انشئ صفحة ويب لتقروي قصة أو نكتة أو قصيدة
+title: احكي قصة
+description: انشئ صفحة ويب لتروي قصة أو نكتة أو قصيدة
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
