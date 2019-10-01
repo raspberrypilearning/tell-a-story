@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Provocare: continuă!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Folosește ce ai învățat în acest proiect pentru a-ți termina povestea! Iată un exemplu:
 
-![screenshot](images/story-final.png)
+![captură de ecran](images/story-final.png)
 
 \--- /challenge \---
