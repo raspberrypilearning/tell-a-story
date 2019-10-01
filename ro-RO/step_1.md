@@ -1,10 +1,10 @@
-## Introduction
+## Introducere
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+În acest proiect, vei învăța cum să îți creezi propria pagină web pentru a spune o poveste, o glumă sau o poezie.
 
-### What you will make
+### Ce vei face
 
-Scroll down in the trinket to see the punch line!
+Derulează în jos pentru a citi tot bancul!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Ce vei învăța
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Acest proiect acoperă elemente din următoarele componente ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Proiectarea elementelor de bază în 2D și 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Informații suplimentare pentru educatori
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Dacă ai nevoie să tipărești acest proiect, folosește [versiunea imprimabilă](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Folosește link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în folder-ul „ro-RO/resources”.
