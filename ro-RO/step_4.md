@@ -1,10 +1,10 @@
-## Editing your story
+## Redactează-ți povestea
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Să începem prin a edita conținutul HTML și stilului CSS al paginii web a poveștii.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Deschide [acest trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Proiectul ar trebui să arate astfel:
 
 ![screenshot](images/story-starter.png)
 
