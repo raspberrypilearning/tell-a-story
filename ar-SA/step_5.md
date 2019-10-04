@@ -1,15 +1,22 @@
 --- challenge ---
-## التحدي: قم بإجراء بعض التغييرات
-قم بتحرير تعليمات HTML وCSS البرمجية لتخصيص صفحة الويب.
 
-![screenshot](images/story-changes.png)
+## تحدي: قم ببعض التغييرات
 
-يمكنك تغيير الألوان المستخدمة في صفحة الويب، ويمكنك أيضًا استخدام خطوط مثل:
-+ `<span style="font-family: Arial;">Arial</span>`
-+ `<span style="font-family: Comic Sans MS;">Comic Sans MS</span>`
-+ `<span style="font-family: Impact;">Impact</span>`
-+ `<span style="font-family: Tahoma;">Tahoma</span>`
+قم بتحرير كود HTML و CSS لتخصيص صفحة الويب الخاصة بك.
 
-ابحث عن أسماء ألوان أخرى في CSS [هنا](http://jumpto.cc/colours){:target="_blank"}.
+![لقطة شاشة](images/story-changes.png)
+
+يمكن العثور على محتوى HTML في الملف `index.html`، ونمط CSS في الملف `style.css`.
+
+![لقطة الشاشة](images/story-files.png)
+
+يمكنك أيضًا تغيير الألوان المستخدمة في صفحة الويب، ويمكنك استخدام خطوط مختلفة مثل:
+
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahome</span>
+
+يمكنك العثور على المزيد من أسماء ألوان CSS [هنا](http://jumpto.cc/colours){:target="_blank"}.
 
 --- /challenge ---
