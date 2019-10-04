@@ -1,23 +1,28 @@
+---
 hero_image: images/tell-a-story.png
 theme: green
 duration: 2
 listed: true
 ingredient: false
-copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: احكِ قصة
-description: أنشئ صفحة ويب لتحكي قصة أو نكتة أو قصيدة
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: احكي قصة
+description: انشئ صفحة ويب لتروي قصة أو نكتة أو قصيدة
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+interests: literature
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
 steps:
-- title: المقدمة
-- title: ما ستحتاج إليه
-- title: اختيار قصة
-- title: تحرير قصتك
-- title: 'التحدي: قم بإجراء بعض التغييرات'
-- title: سرد قصتك
-- title: البحث عن صور من عندك
-- title: تحميل الصور
-- title: 'التحدي: تابع سرد قصتك!'
+  - title: المقدمة
+  - title: ما ستحتاج إليه
+  - title: اتخاذ قرار بشأن قصة
+  - title: تحرير قصتك
+  - title: 'تحدي: قم ببعض التغييرات'
+  - title: رواية قصتك
+  - title: العثور على الصور الخاصة بك
+  - title: رفع الصور
+  - title: 'تحدي: امضي قدماً!'
