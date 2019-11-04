@@ -1,6 +1,6 @@
 ## Redakcja twojego opowiadania
 
-Zacznijmy od edycji treści HTML i stylu CSS strony internetowej opowiadania.
+Zacznijmy od redakcji treści HTML i stylu CSS strony internetowej opowiadania.
 
 + Otwórz [ten fragment kodu](http://jumpto.cc/web-story){:target="_blank"}.
 
@@ -8,7 +8,7 @@ Projekt powinien wyglądać następująco:
 
 ![zrzut ekranu](images/story-starter.png)
 
-Zawartość strony znajduje się w sekcji `<body>` dokumentu HTML ` index.html `.
+Zawartość strony znajduje się w sekcji `<body>` dokumentu HTML `index.html`.
 
 + Sprawdź zawartość strony internetowej, zaczynając od linii 7, pomiędzy tagami `<body>` i `</body>`.
 
@@ -23,7 +23,7 @@ Zawartość strony znajduje się w sekcji `<body>` dokumentu HTML ` index.html `
 ![zrzut ekranu](images/story-elements.png)
 
 + `<h1>` jest **nagłówkiem**. Możesz użyć cyfr od 1 do 6, aby utworzyć nagłówki o różnym rozmiarze.
-+ `<div>` to skrót od **podziału** (ang. division) i jest sposobem grupowania rzeczy razem. Na tej stronie użyjesz jej do zgrupowania wszystkich elementów dla każdej części twojej historii.
++ `<div>` to skrót od **podziału** (ang. division) i jest sposobem grupowania rzeczy razem. Na tej stronie użyjesz jej do zgrupowania wszystkich elementów dla każdej części Twojej historii.
 + `<img>` to **obraz**.
 + `<p>` to **akapit** tekstu.
 
