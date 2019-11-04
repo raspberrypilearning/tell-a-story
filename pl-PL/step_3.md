@@ -2,8 +2,8 @@
 
 Zanim zaczniesz kodować, musisz wymyślić historyjkę. Pomyśl o historii, którą chcesz opowiedzieć. To może być:
 
-+ Słynna opowieść
++ Słynna historia
 + Historia wymyślona przez Ciebie
-+ Coś, co przydarzyło się tobie lub komuś, kogo znasz
++ Coś, co przydarzyło się Tobie lub komuś, kogo znasz
 
 To nawet nie musi być historia. To może być dowcip, wiersz lub cokolwiek, czego chcesz!
