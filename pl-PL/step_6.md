@@ -1,6 +1,6 @@
 ## Opowiedz swoją historię
 
-Dodajmy drugą część do twojej historii.
+Dodajmy drugą część do Twojej historii.
 
 + Przejdź do linii 15 kodu i dodaj kolejny zestaw tagów otwierających `<div>` oraz zamykających `</div>`.
 
@@ -24,7 +24,7 @@ Dodajmy drugą część do twojej historii.
 
 Zauważ, że tagi `<img>` są nieco inne od pozostałych znaczników: nie mają tagu końcowego.
 
-+ Aby wyświetlić obraz, musisz dodać **źródło** (`src`) obrazu wewnątrz cudzysłowowa.
++ Aby wyświetlić obraz, musisz dodać **źródło** (`src`) obrazu wewnątrz cudzysłowu.
 
 Kliknij ikonę obrazu, aby zobaczyć grafiki dostępne dla Twojej historii.
 
