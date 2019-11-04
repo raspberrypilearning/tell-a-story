@@ -30,7 +30,7 @@ Kliknij ikonę obrazu, aby zobaczyć grafiki dostępne dla Twojej historii.
 
 ![zrzut ekranu](images/story-see-images.png)
 
-+ Zdecyduj, który obrazek chcesz dodać i zapamiętaj jego nazwę, na przykład ` buildings.png`.
++ Zdecyduj, który obrazek chcesz dodać i zapamiętaj jego nazwę, na przykład `buildings.png`.
 
 + Kliknij na `index.html`, aby wrócić do swojego kodu.
 
