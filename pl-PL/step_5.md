@@ -1,4 +1,4 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: Wprowadź pewne zmiany
 
