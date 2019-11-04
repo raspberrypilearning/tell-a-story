@@ -2,7 +2,7 @@
 
 ## Wyzwanie: Wprowadź pewne zmiany
 
-Dokonaj edycji kodu HTML.
+Edytuj kod HTML i CSS, aby dostosować swoją stronę internetową.
 
 ![zrzut ekranu](images/story-changes.png)
 
