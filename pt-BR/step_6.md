@@ -4,7 +4,7 @@ Vamos adicionar uma segunda parte à sua história.
 
 + Vá para a linha 15 do código e adicione outro conjunto de `<div>` e `</div>`, ou seja, tags de início e fim. Isso vai criar uma nova caixa para a próxima parte de sua história.
 
-![screenshot](images/story-div.png)
+![captura de tela](images/story-div.png)
 
 + Adicione um parágrafo de texto dentro da sua nova tag `<div>`:
 
@@ -12,7 +12,7 @@ Vamos adicionar uma segunda parte à sua história.
 <p>Mais texto aqui!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![captura de tela](images/story-paragraph.png)
 
 + Você pode exibir uma imagem em sua nova caixa adicionando este código dentro de sua tag `<div>`:
 
@@ -20,7 +20,7 @@ Vamos adicionar uma segunda parte à sua história.
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![captura de tela](images/story-img-tag.png)
 
 Observe que as tags `<img>` são um pouco diferentes das outras tags: elas não tem uma tag final.
 
@@ -28,13 +28,13 @@ Observe que as tags `<img>` são um pouco diferentes das outras tags: elas não 
 
 Clique no ícone de imagem para ver as imagens disponíveis para sua história.
 
-![screenshot](images/story-see-images.png)
+![captura de tela](images/story-see-images.png)
 
 + Decida qual imagem você deseja adicionar e lembre seu nome, por exemplo `buildings.png`.
 
 + Clique em `index.html` para voltar ao seu código.
 
-![screenshot](images/story-image-name.png)
+![captura de tela](images/story-image-name.png)
 
 + Coloque o nome da imagem entre as aspas na tag `<img>`.
 
@@ -42,4 +42,4 @@ Clique no ícone de imagem para ver as imagens disponíveis para sua história.
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![captura de tela](images/story-image-name-add.png)
