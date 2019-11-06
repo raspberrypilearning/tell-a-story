@@ -12,7 +12,7 @@ O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
 + Encontre o conteúdo da página web a partir da linha 7, dentro das tags `<body>` e `</body>`.
 
-![screenshot](images/story-html.png)
+![captura de tela](images/story-html.png)
 
 + Veja se pode descobrir quais tags são usadas para criar as diferentes partes da página web.
 
@@ -20,7 +20,7 @@ O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
 
 ## title: Resposta
 
-![screenshot](images/story-elements.png)
+![captura de tela](images/story-elements.png)
 
 + `<h1>` é um **cabeçalho (heading)**. Você pode usar os números de 1 a 6 para criar cabeçalhos de diferentes tamanhos.
 + `<div>` é abreviação de **divisão**, e é uma maneira de agrupar coisas. Nesta página web, você a usará para agrupar todas as informações de cada parte da sua história.
