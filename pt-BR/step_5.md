@@ -4,11 +4,11 @@
 
 Edite os códigos HTML e CSS para personalizar sua página web.
 
-![screenshot](images/story-changes.png)
+![captura de tela](images/story-changes.png)
 
 O conteúdo HTML pode ser encontrado no arquivo `index.html`, e o CSS no arquivo `style.css`.
 
-![screenshot](images/story-files.png)
+![captura de tela](images/story-files.png)
 
 Você também pode alterar as cores usadas na página web e pode usar diferentes fontes, como:
 
