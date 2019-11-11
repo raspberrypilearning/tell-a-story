@@ -1,3 +1,4 @@
+---
 hero_image: images/tell-a-story.png
 theme: green
 duration: 2
@@ -6,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Conte uma história
-description: Neste projeto, você vai aprender como criar a sua própria página na web para contar uma história, anedota, piada ou poema.
+description: Crie uma página web para contar uma história, anedota ou poema
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -15,5 +16,13 @@ hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
-steps: 
-- title: Conte uma história
+steps:
+  - title: Introdução
+  - title: O que você vai precisar
+  - title: Escolha uma história
+  - title: Editando sua história
+  - title: 'Desafio: faça algumas alterações'
+  - title: Contando sua história
+  - title: Encontrando suas próprias imagens
+  - title: Carregando imagens
+  - title: 'Desafio: continue!'

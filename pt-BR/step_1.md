@@ -1,3 +1,25 @@
-Esta é uma versão mais antiga do **Conte uma história**. No momento, ele não inclui o conteúdo mais recente, nem os recursos do usuário do site de projetos. Este projeto estará temporariamente disponível neste [formato](images/Tell a Story.pdf) antes de ser arquivado.
+## Introdução
 
-Precisamos da sua ajuda para atualizar e traduzir projetos como este! Se você puder nos ajudar, por favor [nos informe aqui](https://rpf.io/translators). 
+Neste projeto, você aprenderá como criar sua própria página da web para contar uma história, anedota, piada, ou poema.
+
+### O que você vai fazer
+
+Role para baixo no Trinket para ver o final!
+
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/3674992600?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
+  <img src="images/story-final.png">
+</div>
+
+### O que você vai aprender
+
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
+
++ [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
+
+### Informações adicionais para educadores
+
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/pt-BR/projects/tell-a-story/print){:target="_blank"} .
+
+Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
