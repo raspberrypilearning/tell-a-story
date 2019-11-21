@@ -1,8 +1,8 @@
-## Introduction
+## 介绍
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+在这个项目中，您将学习如何创建自己的网页来讲述故事、笑话或诗歌。
 
-### What you will make
+### 你将做什么
 
 Scroll down in the trinket to see the punch line!
 
