@@ -1,10 +1,10 @@
-## Editing your story
+## 编辑你的故事
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+让我们首先开始编辑故事网页的HTML内容和CSS样式。
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ 打开 [这个trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+这个项目应该是这样的：
 
 ![screenshot](images/story-starter.png)
 
