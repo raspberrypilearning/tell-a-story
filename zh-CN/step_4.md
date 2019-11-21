@@ -8,17 +8,17 @@
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+网页内容位于HTML文件`index.html的<code><body>`部分中</code>。
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ 从第7行起找到位于`<body>`和`</body>`标签之间的网页内容。
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ 看看您是否可以找到哪些标签用于创建网页的哪些部分。
 
 ## \--- collapse \---
 
-## title: Answer
+## title: 答案
 
 ![screenshot](images/story-elements.png)
 
