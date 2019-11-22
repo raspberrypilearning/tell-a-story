@@ -2,44 +2,44 @@
 
 让我们在你的故事中添加第二部分。
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ 转到代码的第15行，然后添加另一组`<div>`和`</div>`开始和结束标签。 这将为你的故事的下一部分创建一个新的框。
 
-![screenshot](images/story-div.png)
+![截图](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ 在新的`<div>`标签之间内添加一段文字：
 
 ```html
-<p>More text here!</p>
+<p>添加更多文字！</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![截图](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ 您可以通过在您的`<div>`标签之间添加此代码以在您的新的故事框中显示图像：
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![截图](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+注意`<img>`标签与其他标签有一点不同：它们没有结束标签。
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ 为了能够显示图像，你需要将图像的 **源文件名** (`src`) 加入双引号之间.
 
-Click the image icon to see the images available for your story.
+点击图标查看您的故事中可用的图像。
 
-![screenshot](images/story-see-images.png)
+![截图](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ 确定要添加的图像并记住其文件名，例如` buildings.png ` 。
 
-+ Click on `index.html` to get back to your code.
++ 点击`index.html`来返回到你的代码。
 
-![screenshot](images/story-image-name.png)
+![截图](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ 在`<img>`标签的双引号之间加入图像的文件名。
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![截图](images/story-image-name-add.png)
