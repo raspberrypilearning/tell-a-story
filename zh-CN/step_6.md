@@ -1,6 +1,6 @@
-## Telling your story
+## 讲述你的故事
 
-Let's add a second part to your story.
+让我们在你的故事中添加第二部分。
 
 + Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
