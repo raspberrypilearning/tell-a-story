@@ -1,6 +1,6 @@
-## Uploading images
+## 上传图片
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**如果您有Trinket帐户** ，您还可以将自己的图片上传到网页。
 
 + Click on the image icon at the top of your trinket, and then click **Add Image**.
 
