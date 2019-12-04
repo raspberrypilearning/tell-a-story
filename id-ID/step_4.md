@@ -1,4 +1,4 @@
-## Mengedit cerita Anda
+## Mengedit cerita mu
 
 Mari kita mulai dengan mengedit konten HTML dan gaya CSS dari halaman web cerita.
 
@@ -14,7 +14,7 @@ Konten halaman web masuk ke bagian `<body>` dari `index.html` dokumen HTML.
 
 ![tangkapan layar](images/story-html.png)
 
-+ Lihat apakah Anda dapat menentukan tag mana yang digunakan untuk membuat bagian berbeda dari halaman web.
++ Lihat apakah kamu dapat menentukan tag mana yang digunakan untuk membuat bagian berbeda dari halaman web.
 
 ## \--- jatuh \---
 
@@ -22,8 +22,8 @@ Konten halaman web masuk ke bagian `<body>` dari `index.html` dokumen HTML.
 
 ![tangkapan layar](images/story-elements.png)
 
-+ `<h1>` adalah **pos**. Anda dapat menggunakan angka 1 hingga 6 untuk membuat judul dengan ukuran berbeda.
-+ `<div>` kependekan untuk **divisi**, dan merupakan cara mengelompokkan hal-hal bersama. Di halaman web ini, Anda akan menggunakannya untuk mengelompokkan semua hal untuk setiap bagian dari cerita Anda.
++ `<h1>` adalah **pos**. Kamu dapat menggunakan angka 1 hingga 6 untuk membuat judul dengan ukuran berbeda.
++ `<div>` kependekan untuk **divisi**, dan merupakan cara mengelompokkan hal-hal bersama. Di halaman web ini, kamu akan menggunakannya untuk mengelompokkan semua hal untuk setiap bagian dari cerita mu.
 + `<img>` adalah **gambar**.
 + `<p>` adalah **paragraf** dari teks.
 
