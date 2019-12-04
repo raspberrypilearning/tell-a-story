@@ -1,9 +1,9 @@
 ## Tentukan sebuah cerita
 
-Sebelum Anda mendapatkan kode, Anda harus memutuskan sebuah cerita. Pikirkan tentang kisah yang ingin Anda sampaikan. Bisa jadi:
+Sebelum kamu menulis kode, kamu harus memutuskan sebuah cerita. Pikirkan tentang kisah yang ingin kamu sampaikan. Bisa jadi:
 
 + Kisah terkenal
-+ Kisah yang telah Anda buat
-+ Sesuatu yang telah terjadi pada Anda atau seseorang yang Anda kenal
++ Kisah yang telah kamu buat
++ Sesuatu yang telah terjadi pada mu atau seseorang yang kamu kenal
 
-Itu bahkan tidak perlu menjadi cerita. Itu bisa menjadi lelucon, puisi, atau apa pun yang Anda inginkan!
+Itu bahkan tidak perlu menjadi cerita. Itu bisa menjadi lelucon, puisi, atau apa pun yang kamu inginkan!
