@@ -6,11 +6,11 @@
 
 ![tangkapan layar](images/story-upload.png)
 
-+ Klik tombol **Unggah** , lalu temukan gambar yang ingin Anda gunakan di komputer dan seret ke dalam kotak. Atau, gunakan tombol untuk memilihnya.
++ Klik tombol **Unggah**, lalu temukan gambar yang ingin kamu gunakan di komputer dan seret ke dalam kotak. Atau, gunakan tombol untuk memilihnya.
 
 ![Unggah](images/upload-image.png)
 
-+ Kemudian, tambahkan saja nama gambar baru Anda di antara tanda ucapan di tag `<img>` , seperti ini:
++ Kemudian, tambahkan saja nama gambar baru mu di antara tanda ucapan di tag `<img>`, seperti ini:
 
 ```html
 <img src="buildings.png">
