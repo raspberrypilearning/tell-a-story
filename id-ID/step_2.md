@@ -1,4 +1,4 @@
-## Apa yang Anda butuhkan
+## Yang kamu butuhkan
 
 ### Perangkat keras
 
