@@ -2,7 +2,7 @@
 
 ## Tantangan: lanjutkan!
 
-Gunakan apa yang telah Anda pelajari dalam proyek ini untuk menyelesaikan menceritakan kisah Anda! Inilah contohnya:
+Gunakan apa yang telah kamu pelajari dalam proyek ini untuk menyelesaikan menceritakan kisah mu! Inilah contohnya:
 
 ![tangkapan layar](images/story-final.png)
 
