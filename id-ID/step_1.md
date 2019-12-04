@@ -1,8 +1,8 @@
 ## pengantar
 
-Dalam proyek ini, Anda akan belajar cara membuat halaman web Anda sendiri untuk menceritakan kisah, lelucon, atau puisi.
+Dalam proyek ini, kamu akan belajar cara membuat halaman web mu sendiri untuk menceritakan kisah, lelucon, atau puisi.
 
-### Apa yang akan Anda buat
+### Apa yang akan kamu buat
 
 Gulir ke bawah di trinket untuk melihat garis pukulan!
 
@@ -12,7 +12,7 @@ Gulir ke bawah di trinket untuk melihat garis pukulan!
   <img src="images/story-final.png">
 </div>
 
-### Apa yang akan Anda pelajari
+### Apa yang akan kamu pelajari
 
 Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
 
@@ -20,6 +20,6 @@ Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Makin
 
 ### Informasi tambahan untuk pendidik
 
-Jika Anda perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
+Jika kamu perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
 
 Gunakan tautan di footer untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
