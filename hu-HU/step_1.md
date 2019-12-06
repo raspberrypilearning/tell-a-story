@@ -1,10 +1,10 @@
-## Introduction
+## Bevezetés
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+Ebben a projektben megtanulhatja, hogyan hozhat létre saját weboldalt egy történet, vicc vagy vers elmondására.
 
-### What you will make
+### Mit fogsz elkészíteni
 
-Scroll down in the trinket to see the punch line!
+Görgessen lefelé a csecsebecsében, hogy lássa a lyukasztó sort!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Mit fogsz megtanulni
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Ez a projekt a [Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum){: target = "_ blank"} következő részeit tartalmazza:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Tervezd meg az alapvető 2D és 3D eszközöket](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
 
-### Additional information for educators
+### További információk az oktatók számára
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát](https://projects.raspberrypi.org/en/projects/tell-a-story/print)verziót {: target = "_ blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Használja a láblécben található hivatkozást a projekt GitHub tárházához, amely az összes erőforrást (beleértve a kész projekt példáját is) tartalmazza az 'en / források' mappában.
