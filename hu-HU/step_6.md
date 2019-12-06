@@ -1,20 +1,20 @@
-## Telling your story
+## Elmondja a történetedet
 
-Let's add a second part to your story.
+Adjunk hozzá egy második részt a történetedhez.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Ugorjon a kód 15. sorára, és adjon hozzá újabb `<div>` és `</div>` kezdő- és végcímkéket. Ez új dobozt hoz létre a történet következő részéhez.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Helyezzen be egy bekezdést egy szöveget az új `<div>` címkébe:
 
 ```html
-<p>More text here!</p>
+<p>További szöveg itt!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Megjelenítheti a képet az új mezőben, ha ezt a kódot hozzáteszi a `<div>` címkébe:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Vegye figyelembe, hogy a `<img>` címkék kissé különböznek a többi címkéktől: nincs végcímke.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Ahhoz, hogy megjelenjen egy kép, hozzá kell adnia a kép **forrását** (`src`) a beszédjelek közé.
 
-Click the image icon to see the images available for your story.
+Kattintson a képikonra a történetéhez rendelkezésre álló képek megtekintéséhez.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Döntse el, melyik képet kíván hozzáadni, és emlékezzen a nevére, például `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Kattintson a `index.html` elemre a kódhoz való visszatéréshez.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Adja hozzá a kép nevét a beszédjelek közé a `<img>` címkébe.
 
 ```html
 <img src="buildings.png">
