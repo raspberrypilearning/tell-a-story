@@ -1,20 +1,20 @@
-## Editing your story
+## A történet szerkesztése
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Kezdjük a történet weboldalának HTML tartalmának és CSS stílusának szerkesztésével.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Nyisd meg [ezt a trinket](http://jumpto.cc/web-story){: target = "_ blank"}.
 
-The project should look like this:
+A projektnek így kell kinéznie:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+A weboldal tartalma a `index.html` HTML dokumentum `<body>` részében található.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Keresse meg a weboldal tartalmát a 7. sortől kezdve, a `<body>` és `</body>` címkék belsejében.
 
-![screenshot](images/story-html.png)
+![képernyőkép](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Nézze meg, ki tudja-e deríteni azokat a címkéket, amelyek a weboldal különböző részeinek létrehozásához használhatók.
 
 ## \--- collapse \---
 
@@ -22,9 +22,9 @@ Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` **fejezet**. Az 1-6 számokkal különféle méretű címsorokat hozhat létre.
++ `<div>` rövid a ****osztályra, és ez a módszer a dolgok csoportosítására. Ezen a weboldalon az összes cuccot csoportosíthatja a történet minden részéhez.
++ `<img>` egy **kép**.
++ `<p>` a szöveg **(** bekezdése.
 
 \--- /collapse \---
