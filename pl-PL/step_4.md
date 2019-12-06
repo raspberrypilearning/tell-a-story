@@ -1,4 +1,4 @@
-## Redakcja twojego opowiadania
+## Redakcja Twojego opowiadania
 
 Zacznijmy od redakcji treści HTML i stylu CSS strony internetowej opowiadania.
 
