@@ -1,29 +1,29 @@
-body {
-  background-color: lightblue;
-  font-family: Comic Sans MS;
+test {
+  háttér szín: világoskék;
+  betűtípus-család: Comic Sans MS;
 }
 div {
-  display: inline-block;
-  position: relative;
-  overflow: hidden;
+  kijelző: inline-block;
+  pozíció: relatív;
+  túlcsordulás: rejtett;
   margin: 2px;
-  background-color: lightyellow;
-  width: 200px;
-  height: 200px;
-  border: 2px solid black;
+  háttér szín: világoskék;
+  szélesség: 200 képpont;
+  magasság: 200 képpont;
+  szegély: 2 képpont szilárd fekete;
 }
 p {
-  position: absolute;
-  background-color: white;
-  bottom:-1em;
-  border-top: 2px solid black;
-  border-right: 2px solid black;
-  padding: 5px;
-  margin-right: -2px;
-  font-size: 10pt;
+  pozíció: abszolút;
+  háttér szín: fehér;
+  alsó: -1em;
+  felső oldal: 2 képpont szilárd fekete;
+  jobb oldali: 2 képpont szilárd fekete;
+  párnázat: 5px;
+  jobb margó: -2px;
+  betűméret: 10pt;
 }
 img {
-  max-height:100%;
-  display: block;
+  max-magasság: 100%;
+  kijelző: blokk;
   margin: 0 auto;
 }
