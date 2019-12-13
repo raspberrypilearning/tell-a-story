@@ -4,11 +4,11 @@
 
 + 点击位于trinket窗口顶部的图片图标，然后再点击**Add Image**。
 
-![截图](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
 + 点击**上传**按钮，然后找到保存在计算机上的图片文件并将其拖到框中，或者点击按钮来选择图片文件。
 
-![上传](images/upload-image.png)
+![Upload](images/upload-image.png)
 
 + 然后只需在`<img>`标签的双引号之间加入图片的文件名，如下所示：
 
