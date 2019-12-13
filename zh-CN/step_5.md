@@ -4,11 +4,11 @@
 
 编辑HTML和CSS代码来个性化您的网页。
 
-![截图](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
 HTML的内容可以在`index.html`文件中找到，而CSS样式在`style.css`文件中。
 
-![截图](images/story-files.png)
+![screenshot](images/story-files.png)
 
 您还可以更改网页中使用的颜色，并且可以使用不同的字体，例如：
 
