@@ -14,9 +14,9 @@ HTML內容可以在 `index.html` 文件中找到，CSS樣式可以在 `style.css
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">碰撞</span>
-+ <span style="font-family: Tahoma;">宋體</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-尋找更多CSS顏色名稱 [這裡](http://jumpto.cc/colours){：目標=“_空白”}。
+你可以在[這裡](http://jumpto.cc/colours)找到更多 CSS 上可用的顏色代碼{:target="_blank"}。
 
-\--- /挑戰\---
+\--- /challenge \---
