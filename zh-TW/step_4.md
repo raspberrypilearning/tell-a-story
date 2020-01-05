@@ -2,13 +2,13 @@
 
 讓我們首先編輯故事網頁的HTML內容和CSS樣式。
 
-+ 打開 [此飾品](http://jumpto.cc/web-story){：target =“_ blank”}。
++ 打開[這個 trinket](http://jumpto.cc/web-story){:target="_blank"}。
 
-該項目應如下所示：
+檔案看起來應該像這樣︰
 
 ![截圖](images/story-starter.png)
 
-網頁內容位於 `index.html` HTML文檔的 `<body>` 部分。
+網頁內容位於 `<body>` HTML文檔的 `index.html` 部分。
 
 + 從第7行開始，在 `<body>` 和 `</body>` 標籤內查找網頁內容。
 
