@@ -1,9 +1,9 @@
-## 你需要什麼
+## 你會需要
 
-### 硬件
+### 硬體
 
-+ 能夠訪問 [trinket.io](https://trinket.io){：target =“_ blank”}的計算機
++ 一台能夠連到 [trinket.io](https://trinket.io){:target="_blank"} 網站的電腦
 
-### 軟件
+### 軟體
 
-可以使用 [trinket.io](https://trinket.io){：target =“_ blank”}在Web瀏覽器中完成此項目。
+此專案可直接用瀏覽器在 [trinket.io](https://trinket.io){:target="_blank"} 裡完成。
