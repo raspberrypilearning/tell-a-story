@@ -7,7 +7,7 @@ ingredient: false
 copyedit: true
 curriculum: 1，design-1，programming-0，phys-comp-0，製造-0，社區-0
 title: 講一個故事
-description: 創建一個網頁來講述故事，笑話或詩歌
+description: 建立一個網頁來講故事，笑話或一首詩
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: 文獻
 technologies: HTML，CSS，JavaScript的
@@ -20,18 +20,18 @@ steps:
   - 
     title: 介紹
   - 
-    title: 你需要什麼
+    title: 你需要
   - 
     title: 決定一個故事
   - 
     title: 編輯你的故事
   - 
-    title: '挑戰：做出一些改變'
+    title: '挑戰：做些改變'
   - 
-    title: 講述你的故事
+    title: 敘述你的故事
   - 
     title: 找到你自己的圖像
   - 
-    title: 正在上傳圖片
+    title: 上傳圖片
   - 
     title: '挑戰：繼續前進！'
