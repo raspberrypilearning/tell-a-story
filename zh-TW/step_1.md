@@ -1,6 +1,6 @@
 ## 介紹
 
-在這個項目中，您將學習如何創建自己的網頁來講述故事，笑話或詩。
+在這個項目中，您將學習如何建立自己的網頁來講述故事，笑話或詩。
 
 ### 你會做出:
 
@@ -12,14 +12,14 @@
   <img src="images/story-final.png">
 </div>
 
-### 你會學到什麼
+### 你會學到︰
 
-該項目涵蓋了 [Raspberry Pi數字製作課程](http://rpf.io/curriculum){：target =“_ blank”}的以下幾個元素：
+本專案涵蓋了 [Raspberry Pi 數位創造課程](http://rpf.io/curriculum){:target="_blank"}的以下部分：
 
-+ [設計基本的2D和3D資源](https://www.raspberrypi.org/curriculum/design/creator){：target =“_ blank”}。
++ [設計基本的 2D 和 3D 物品](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}。
 
-### 教育工作者的其他信息
+### 給教師的其它資訊
 
-如果您需要打印此項目，請使用 [打印機友好版本](https://projects.raspberrypi.org/en/projects/tell-a-story/print){：target =“_ blank”}。
+如果你需要列印此專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/tell-a-story/print) {:target="_blank"} .
 
-使用頁腳中的鏈接訪問此項目的GitHub存儲庫，該存儲庫包含“en / resources”文件夾中的所有資源（包括示例完成的項目）。
+使用頁尾的連結存取此專案的 GitHub 存儲庫，在 'en/resources' 資料夾中放有全部的資源(包括已完成的專案範例) 。
