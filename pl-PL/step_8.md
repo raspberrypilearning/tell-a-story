@@ -2,11 +2,11 @@
 
 **Jeżeli masz konto Trinket**, możesz także przesyłać własne grafiki na swoją stronę internetową.
 
-+ Kliknij ikonę obrazu na górze twojego okna Trinket, a następnie kliknij **Dodaj obraz**.
++ Kliknij ikonę obrazu na górze twojego okna Trinket, a następnie kliknij **Add image (Dodaj obraz)**.
 
 ![zrzut ekranu](images/story-upload.png)
 
-+ Kliknij **Prześlij**, a następnie znajdź na komputerze obraz, który chcesz użyć i przeciągnij go do pudełka. Możesz też użyć przycisku, aby go wybrać.
++ Kliknij **Upload (Prześlij)**, a następnie znajdź na komputerze obraz, który chcesz użyć i przeciągnij go do pudełka. Możesz też użyć przycisku, aby go wybrać.
 
 ![Wysyłanie](images/upload-image.png)
 
