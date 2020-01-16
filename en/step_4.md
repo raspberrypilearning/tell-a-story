@@ -20,6 +20,7 @@ Webpage content goes in the `<body>` section of the `index.html` HTML document.
 ---
 title: Answer
 ---
+
 ![screenshot](images/story-elements.png)
 
 + `<h1>` is a __heading__. You can use the numbers 1 to 6 to create headings of different sizes.
