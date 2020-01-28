@@ -1,30 +1,30 @@
-## Hikayenizi düzenleme
+## Editing your story
 
-Hikayenin web sayfasının HTML içeriğini ve CSS stilini düzenleyerek başlayalım.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ [bu trinket](http://jumpto.cc/web-story)'i açın {: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-Proje şöyle görünmeli:
+The project should look like this:
 
-![ekran görüntüsü](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-Web sayfasının içeriği `index.html` HTML belgesinin `<body>` bölümünde olacak.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Web sayfasının içeriğini 7. satırdan itibaren, `<body>` ve `</body>` etiketlerinin içinde görebilirsiniz.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![ekran görüntüsü](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ Bakalım web sayfasında farklı bölümler oluşturmak için hangi etiketlerin kullanıldığını bulabilecek misiniz?
++ See if you can work out which tags are used to create the different parts of the webpage.
 
 ## \--- collapse \---
 
-## başlık: Cevap
+## title: Answer
 
-![ekran görüntüsü](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` a, **pozisyonunda**. Farklı boyutlarda başlıklar oluşturmak için 1'den 6'ya kadar olan sayıları kullanabilirsiniz.
-+ `<div>` , **bölümdür**. Yapacağımız web sayfasında, hikayenizin her bir bölümü için tüm öğeleri bir araya getirmek için kullanacaksınız.
-+ `<img>` **görüntü**.
-+ `<p>` a, **paragraf** metin.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
 \--- /collapse \---
