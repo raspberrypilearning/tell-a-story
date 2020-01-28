@@ -6,32 +6,32 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Ispričaj priču
-description: Napravi web stranicu za pričanje priče, vica ili pjesme
+title: Tell a story
+description: Create a webpage to tell a story, joke, or poem
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: književnost
+interests: literature
 technologies: html-css-javascript
-site_areas: projekti
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Sretan rođendan
+    title: Introduction
   - 
-    title: Ono što će vam trebati
+    title: What you will need
   - 
-    title: Odlučite se za priču
+    title: Decide on a story
   - 
-    title: Uredite svoju priču
+    title: Editing your story
   - 
-    title: 'Izazov: napravite neke promjene'
+    title: 'Challenge: make some changes'
   - 
-    title: Pričajte svoju priču
+    title: Telling your story
   - 
-    title: Pronalaženje vlastitih slika
+    title: Finding your own images
   - 
-    title: Učitavanje slike
+    title: Uploading images
   - 
-    title: 'Izazov: nastavite!'
+    title: 'Challenge: keep going!'
