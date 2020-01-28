@@ -1,16 +1,16 @@
-## آپلود تصاویر
+## Uploading images
 
-**اگر شما یک حساب کاربری Trinket**دارید، می توانید تصاویر خود را به صفحه وب خود نیز آپلود کنید.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ بر روی آیکون تصویر در بالای صفحه نمایش خود کلیک کنید و سپس روی **افزودن تصویر**کلیک کنید.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![تصویری](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ بر روی دکمه **Upload** کلیک کنید، سپس تصویری را که می خواهید در رایانه خود استفاده کنید پیدا کنید و آن را به جعبه بکشید. متناوبا، از دکمه برای انتخاب آن استفاده کنید.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![بارگذاری](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ سپس فقط نام تصویر جدید خود را بین علامت های گفتاری در برچسب `<img>` خود اضافه کنید، مانند این:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
