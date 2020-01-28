@@ -1,9 +1,9 @@
-## Bestem deg en historie
+## Decide on a story
 
-Før du får koding, må du bestemme deg for en historie. Tenk på historien du vil fortelle. Det kan være:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ En berømt historie
-+ En historie du har gjort opp
-+ Noe som har skjedd med deg eller noen du kjenner
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-Det trenger ikke engang å være en historie. Det kan være en vits, et dikt eller noe annet du vil ha!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
