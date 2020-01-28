@@ -1,16 +1,16 @@
-## Laster opp bilder
+## Uploading images
 
-**Hvis du har en Trinket-konto**, kan du også laste opp dine egne bilder til websiden din.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Klikk på bildeikonet øverst på snup, og klikk deretter **Legg til bilde**.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![skjermbilde](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ Klikk på **Last opp** knappen, og finn bildet du vil bruke på datamaskinen, og dra det inn i boksen. Alternativt, bruk knappen for å velge den.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![Laste opp](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ Legg så bare navnet på det nye bildet mellom talemerkene i `<img>` taggen din, slik:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
