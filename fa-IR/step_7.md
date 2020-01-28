@@ -1,15 +1,15 @@
-## پیدا کردن تصاویر خود را
+## Finding your own images
 
-بیایید یک تصویر در وب پیدا کنیم تا به داستان شما اضافه شود.
+Let's find an image on the web to add to your story.
 
-+ برو به [این صفحه](http://jumpto.cc/html-images){: target = "_ blank"}، و تصویری را که می خواهید در داستان خود وارد کنید پیدا کنید.
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-+ بر روی تصویر راست کلیک کرده و روی **Copy Image URL** (یا **Copy Image Address**، بسته به رایانه ای که استفاده می کنید) کلیک کنید. URL آدرس تصویر است.
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
-![تصویری](images/story-url.png)
+![screenshot](images/story-url.png)
 
-+ بازگشت به خود را `index.html را` صفحه.
++ Go back to your `index.html` page.
 
-+ URL را بین علامت های گفتاری در تگ `<img>` . شما باید تصویر خود را ببینید!
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
-![تصویری](images/story-image.png)
+![screenshot](images/story-image.png)
