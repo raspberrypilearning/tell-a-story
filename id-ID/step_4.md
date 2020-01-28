@@ -1,30 +1,30 @@
-## Mengedit cerita mu
+## Editing your story
 
-Mari kita mulai dengan mengedit konten HTML dan gaya CSS dari halaman web cerita.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ Buka [trinket ini](http://jumpto.cc/web-story){: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-Proyek akan terlihat seperti ini:
+The project should look like this:
 
-![tangkapan layar](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-Konten halaman web masuk ke bagian `<body>` dari `index.html` dokumen HTML.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Temukan konten halaman web dari baris 7 dan seterusnya, di dalam tag `<body>` dan `</body>`.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![tangkapan layar](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ Lihat apakah kamu dapat menentukan tag mana yang digunakan untuk membuat bagian berbeda dari halaman web.
++ See if you can work out which tags are used to create the different parts of the webpage.
 
-## \--- jatuh \---
+## \--- collapse \---
 
-## judul: Jawaban
+## title: Answer
 
-![tangkapan layar](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` adalah **pos**. Kamu dapat menggunakan angka 1 hingga 6 untuk membuat judul dengan ukuran berbeda.
-+ `<div>` kependekan untuk **divisi**, dan merupakan cara mengelompokkan hal-hal bersama. Di halaman web ini, kamu akan menggunakannya untuk mengelompokkan semua hal untuk setiap bagian dari cerita mu.
-+ `<img>` adalah **gambar**.
-+ `<p>` adalah **paragraf** dari teks.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
-\--- /jatuh \---
+\--- /collapse \---
