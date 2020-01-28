@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Испытание: внести некоторые изменения
+## Challenge: make some changes
 
-Отредактируй код HTML и CSS, чтобы настроить свою веб-страницу.
+Edit the HTML and CSS code to customise your webpage.
 
-![скриншот](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
-Содержимое HTML можно найти в ` index.html. ` файл и стиль CSS в ` style.css ` файл.
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![скриншот](images/story-files.png)
+![screenshot](images/story-files.png)
 
-Ты также можешь изменить цвета, используемые на веб-странице, и ты можешь использовать различные шрифты, такие как:
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Ты можешь найти больше названий цветов CSS [здесь](http://jumpto.cc/colours){:target="_blank"}.
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
