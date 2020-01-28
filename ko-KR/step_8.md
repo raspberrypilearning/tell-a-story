@@ -1,16 +1,16 @@
-## 이미지 업로드하기
+## Uploading images
 
-**만약 Trinket 계정이 있는 경우**, 자신의 이미지를 페이지에 업로드할 수도 있습니다.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Trinket 상단의 이미지 아이콘을 클릭한 다음 **Add Image**를 클릭하세요.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ **업로드**를 클릭하고, 사용하고 싶은 이미지를 찾아 드래그하거나, 버튼을 사용하여 선택하세요.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![업로드](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ 그리고 삽입한 이미지의 이름을 `<img>` 태그에 아래와 같이 넣어 주면 됩니다.
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
