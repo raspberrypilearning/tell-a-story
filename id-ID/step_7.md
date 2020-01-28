@@ -1,15 +1,15 @@
-## Temukan gambar Anda sendiri
+## Finding your own images
 
-Mari temukan gambar di web untuk ditambahkan ke cerita mu.
+Let's find an image on the web to add to your story.
 
-+ Pergi ke [halaman ini](http://jumpto.cc/html-images){: target = "_ blank"}, dan temukan gambar yang ingin kamu sertakan dalam cerita mu.
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-+ Klik kanan gambar, dan klik **Salin Gambar URL** (atau **Salin Alamat Gambar**, tergantung pada komputer yang kamu gunakan). URL adalah alamat gambar.
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
-![tangkapan layar](images/story-url.png)
+![screenshot](images/story-url.png)
 
-+ Kembali ke halaman `index.html`.
++ Go back to your `index.html` page.
 
-+ Tempel URL di antara tanda ucapan di tag `<img>`. Kamu harus melihat gambar Anda muncul!
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
-![tangkapan layar](images/story-image.png)
+![screenshot](images/story-image.png)
