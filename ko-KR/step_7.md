@@ -1,15 +1,15 @@
-## 나만의 이미지 찾기
+## Finding your own images
 
-이야기에 추가할 이미지를 이제 웹에서 한번 찾아 보겠습니다.
+Let's find an image on the web to add to your story.
 
-+ [이 페이지](http://jumpto.cc/html-images){:target="_blank"}로 이동하여 스토리에 넣을 이미지를 찾아 보세요.
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-+ 이미지에 마우스 오른쪽 버튼을 클릭하고, **이미지 복사**를 클릭하세요(혹은 **이미지 주소 복사**, 사용하고 있는 컴퓨터에 따라 틀림). URL은 이미지의 주소를 의미합니다.
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
 ![screenshot](images/story-url.png)
 
-+ 다시 `index.html`로 돌아갑니다.
++ Go back to your `index.html` page.
 
-+ `<img>` 태그 사이에 URL을 붙여 넣으세요. 그럼 이미지가 나타납니다!
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
-![스크린샷](images/story-image.png)
+![screenshot](images/story-image.png)
