@@ -1,16 +1,16 @@
-## Resimler yükleniyor
+## Uploading images
 
-**Bir Biblo hesabınız**varsa, kendi resimlerinizi web sayfanıza da yükleyebilirsiniz.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Ivır zıvırınızın tepesindeki resim simgesine tıklayın ve ardından **Resim Ekle**tıklayın.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![ekran görüntüsü](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ **Yükle** düğmesine tıklayın, ardından bilgisayarınızda kullanmak istediğiniz görüntüyü bulun ve kutuya sürükleyin. Alternatif olarak, seçmek için düğmesini kullanın.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![Yükleme](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ Sonra, yeni görüntünüzün adını `<img>` etiketinizdeki konuşma işaretlerinin arasına ekleyin, şöyle:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
