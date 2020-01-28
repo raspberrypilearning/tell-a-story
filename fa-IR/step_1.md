@@ -1,10 +1,10 @@
-## معرفی
+## Introduction
 
-در این پروژه، شما یاد خواهید گرفت چگونه یک صفحه وب خود را برای داستان، شوخی یا شعر بنویسید.
+In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### چه کاری انجام خواهد داد
+### What you will make
 
-برای دیدن خط پانچ به پایین بروید
+Scroll down in the trinket to see the punch line!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@
   <img src="images/story-final.png">
 </div>
 
-### آنچه شما یاد خواهید گرفت
+### What you will learn
 
-این پروژه را پوشش می دهد عناصر از رشته های زیر از [ساخت برنامه درسی تمشک پی دیجیتال](http://rpf.io/curriculum){: هدف = "_ خالی"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [طراحی پایه های 2D و 3D دارایی](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### اطلاعات اضافی برای مربیان
+### Additional information for educators
 
-اگر شما نیاز به چاپ این پروژه، لطفا با استفاده از [نسخه مناسب چاپ](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: هدف = "_ خالی"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-برای دسترسی به مخزن GitHub برای این پروژه، که شامل تمام منابع (از جمله یک پروژه تکمیل شده) در پوشه «en / resources»، از لینک در پایین صفحه استفاده کنید.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
