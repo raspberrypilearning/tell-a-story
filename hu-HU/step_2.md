@@ -1,9 +1,9 @@
-## Amire szükséged lesz
+## What you will need
 
-### Hardver
+### Hardware
 
-+ A [trinket.io](https://trinket.io)elérésére képes számítógép: {target = "_ blank"}
++ A computer capable of accessing [trinket.io](https://trinket.io){:target="_blank"}
 
-### Szoftver
+### Software
 
-Ezt a projektet egy web böngésző segítségével lehet el végezni [trinket.io](https://trinket.io){: target = "_ blank").
+This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
