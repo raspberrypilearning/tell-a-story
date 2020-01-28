@@ -1,20 +1,20 @@
-## Pričajte svoju priču
+## Telling your story
 
-Dodajmo drugi dio u vašu priču.
+Let's add a second part to your story.
 
-+ Idite na redak 15 koda i dodajte u drugi skup `<div>` i ` </div>` početne i završne oznake. Ovo će stvoriti novi okvir za sljedeći dio vaše priče.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
 ![screenshot](images/story-div.png)
 
-+ Dodajte odlomak teksta unutar nove oznake `<div>`:
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>Više teksta ovdje!</p>
+<p>More text here!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ Možete prikazati sliku u novom okviru dodavanjem koda u oznaku `<div>`:
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Dodajmo drugi dio u vašu priču.
 
 ![screenshot](images/story-img-tag.png)
 
-Primjetite da su oznake `<img>` malo drugačije od ostalih oznaka: nemaju završnu oznaku.
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ Da biste prikazali sliku, morate dodati izvor ** ** (`src`) slike unutar oznaka govora.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
-Kliknite ikonu slike da biste vidjeli slike dostupne za vašu priču.
+Click the image icon to see the images available for your story.
 
 ![screenshot](images/story-see-images.png)
 
-+ Odlučite koju sliku želite dodati i zapamtiti njeno ime, na primjer ` buildings.png`.
++ Decide which image you want to add and remember its name, for example `buildings.png`.
 
-+ Kliknite `index.html` da biste se vratili svom kodu.
++ Click on `index.html` to get back to your code.
 
 ![screenshot](images/story-image-name.png)
 
-+ Dodajte naziv slike između oznaka govora u oznaku `<img>`.
++ Add the name of the image between the speech marks in your `<img>` tag.
 
 ```html
 <img src="buildings.png">
