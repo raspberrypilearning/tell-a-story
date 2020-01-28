@@ -1,9 +1,9 @@
-## Döntsön egy történetről
+## Decide on a story
 
-A kódolás megkezdése előtt el kell döntenie a történetről. Gondolj arra a történetre, amelyet el akar mondani. Lehet, hogy:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ Egy híres történet
-+ Egy történetet, amelyet elkészítettél
-+ Valami, ami történt veled vagy valakivel, akit ismersz
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-Még csak nem is történetnek kell lennie. Lehet vicc, vers vagy bármi más, amit akar!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
