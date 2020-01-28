@@ -1,22 +1,22 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: برخی از تغییرات را انجام دهید
+## Challenge: make some changes
 
-کد HTML و CSS را برای سفارشی کردن صفحه وب خود ویرایش کنید.
+Edit the HTML and CSS code to customise your webpage.
 
-![تصویری](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
-محتوای HTML را می توان در فایل `index.html` و سبک CSS در `file style.css` شود.
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![تصویری](images/story-files.png)
+![screenshot](images/story-files.png)
 
-شما همچنین می توانید رنگ های مورد استفاده در صفحه وب را تغییر دهید و می توانید از فونت های مختلف مانند:
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">کمیک بی سی MS</span>
-+ <span style="font-family: Impact;">ضربه</span>
-+ <span style="font-family: Tahoma;">طهما</span>
++ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-یافتن نام رنگ CSS بیشتر [در اینجا](http://jumpto.cc/colours){: هدف = "_ خالی"}.
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-\--- \--- چالش \---
+\--- /challenge \---
