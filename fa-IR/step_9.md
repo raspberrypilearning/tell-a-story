@@ -1,9 +1,9 @@
-\--- چالش \---
+\--- challenge \---
 
-## چالش: ادامه دهید
+## Challenge: keep going!
 
-از آنچه که در این پروژه آموخته اید، برای پایان دادن به داستان خود استفاده کنید در اینجا یک مثال است:
+Use what you've learnt in this project to finish telling your story! Here's an example:
 
-![تصویری](images/story-final.png)
+![screenshot](images/story-final.png)
 
-\--- \--- چالش \---
+\--- /challenge \---
