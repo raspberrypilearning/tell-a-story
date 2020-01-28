@@ -1,16 +1,16 @@
-## Képek feltöltése
+## Uploading images
 
-**Ha van Trinket fiókja**, akkor saját képeit is feltöltheti weboldalára.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Kattintson a csecsebecsék tetején található képikonra, majd kattintson a ****kép hozzáadása elemre.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ Kattintson a **** feltöltés gombra, majd keresse meg a számítógépen használni kívánt képet, és húzza be a dobozba. Alternatív megoldásként a gomb segítségével válassza ki.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![Feltöltés](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ Ezután csak adja hozzá az új kép nevét a `<img>` címkéjében szereplő beszédjelek közé, így:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
