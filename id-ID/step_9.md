@@ -1,9 +1,9 @@
-\--- tantangan \---
+\--- challenge \---
 
-## Tantangan: lanjutkan!
+## Challenge: keep going!
 
-Gunakan apa yang telah kamu pelajari dalam proyek ini untuk menyelesaikan menceritakan kisah mu! Inilah contohnya:
+Use what you've learnt in this project to finish telling your story! Here's an example:
 
-![tangkapan layar](images/story-final.png)
+![screenshot](images/story-final.png)
 
-\--- / tantangan \---
+\--- /challenge \---
