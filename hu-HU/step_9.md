@@ -1,8 +1,8 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: folytassa!
+## Challenge: keep going!
 
-Használja azt, amit megtanult a projektben, és fejezze be a történetét! Íme egy példa:
+Use what you've learnt in this project to finish telling your story! Here's an example:
 
 ![screenshot](images/story-final.png)
 
