@@ -1,30 +1,30 @@
-## Редактирование твоей истории
+## Editing your story
 
-Начнем с редактирования содержимого HTML и стиля CSS веб-страницы истории.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ Откройте [этот trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-Проект должен выглядеть следующим образом:
+The project should look like this:
 
-![скриншот](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-Содержимое страницы идет в разделе `<body>` `index.html` HTML-документа.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Найди содержимое страницы из строки 7, внутри `<body>` и `</body>` тегов.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![скриншот](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ Посмотри, сможешь ли ты определить, какие теги используются для создания различных частей веб-страницы.
++ See if you can work out which tags are used to create the different parts of the webpage.
 
 ## \--- collapse \---
 
-## название: ответ
+## title: Answer
 
-![скриншот](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` это **заголовок**. Вы можете использовать цифры 1-6 для создания заголовков различных размеров.
-+ `<div>` сокращенно для ** деления ** и это способ группировать вещи вместе. На этой веб-странице ты будешь использовать ее, чтобы сгруппировать все материалы для каждой части твоей истории.
-+ `<img>` - это изображение ** ** ,.
-+ `<p>` является абзацем ** ** текста.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
 \--- /collapse \---
