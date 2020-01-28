@@ -1,46 +1,45 @@
-## あなたの話を伝える
+## Telling your story
 
-あなたの物語に第二の部分を追加しましょう。
+Let's add a second part to your story.
 
-+ コードの15行目に移動し、別の組に追加 `<div>` 及び `</div>` 開始タグと終了タグ。これは、あなたの物語の次の部分のための新しいボックスを作成します。
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![スクリーンショット](images/story-div.png)
+![screenshot](images/story-div.png)
 
-+ あなたの新しい `<div>` タグの中にテキストの段落を追加する：
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>ここにテキストがあります！</p>
+<p>More text here!</p>
 ```
 
-![スクリーンショット](images/story-paragraph.png)
+![screenshot](images/story-paragraph.png)
 
-+ `<div>` タグ内にこのコードを追加すると、新しいボックスにイメージを表示できます：
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
 ```
 
-![スクリーンショット](images/story-img-tag.png)
+![screenshot](images/story-img-tag.png)
 
-`<img>` タグは他のタグとは少し異なります`つまり、終了タグはありません。</p>
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-<ul>
-<li>イメージを表示するには、イメージの <strong>ソース</strong> （<code>src`）をスピーチマークの内側に追加する必要があります。</li> </ul> 
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
-あなたの物語のために利用可能なイメージを見るためにイメージアイコンをクリックしてください。
+Click the image icon to see the images available for your story.
 
-![スクリーンショット](images/story-see-images.png)
+![screenshot](images/story-see-images.png)
 
-+ どの画像を追加してその名前を覚えているかを決めます。例えば、 `buildings.png`。
++ Decide which image you want to add and remember its name, for example `buildings.png`.
 
-+ コードに戻るには、 `index.html` をクリックしてください。
++ Click on `index.html` to get back to your code.
 
-![スクリーンショット](images/story-image-name.png)
+![screenshot](images/story-image-name.png)
 
-+ `<img>` タグのスピーチマークの間にイメージの名前を追加します。
++ Add the name of the image between the speech marks in your `<img>` tag.
 
 ```html
 <img src="buildings.png">
 ```
 
-![スクリーンショット](images/story-image-name-add.png)
+![screenshot](images/story-image-name-add.png)
