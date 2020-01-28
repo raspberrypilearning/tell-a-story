@@ -1,16 +1,16 @@
-## Mengunggah gambar
+## Uploading images
 
-**Jika kamu memiliki akun Trinket**, kamu juga dapat mengunggah gambar mu sendiri ke halaman web mu.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Klik ikon gambar di bagian atas trinket mu, lalu klik **Tambahkan Gambar**.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![tangkapan layar](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ Klik tombol **Unggah**, lalu temukan gambar yang ingin kamu gunakan di komputer dan seret ke dalam kotak. Atau, gunakan tombol untuk memilihnya.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![Unggah](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ Kemudian, tambahkan saja nama gambar baru mu di antara tanda ucapan di tag `<img>`, seperti ini:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
