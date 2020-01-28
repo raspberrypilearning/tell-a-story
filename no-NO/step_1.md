@@ -1,10 +1,10 @@
-## Introduksjon
+## Introduction
 
-I dette prosjektet lærer du hvordan du lager din egen nettside for å fortelle en historie, spøk eller dikt.
+In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### Hva du vil gjøre
+### What you will make
 
-Rull ned i pyntet for å se slaglinjen!
+Scroll down in the trinket to see the punch line!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Rull ned i pyntet for å se slaglinjen!
   <img src="images/story-final.png">
 </div>
 
-### Hva du vil lære
+### What you will learn
 
-Dette prosjektet dekker elementer fra følgende tråder av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design grunnleggende 2D og 3D-eiendeler](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Tilleggsinformasjon for lærere
+### Additional information for educators
 
-Hvis du trenger å skrive ut dette prosjektet, bruk [utskriftsvennlig versjon](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Bruk lenken i footer for å få tilgang til GitHub-depotet for dette prosjektet, som inneholder alle ressurser (inkludert et eksempel ferdig prosjekt) i mappen 'en / ressurser'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
