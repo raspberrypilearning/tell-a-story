@@ -1,10 +1,10 @@
-## Giriş
+## Introduction
 
-Bu projede, bir hikaye, şaka ya da şiir anlatmak için kendi web sayfanızı nasıl oluşturabileceğinizi öğreneceksiniz.
+In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### Ne yapacaksın
+### What you will make
 
-Karikatürün sonunu görmek için "trinket" penceresinde aşağı kaydır!
+Scroll down in the trinket to see the punch line!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Karikatürün sonunu görmek için "trinket" penceresinde aşağı kaydır!
   <img src="images/story-final.png">
 </div>
 
-### Ne öğreneceksin
+### What you will learn
 
-Bu proje, [Raspberry Pi Dijital Hazırlama Müfredatı](http://rpf.io/curriculum){{target = "_ blank"} dizilerinin unsurlarını kapsar:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Temel 2D ve 3D varlıklar tasarlayın](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Eğitimciler için ek bilgiler
+### Additional information for educators
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen yazıcıya uygun [sürümü](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} kullanın.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Bu projeye ait bütün kaynakları içeren (bitmiş örnek bir proje de dahil!) GitHub Repo'suna erişmek için, en alttaki linke tıklayabilirsiniz. Kaynaklar, 'en/resources' dosyasında bulunmakta.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
