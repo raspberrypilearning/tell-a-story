@@ -1,9 +1,9 @@
-## Stabilește o poveste
+## Decide on a story
 
-Înainte de a începe să programezi, va trebui să stabilești o poveste. Gândește-te la povestea pe care vrei să o spui. Aceasta ar putea fi:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ O poveste celebră
-+ O poveste născocită de tine
-+ Ceva care ți s-a întâmplat ție sau cuiva cunoscut ție
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-Nici măcar nu trebuie să fie o poveste. Ar putea fi o glumă, o poezie sau orice altceva dorești!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
