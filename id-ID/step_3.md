@@ -1,9 +1,9 @@
-## Tentukan sebuah cerita
+## Decide on a story
 
-Sebelum kamu menulis kode, kamu harus memutuskan sebuah cerita. Pikirkan tentang kisah yang ingin kamu sampaikan. Bisa jadi:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ Kisah terkenal
-+ Kisah yang telah kamu buat
-+ Sesuatu yang telah terjadi pada mu atau seseorang yang kamu kenal
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-Itu bahkan tidak perlu menjadi cerita. Itu bisa menjadi lelucon, puisi, atau apa pun yang kamu inginkan!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
