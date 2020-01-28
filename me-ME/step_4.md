@@ -1,30 +1,30 @@
-## Uređivanje priče
+## Editing your story
 
-Počnimo sa uređivanjem HTML sadržaja i CSS stila veb-stranice za priču.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ Otvori [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-Projekat treba da izgleda ovako:
+The project should look like this:
 
 ![screenshot](images/story-starter.png)
 
-Sadržaj veb-stranice unosi se u dio `<body>` HTML dokumenta `index.html`.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Nađi sadržaj veb-stranice od 7. reda nadalje, unutar oznaka `<body>` i `</body>`.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
 ![screenshot](images/story-html.png)
 
-+ Pokušaj da otkriješ koje oznake se koriste za kreiranje različitih dijelova veb-stranice.
++ See if you can work out which tags are used to create the different parts of the webpage.
 
 ## \--- collapse \---
 
-## title: Odgovor
+## title: Answer
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` je **heading** (naslov). Za kreiranje naslova različitih veličina možeš da koristiš brojeve od 1 do 6.
-+ `<div>` je skraćenica za **division** (odjeljak) i koristi se za grupisanje stvari. Na ovoj veb-stranici odjeljak ćeš koristiti da grupišeš elemente za svaki dio svoje priče.
-+ `<img>` je **image** (slika).
-+ `<p>` je **paragraph** (pasus) teksta.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
 \--- /collapse \---
