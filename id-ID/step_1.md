@@ -1,10 +1,10 @@
-## pengantar
+## Introduction
 
-Dalam proyek ini, kamu akan belajar cara membuat halaman web mu sendiri untuk menceritakan kisah, lelucon, atau puisi.
+In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### Apa yang akan kamu buat
+### What you will make
 
-Gulir ke bawah di trinket untuk melihat garis pukulan!
+Scroll down in the trinket to see the punch line!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Gulir ke bawah di trinket untuk melihat garis pukulan!
   <img src="images/story-final.png">
 </div>
 
-### Apa yang akan kamu pelajari
+### What you will learn
 
-Proyek ini mencakup elemen dari untaian berikut dari [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Desain aset 2D dan 3D dasar](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
++ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Informasi tambahan untuk pendidik
+### Additional information for educators
 
-Jika kamu perlu mencetak proyek ini, silakan gunakan versi ramah-printer [](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Gunakan tautan di footer untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek selesai) di folder 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
