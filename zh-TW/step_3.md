@@ -1,9 +1,9 @@
-## 決定一個故事
+## Decide on a story
 
-在編碼之前，您需要決定一個故事。構思你要講的故事。它可能是：
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ 一個著名的故事
-+ 一個你編造的故事
-+ 發生在你或你認識的人身上的事情
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-它甚至不一定要是一個故事。它可以是一個笑話，一首詩，或者是任何你想要的東西！
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
