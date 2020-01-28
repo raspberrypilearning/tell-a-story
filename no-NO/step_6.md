@@ -1,45 +1,45 @@
-## Forteller historien din
+## Telling your story
 
-La oss legge til en annen del av historien din.
+Let's add a second part to your story.
 
-+ Gå til linje 15 i koden, og legg til i et annet sett med `<div>` og `</div>` start- og sluttkoder. Dette vil skape en ny boks for neste del av historien din.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![skjermbilde](images/story-div.png)
+![screenshot](images/story-div.png)
 
-+ Legg til et avsnitt med tekst inni din nye `<div>` tag:
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>Mer tekst her!</p>
+<p>More text here!</p>
 ```
 
-![skjermbilde](images/story-paragraph.png)
+![screenshot](images/story-paragraph.png)
 
-+ Du kan vise et bilde i den nye boksen ved å legge til denne koden i `<div>` taggen din:
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
 ```
 
-![skjermbilde](images/story-img-tag.png)
+![screenshot](images/story-img-tag.png)
 
-Legg merke til at `<img>` koder er litt annerledes enn andre koder: de har ikke en sluttkode.
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ For å få et bilde som skal vises, må du legge til **kilde** (`src`) av bildet inne i talemerkene.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
-Klikk på bildeikonet for å se bildene som er tilgjengelige for historien din.
+Click the image icon to see the images available for your story.
 
-![skjermbilde](images/story-see-images.png)
+![screenshot](images/story-see-images.png)
 
-+ Bestem hvilket bilde du vil legge til og husk navnet sitt, for eksempel `buildings.png`.
++ Decide which image you want to add and remember its name, for example `buildings.png`.
 
-+ Klikk på `index.html` å komme tilbake til koden din.
++ Click on `index.html` to get back to your code.
 
-![skjermbilde](images/story-image-name.png)
+![screenshot](images/story-image-name.png)
 
-+ Legg til navnet på bildet mellom talemerkene i `<img>` taggen din.
++ Add the name of the image between the speech marks in your `<img>` tag.
 
 ```html
 <img src="buildings.png">
 ```
 
-![skjermbilde](images/story-image-name-add.png)
+![screenshot](images/story-image-name-add.png)
