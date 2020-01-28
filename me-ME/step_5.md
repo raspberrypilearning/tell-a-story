@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Izazov: napravi nekoliko izmjena
+## Challenge: make some changes
 
-Uredi HTML kôd i CSS kôd da prilagodiš veb-stranicu svojim željama.
+Edit the HTML and CSS code to customise your webpage.
 
 ![screenshot](images/story-changes.png)
 
-HTML sadržaj nalazi se u `index.html` datoteci, a CSS stil u `style.css` datoteci.
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
 ![screenshot](images/story-files.png)
 
-Možeš da promijeniš boje na veb-stranici, a možeš i da koristiš različite fontove kao što su:
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Više CSS naziva boja možeš naći [ovdje](http://jumpto.cc/colours){:target="_blank"}.
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
