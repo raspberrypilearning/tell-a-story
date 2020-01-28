@@ -1,16 +1,16 @@
-## Загрузка изображений
+## Uploading images
 
-**Если у тебя есть аккаунт в Тринкете**, ты также можешь загрузить свои собственные изображения на твою веб-страницу.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Нажми на значок изображения в верхней части тринкет, а затем нажми ** Добавить изображение **,.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ Нажми кнопку ** Загрузить **, затем найди изображение, которое ты хочешь использовать на твоём компьютере, и перетащи его в поле. Или используй кнопку, чтобы выбрать его.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![Загрузить](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ Добавь имя изображения между ковычками в теге `<img>`:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
