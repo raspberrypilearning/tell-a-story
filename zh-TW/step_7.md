@@ -1,15 +1,15 @@
-## 找到你想要的圖片
+## Finding your own images
 
-讓我們在網絡上找到一張圖來加到你的故事中。
+Let's find an image on the web to add to your story.
 
-+ 轉到[此頁面](http://jumpto.cc/html-images) {：target =“ _ blank”}，然後找到要包含在故事中的圖像。
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-+ 右鍵單擊該圖像，然後單擊 **複製圖像URL** (或 **複製圖像地址**，選項會依據每人作業平台而有不同)。 URL是圖像的地址。
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
-![截圖](images/story-url.png)
+![screenshot](images/story-url.png)
 
-+ 返回 `index.html` 頁面。
++ Go back to your `index.html` page.
 
-+ 將URL貼上在 `<img>` 標記中的雙引號語音標記之間。你的圖像就會出現了！
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
-![截圖](images/story-image.png)
+![screenshot](images/story-image.png)
