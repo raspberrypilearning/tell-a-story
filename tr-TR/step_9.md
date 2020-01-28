@@ -1,9 +1,9 @@
-\--- meydan okuma \---
+\--- challenge \---
 
-## Zorluk: devam et!
+## Challenge: keep going!
 
-Hikayenizi anlatmayı bitirmek için bu projede öğrendiklerinizi kullanın! İşte bir örnek:
+Use what you've learnt in this project to finish telling your story! Here's an example:
 
-![ekran görüntüsü](images/story-final.png)
+![screenshot](images/story-final.png)
 
-\--- /meydan okuma \---
+\--- /challenge \---
