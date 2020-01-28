@@ -1,16 +1,16 @@
-## Încărcarea imaginilor
+## Uploading images
 
-**Dacă ai un cont Trinket**, poți, de asemenea, încărca propriile imagini pe pagina ta web.
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ Fă click pe pictograma de imagini din partea de sus a trinket-ului tău, apoi click pe **Add Image**.
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ Fă click pe butonul **Upload**, apoi caută pe computerul tău imaginea pe care vrei să o folosești și trage-o în casetă. Alternativ, folosește butonul pentru a selecta imaginea.
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
 ![Upload](images/upload-image.png)
 
-+ Adaugă denumirea noii tale imagini între ghilimelele din eticheta `<img>`, astfel:
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
