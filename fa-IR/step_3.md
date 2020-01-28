@@ -1,9 +1,9 @@
-## تصمیم گیری در مورد یک داستان
+## Decide on a story
 
-قبل از اینکه برنامه را دریافت کنید، باید درباره یک داستان تصمیم بگیرید. فکر می کنید در مورد داستان هایی که می خواهید بگویید. میتونه باشه:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ یک داستان معروف
-+ داستان شما ساخته شده است
-+ چیزی که برای شما یا کسی که می شناسید رخ داده است
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-حتی نباید یک داستان باشد. این می تواند شوخی، شعر یا هر چیز دیگری باشد که می خواهید!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
