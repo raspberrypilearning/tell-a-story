@@ -1,30 +1,30 @@
-## Redigerer historien din
+## Editing your story
 
-La oss starte med å redigere HTML-innholdet og CSS-stilen på historiens nettside.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ Åpne [denne trinket](http://jumpto.cc/web-story){: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-Prosjektet skal se slik ut:
+The project should look like this:
 
-![skjermbilde](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-Nettstedets innhold går i `<body>` delen av `indeksen.html` HTML-dokument.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Finn innholdet på nettsiden fra linje 7 og fremover, inne i `<body>` og `</body>` tagger.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![skjermbilde](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ Se om du kan finne ut hvilke merker som brukes til å opprette de ulike delene av nettsiden.
++ See if you can work out which tags are used to create the different parts of the webpage.
 
-## \--- kollaps \---
+## \--- collapse \---
 
-## tittel: Svar
+## title: Answer
 
-![skjermbilde](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` er en **overskrift**. Du kan bruke tallene 1 til 6 for å lage overskrifter av forskjellige størrelser.
-+ `<div>` er kort for **divisjon**, og er en måte å gruppere ting sammen. På denne nettsiden bruker du den til å gruppere alle ting for hver del av historien din.
-+ `<img>` er et **bilde**.
-+ `<p>` er en **paragraf** i tekst.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
-\--- / kollaps \---
+\--- /collapse \---
