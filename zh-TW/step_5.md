@@ -1,22 +1,22 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：做些改變
+## Challenge: make some changes
 
-編輯HTML和CSS代碼以製作你自有的網頁。
+Edit the HTML and CSS code to customise your webpage.
 
-![截圖](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
-HTML內容可以在 `index.html` 文件中找到，CSS樣式可以在 `style.css` 文件中找到。
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![截圖](images/story-files.png)
+![screenshot](images/story-files.png)
 
-您還可以更改網頁中使用的顏色，並且可以使用不同的字體，例如：
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-你可以在[這裡](http://jumpto.cc/colours)找到更多 CSS 上可用的顏色代碼{:target="_blank"}。
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
