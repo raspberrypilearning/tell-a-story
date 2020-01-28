@@ -1,45 +1,45 @@
-## داستان خود را بگویید
+## Telling your story
 
-بیایید بخش دوم را به داستان خود اضافه کنیم.
+Let's add a second part to your story.
 
-+ به خط 15 کد بروید و در مجموعه دیگری از تگ های شروع و پایان `<div>` و `</div>` کنید. این یک جعبه جدید برای بخش بعدی داستان شما ایجاد خواهد کرد.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![تصویری](images/story-div.png)
+![screenshot](images/story-div.png)
 
-+ یک پاراگراف متن را در داخل جدید خود اضافه کنید `<div>` tag:
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>متن بیشتر در اینجا!</p>
+<p>More text here!</p>
 ```
 
-![تصویری](images/story-paragraph.png)
+![screenshot](images/story-paragraph.png)
 
-+ شما می توانید یک تصویر را در کادر جدید خود نمایش دهید با اضافه کردن این کد در داخل تگ `<div>`:
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
 ```
 
-![تصویری](images/story-img-tag.png)
+![screenshot](images/story-img-tag.png)
 
-توجه داشته باشید که `<img>` برچسب ها کمی متفاوت با برچسب های دیگر هستند: آنها یک تگ پایان ندارند.
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ برای دریافت یک تصویر برای نشان دادن، شما باید **منبع** (`src`) تصویر داخل عالمت های گفتار را اضافه کنید.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
-برای دیدن تصاویر موجود در داستان خود روی نماد تصویر کلیک کنید.
+Click the image icon to see the images available for your story.
 
-![تصویری](images/story-see-images.png)
+![screenshot](images/story-see-images.png)
 
-+ تصحیح تصویری که می خواهید اضافه کنید و نام آن را بخاطر بسپارید، برای مثال `buildings.png`.
++ Decide which image you want to add and remember its name, for example `buildings.png`.
 
-+ روی `index.html` کلیک کنید تا به کد خود بازگردید
++ Click on `index.html` to get back to your code.
 
-![تصویری](images/story-image-name.png)
+![screenshot](images/story-image-name.png)
 
-+ نام تصویر را بین نشانه های گفتاری در تگ `<img>`.
++ Add the name of the image between the speech marks in your `<img>` tag.
 
 ```html
 <img src="buildings.png">
 ```
 
-![تصویری](images/story-image-name-add.png)
+![screenshot](images/story-image-name-add.png)
