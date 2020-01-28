@@ -4,11 +4,11 @@
 
 Edit the HTML and CSS code to customise your webpage.
 
-![captura de pantalla](images/story-changes.png)
+![screenshot](images/story-changes.png)
 
 The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![captura de pantalla](images/story-files.png)
+![screenshot](images/story-files.png)
 
 You can also alter the colours used in the webpage, and you can use different fonts such as:
 
