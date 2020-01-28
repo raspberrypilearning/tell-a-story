@@ -1,37 +1,37 @@
 ---
-hero_image: images / tell-a-story.png
-theme: سبز
+hero_image: images/tell-a-story.png
+theme: green
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1، design-1، programming-0، phys-comp-0، manufacture-0، community-0
-title: یک داستان بگویید
-description: یک صفحه وب ایجاد کنید تا داستان، شوخی یا شعر بگوید
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Tell a story
+description: Create a webpage to tell a story, joke, or poem
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: ادبیات
+interests: literature
 technologies: html-css-javascript
-site_areas: پروژه ها
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: معرفی
+    title: Introduction
   - 
-    title: آنچه شما نیاز دارید
+    title: What you will need
   - 
-    title: تصمیم گیری در مورد یک داستان
+    title: Decide on a story
   - 
-    title: ویرایش داستان شما
+    title: Editing your story
   - 
-    title: 'چالش: برخی از تغییرات را انجام دهید'
+    title: 'Challenge: make some changes'
   - 
-    title: داستان خود را بگویید
+    title: Telling your story
   - 
-    title: پیدا کردن تصاویر خود را
+    title: Finding your own images
   - 
-    title: آپلود تصاویر
+    title: Uploading images
   - 
-    title: 'چالش: ادامه دهید'
+    title: 'Challenge: keep going!'
