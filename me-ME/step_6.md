@@ -1,20 +1,20 @@
-## Pričanje priče
+## Telling your story
 
-Dodajmo drugi dio tvoje priče.
+Let's add a second part to your story.
 
-+ Idi u 15. red kôda i dodaj još jedan par oznaka, početnu `<div>` i završnu `</div>`. Tako ćeš kreirati novu kutiju (box) za sljedeći dio svoje priče.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
 ![screenshot](images/story-div.png)
 
-+ Dodaj pasus teksta unutar svoje nove oznake `<div>`:
++ Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>Dodaj tekst ovdje!</p>
+<p>More text here!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ U svojoj novoj kutiji možeš da prikažeš i sliku tako što ćeš dodati sljedeći kôd unutar oznake `<div>`:
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Dodajmo drugi dio tvoje priče.
 
 ![screenshot](images/story-img-tag.png)
 
-Imaj u vidu da su oznake `<img>` malo drugačije od ostalih oznaka: nemaju završnu oznaku.
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ Da bi se slika pojavila, potrebno je da između navodnika dodaš **izvor** (`src`) slike.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
-Klikni na ikonu za slike da pregledaš slike koje su dostupne za tvoju priču.
+Click the image icon to see the images available for your story.
 
 ![screenshot](images/story-see-images.png)
 
-+ Odluči koju sliku želiš da dodaš i zapamti njen naziv, na primjer `buildings.png`.
++ Decide which image you want to add and remember its name, for example `buildings.png`.
 
-+ Klikni na `index.html` da se vratiš na svoj kôd.
++ Click on `index.html` to get back to your code.
 
 ![screenshot](images/story-image-name.png)
 
-+ Naziv slike dodaj između navodnika u svoju `<img>` oznaku.
++ Add the name of the image between the speech marks in your `<img>` tag.
 
 ```html
 <img src="buildings.png">
