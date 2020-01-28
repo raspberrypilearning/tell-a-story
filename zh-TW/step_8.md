@@ -1,16 +1,16 @@
-## 上傳圖片
+## Uploading images
 
-**如果您有Trinket帳戶**，您還可以將自己的圖像上傳到您的網頁。
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ 單擊飾品頂部的圖像圖標，然後單擊 **添加圖像**。
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![截圖](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ 單擊 **上傳** 按鈕，然後找到要在電腦上使用的圖像並將其拖曳到框中。或者你也可使用按鈕選擇它。
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![上傳](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ 然後，只需在 `<img>` 標記中的雙引號語音標記之間加入新圖像的名稱，如下所示：
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
 ```html
 <img src="buildings.png">
