@@ -1,10 +1,10 @@
-## Uvod
+## Introduction
 
-U ovom projektu naučit ćete kako napraviti vlastitu web-stranicu kako biste ispričali priču, šalu ili pjesmu.
+In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### Što ćete napraviti
+### What you will make
 
-Pomaknite se dolje u dranguliji da vidite liniju udarca!
+Scroll down in the trinket to see the punch line!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Pomaknite se dolje u dranguliji da vidite liniju udarca!
   <img src="images/story-final.png">
 </div>
 
-### Što ćete naučiti
+### What you will learn
 
-Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Dodatne informacije za voditelje kluba
+### Additional information for educators
 
-Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:Target="_ blank"} .
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-Hr/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
