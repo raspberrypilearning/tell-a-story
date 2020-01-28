@@ -1,15 +1,15 @@
 ---
-hero_image: images / tell-a-story.png
-theme: zöld
+hero_image: images/tell-a-story.png
+theme: green
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Elmondani egy történetet
-description: Hozzon létre egy weboldalt egy történet, vicc vagy vers elmondására
+title: Tell a story
+description: Create a webpage to tell a story, joke, or poem
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
-interests: irodalom
+interests: literature
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
@@ -18,20 +18,20 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Bevezetés
+    title: Introduction
   - 
-    title: Mire lesz szükséged
+    title: What you will need
   - 
-    title: Döntsön egy történetről
+    title: Decide on a story
   - 
-    title: A történet szerkesztése
+    title: Editing your story
   - 
-    title: 'Kihívás: végezzen néhány változtatást'
+    title: 'Challenge: make some changes'
   - 
-    title: Elmondja a történetedet
+    title: Telling your story
   - 
-    title: Saját képek keresése
+    title: Finding your own images
   - 
-    title: Képek feltöltése
+    title: Uploading images
   - 
-    title: 'Kihívás: folytassa!'
+    title: 'Challenge: keep going!'
