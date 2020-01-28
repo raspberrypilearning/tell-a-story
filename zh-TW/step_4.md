@@ -1,30 +1,30 @@
-## 編輯你的故事
+## Editing your story
 
-讓我們首先編輯故事網頁的HTML內容和CSS樣式。
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ 打開[這個 trinket](http://jumpto.cc/web-story){:target="_blank"}。
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-檔案看起來應該像這樣︰
+The project should look like this:
 
-![截圖](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-網頁內容位於`<body>`的部分，在HTML文檔`index.html`中 。
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ 從第7行開始，在 `<body>` 和 `</body>` 標籤內找網頁內容。
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![截圖](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ 看看你是否可以找出用於創建網頁不同部分的標籤。
++ See if you can work out which tags are used to create the different parts of the webpage.
 
 ## \--- collapse \---
 
-## title: 答案
+## title: Answer
 
-![截圖](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` 是 **標題**。您可以使用數字1到6創建不同大小的標題。
-+ `<div>` 是 **分區**縮寫，是一種將東西劃分在一起的方法。在這個網頁中，您將使用它將故事中每個部分的所有內容組合在一起。
-+ `<img>` 是 **圖像**。
-+ `<p>`是**段落**文字。
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
 \--- /collapse \---
