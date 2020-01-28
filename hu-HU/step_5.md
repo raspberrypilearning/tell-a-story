@@ -1,22 +1,22 @@
-\--- kihívás \---
+\--- challenge \---
 
-## Kihívás: végezzen néhány változtatást
+## Challenge: make some changes
 
-Szerkessze a HTML és CSS kódot a weboldal testreszabásához.
+Edit the HTML and CSS code to customise your webpage.
 
 ![screenshot](images/story-changes.png)
 
-A HTML tartalom megtalálható a `index.html` fájlban, a CSS stílus pedig a `style.css` fájlban.
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![képernyőkép](images/story-files.png)
+![screenshot](images/story-files.png)
 
-Megváltoztathatja a weboldalon használt színeket, és különféle betűtípusokat is használhat, például:
+You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Hatás</span>
++ <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-További CSS színneveket talál itt [](http://jumpto.cc/colours){: target = "_ blank"}.
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
-\--- / challenge \---
+\--- /challenge \---
