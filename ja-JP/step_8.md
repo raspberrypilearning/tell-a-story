@@ -1,17 +1,17 @@
-## 画像のアップロード
+## Uploading images
 
-**あなたは小物アカウントがある場合は**、また、あなたのウェブページに独自の画像をアップロードすることができます。
+**If you have a Trinket account**, you can also upload your own images to your webpage.
 
-+ お使いの小物の上部にある画像アイコンをクリックして、[OK]をクリックします **追加画像**。
++ Click on the image icon at the top of your trinket, and then click **Add Image**.
 
-![スクリーンショット](images/story-upload.png)
+![screenshot](images/story-upload.png)
 
-+ **アップロード** ボタンをクリックしてから、コンピュータで使用するイメージを見つけてボックスにドラッグします。または、ボタンを使用して選択します。
++ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
 
-![アップロード](images/upload-image.png)
+![Upload](images/upload-image.png)
 
-+ 次に、 `<img>` タグのスピーチマークの間に新しい画像の名前を追加します`</li>
-</ul>
++ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
 
-<pre><code class="html"><img src="buildings.png">
-`</pre>
+```html
+<img src="buildings.png">
+```
