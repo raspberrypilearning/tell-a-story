@@ -1,9 +1,9 @@
-## 이야기 결정하기
+## Decide on a story
 
-코딩을 하기 전에, 어떤 이야기를 작성할지 결정해야 합니다. 작성하고 싶은 이야기를 생각해 보세요.
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ 유명한 이야기
-+ 내가 만든 이야기
-+ 나한테 일어난 일, 혹은 내가 아는 누군가에게 일어난 일
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-꼭 이야기가 아니여도 괜찮습니다. 농담이여도 좋고, 시나, 자신이 쓰고 싶은 다른 내용이여도 좋습니다!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
