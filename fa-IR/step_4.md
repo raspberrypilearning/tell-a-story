@@ -1,30 +1,30 @@
-## ویرایش داستان شما
+## Editing your story
 
-ابتدا با ویرایش محتوای HTML و سبک CSS صفحه وب داستان شروع کنید.
+Let's start by editing the HTML content and CSS style of the story's webpage.
 
-+ [این نکته را باز کنید](http://jumpto.cc/web-story){: target = "_ blank"}.
++ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-این پروژه باید چنین باشد:
+The project should look like this:
 
-![تصویری](images/story-starter.png)
+![screenshot](images/story-starter.png)
 
-محتوای صفحه وب در قسمت `<body>` سند `index.html` HTML قرار دارد.
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ محتوای وب صفحه را از خط 7 به بعد، در داخل برچسب های `<body>` و `</body>` کنید.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![تصویری](images/story-html.png)
+![screenshot](images/story-html.png)
 
-+ ببینید اگر شما می توانید کار کنید که کدام برچسب ها برای ایجاد بخش های مختلف صفحه وب استفاده می شود.
++ See if you can work out which tags are used to create the different parts of the webpage.
 
-## \--- سقوط - فروپاشی \---
+## \--- collapse \---
 
-## عنوان: پاسخ
+## title: Answer
 
-![تصویری](images/story-elements.png)
+![screenshot](images/story-elements.png)
 
-+ `<h1>` است **عنوان**. شما می توانید از اعداد 1 تا 6 برای ایجاد عنوان های اندازه های مختلف استفاده کنید.
-+ `<div>` برای **تقسیم**تقسیم شده است و راهی برای گروه بندی چیزها است. در این صفحه وب، از آن برای جمعآوری همه موارد برای هر قسمت از داستان خود استفاده کنید.
-+ `<img>` **تصویر**.
-+ `<p>` **پاراگراف** از متن است.
++ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
++ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
++ `<img>` is an **image**.
++ `<p>` is a **paragraph** of text.
 
-\--- /سقوط - فروپاشی \---
+\--- /collapse \---
