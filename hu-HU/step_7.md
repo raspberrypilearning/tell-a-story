@@ -1,15 +1,15 @@
-## Saját képek keresése
+## Finding your own images
 
-Találjunk egy képet az interneten, amelyet hozzáadhat a történetéhez.
+Let's find an image on the web to add to your story.
 
-+ Lépjen a következőre: [ezen az oldalon](http://jumpto.cc/html-images){: target = "_ blank"}, és keressen egy képet, amelyet szerepeltetni szeretne a történetében.
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-+ Kattintson a jobb gombbal a képre, majd kattintson a **Kép URL másolása** (vagy a **képcím másolása**, a használt számítógéptől függően) elemre. Az URL a kép címe.
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
 ![screenshot](images/story-url.png)
 
-+ Menj vissza a `index.html` oldalra.
++ Go back to your `index.html` page.
 
-+ Illessze be az URL-t a beszédjelek közé a `<img>` címkébe. Látnia kell a képe megjelenését!
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
 
 ![screenshot](images/story-image.png)
