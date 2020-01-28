@@ -1,9 +1,9 @@
-\--- utfordring \---
+\--- challenge \---
 
-## Utfordring: Fortsett!
+## Challenge: keep going!
 
-Bruk det du har lært i dette prosjektet for å avslutte å fortelle historien din! Her er et eksempel:
+Use what you've learnt in this project to finish telling your story! Here's an example:
 
-![skjermbilde](images/story-final.png)
+![screenshot](images/story-final.png)
 
-\--- /utfordring \---
+\--- /challenge \---
