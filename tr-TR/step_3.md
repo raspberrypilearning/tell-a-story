@@ -1,9 +1,9 @@
-## Bir hikayeye karar ver
+## Decide on a story
 
-Kodlamadan önce bir hikayeye karar vermeniz gerekir. Anlatmak istediğiniz hikayeyi düşünün. Düşüneceğiniz hikaye:
+Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ Ünlü bir hikaye
-+ Yaptığın bir hikaye
-+ Başına gelen bir şey ya da tanıdığın biri
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-Olabilir. Hikaye bile olması gerekmiyor. Şaka, şiir ya da istediğin herhangi bir şey olabilir!
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
