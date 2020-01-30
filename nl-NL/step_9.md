@@ -6,8 +6,13 @@ Gebruik wat je in dit project hebt geleerd om je verhaal te vertellen! Hier is e
 ![screenshot](images/story-final.png)
 
 --- /challenge ---
-***
-### Door de community geleverde vertaling
-Dit project werd vertaald door **Cor Groot** en gecontroleerd door **Henny van Ham** .
 
-Onze geweldige vertalers helpen ons om kinderen over de hele wereld de kans te geven te leren coderen. Jij kunt ons helpen nog meer kinderen te bereiken door onze projecten te vertalen - lees meer op [rpf.io/translators](https://rpf.io/translators).
+***
+
+Dit project werd vertaald door vrijwilligers:
+
+**Cor Groot**
+
+**Henny van Ham**
+
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
