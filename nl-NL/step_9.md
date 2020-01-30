@@ -7,6 +7,7 @@ Gebruik wat je in dit project hebt geleerd om je verhaal te vertellen! Hier is e
 
 --- /challenge ---
 ***
+
 Dit project werd vertaald door vrijwilligers:
 
 **Cor Groot**
