@@ -1,6 +1,6 @@
-## Uploading images
+## 이미지 업로드하기
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Trinket 계정이 있는 경우**, 자신의 이미지를 페이지에 올릴 수 있어요.
 
 + Click on the image icon at the top of your trinket, and then click **Add Image**.
 
