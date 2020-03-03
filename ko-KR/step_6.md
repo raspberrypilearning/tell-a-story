@@ -9,7 +9,7 @@
 + 아래 코드를 새로운 `<div>` 태그 안에 추가하세요.
 
 ```html
-<p>More text here!</p>
+<p>텍스트 추가!</p>
 ```
 
 ![스크린샷](images/story-paragraph.png)
@@ -34,7 +34,7 @@ Click the image icon to see the images available for your story.
 
 + Click on `index.html` to get back to your code.
 
-![screenshot](images/story-image-name.png)
+![스크린샷](images/story-image-name.png)
 
 + Add the name of the image between the speech marks in your `<img>` tag.
 
@@ -42,4 +42,4 @@ Click the image icon to see the images available for your story.
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![스크린샷](images/story-image-name-add.png)
