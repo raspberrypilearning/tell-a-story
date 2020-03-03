@@ -4,18 +4,18 @@
 
 Edit the HTML and CSS code to customise your webpage.
 
-![screenshot](images/story-changes.png)
+![스크린샷](images/story-changes.png)
 
 The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-![screenshot](images/story-files.png)
+![스크린샷](images/story-files.png)
 
 You can also alter the colours used in the webpage, and you can use different fonts such as:
 
 + <span style="font-family: Arial;">인어공주</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS 글꼴</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
++ <span style="font-family: Impact;">효과</span>
++ <span style="font-family: Tahoma;">타호마 폰트</span>
 
 Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
 
