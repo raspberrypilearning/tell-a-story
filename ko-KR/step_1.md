@@ -2,9 +2,9 @@
 
 In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
 
-### What you will make
+### 만들 작품
 
-Scroll down in the trinket to see the punch line!
+이야기 제작의 예시예요. 아래로 스크롤하며 구경해 보세요!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
