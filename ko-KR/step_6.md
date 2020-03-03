@@ -1,18 +1,18 @@
-## Telling your story
+## 이야기를 들려주세요
 
-Let's add a second part to your story.
+이제 이야기의 두 번째 부분을 추가해 봅시다.
 
 + Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![screenshot](images/story-div.png)
+![스크린샷](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ 아래 코드를 새로운 `<div>` 태그 안에 추가하세요.
 
 ```html
 <p>More text here!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![스크린샷](images/story-paragraph.png)
 
 + You can display an image in your new box by adding this code inside your `<div>` tag:
 
@@ -20,7 +20,7 @@ Let's add a second part to your story.
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![스크린샷](images/story-img-tag.png)
 
 Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
@@ -28,7 +28,7 @@ Notice that `<img>` tags are a bit different to other tags: they don't have an e
 
 Click the image icon to see the images available for your story.
 
-![screenshot](images/story-see-images.png)
+![스크린샷](images/story-see-images.png)
 
 + Decide which image you want to add and remember its name, for example `buildings.png`.
 
