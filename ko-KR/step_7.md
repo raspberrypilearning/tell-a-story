@@ -6,10 +6,10 @@ Let's find an image on the web to add to your story.
 
 + Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
-![screenshot](images/story-url.png)
+![스크린샷](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ 다시 `index.html`로 돌아갑니다.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ `<img>` 태그 사이에 URL을 붙여 넣으세요. 그럼 이미지가 나타납니다!
 
-![screenshot](images/story-image.png)
+![스크린샷](images/story-image.png)
