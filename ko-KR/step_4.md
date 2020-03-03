@@ -1,18 +1,18 @@
-## Editing your story
+## 이야기 수정하기
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+이야기 웹 페이지에서 HTML 콘텐츠와 CSS 스타일을 수정해 보세요.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ [trinket 열기](http://jumpto.cc/web-story){:target="_blank"}
 
-The project should look like this:
+프로젝트는 아래와 같을 거예요:
 
-![screenshot](images/story-starter.png)
+![스크린샷](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+웹 페이지의 내용은 `index.html`의 `<body>` HTML 부분에 있어요.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ 웹페이지 내용은 7번째 줄부터이며, `<body>`와 `</body>` 태그 사이에 있습니다.
 
-![screenshot](images/story-html.png)
+![스크린샷](images/story-html.png)
 
 + See if you can work out which tags are used to create the different parts of the webpage.
 
