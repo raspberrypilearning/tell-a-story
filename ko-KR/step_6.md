@@ -22,7 +22,7 @@
 
 ![스크린샷](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+`<img>` 태그는 다른 태그와 다르게 끝 태그가 없다는 점을 주의하세요.
 
 + To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
