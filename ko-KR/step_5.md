@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## 과제: 몇 가지 변경하기
 
 Edit the HTML and CSS code to customise your webpage.
 
@@ -10,13 +10,13 @@ The HTML content can be found in the `index.html` file, and the CSS style in the
 
 ![스크린샷](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+웹 페이지에서 사용되는 색상을 변경할 수도 있으며 다음과 같은 다양한 글꼴을 사용할 수 있습니다.
 
 + <span style="font-family: Arial;">인어공주</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS 글꼴</span>
 + <span style="font-family: Impact;">효과</span>
 + <span style="font-family: Tahoma;">타호마 폰트</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+더 많은 CSS 색상을 [여기서](http://jumpto.cc/colours){:target="_blank"} 찾을 수 있어요.
 
 \--- /challenge \---
