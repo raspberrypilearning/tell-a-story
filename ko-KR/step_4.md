@@ -20,7 +20,7 @@
 
 ## title: Answer
 
-![screenshot](images/story-elements.png)
+![스크린샷](images/story-elements.png)
 
 + `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
 + `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
