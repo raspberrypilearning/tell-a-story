@@ -23,8 +23,8 @@ Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
 ![스크린샷](images/story-elements.png)
 
 + `<h1>`은 **제목**이예요. 1에서 6까지의 숫자를 사용하여 다양한 크기의 제목을 만들 수 있어요.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<div>`은 **division**의 약자로, 레이아웃을 나눌 때 사용해요. 이 웹페이지에선 이야기의 각 장을 나눌 때 사용합니다.
++ `<img>`는 **이미지**를 삽입하는 태그예요. src 속성을 통해 이미지 경로를 지정합니다.
++ `<p>`은 **paragraph**의 약자로, 하나의 문단을 만들 때 쓰입니다.
 
 \--- /collapse \---
