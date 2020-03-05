@@ -8,7 +8,7 @@ Proje şu şekilde gözükmeli:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Web sayfasının içeriği `index.html` HTML belgesinin `<body>` bölümünde olacak.
 
 + Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
