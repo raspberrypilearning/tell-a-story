@@ -1,10 +1,10 @@
 ## Hikayenizi düzenleme
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Hikayenin web sayfasının HTML içeriğini ve CSS stilini düzenleyerek başlayalım.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ [Bu trinketi](http://jumpto.cc/web-story){:target="_blank"} açın.
 
-The project should look like this:
+Proje şu şekilde gözükmeli:
 
 ![screenshot](images/story-starter.png)
 
