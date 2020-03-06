@@ -1,45 +1,45 @@
-## Telling your story
+## Hikayenizi anlatma
 
-Let's add a second part to your story.
+Hikayenize ikinci bir bölüm ekleyelim.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Kodun 15. satırına gidin ve başka bir `<div>` ve `</div>` başlangıç ve bitiş etiketi ekleyin. Bu, hikayenizin bir sonraki kısmı için yeni bir bölüm oluşturacaktır.
 
-![screenshot](images/story-div.png)
+![ekran görüntüsü](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Yeni `<div>` etiketinizin içine bir metin paragrafı ekleyin:
 
 ```html
-<p>More text here!</p>
+<p>Buraya metin girilecek!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![ekran görüntüsü](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Bu kodu `<div>` etiketinize ekleyerek yeni bölümünüzde bir resim görüntüleyebilirsiniz:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![ekran görüntüsü](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+`<img>` etiketlerinin diğer etiketlerden biraz farklı olduğuna dikkat edin: son etiketleri yoktur.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Bir resmin gösterilmesi için, konuşma işaretlerine resmin **kaynağını** (`src`) eklemeniz gerekir.
 
-Click the image icon to see the images available for your story.
+Hikayenize uygun görüntüleri görmek için resim simgesine tıklayın.
 
-![screenshot](images/story-see-images.png)
+![ekran görüntüsü](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Hangi görüntüyü eklemek istediğinize karar verin ve adını hatırlayın, örneğin `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Kodunuza geri dönmek için `index.html` tıklayın.
 
-![screenshot](images/story-image-name.png)
+![ekran görüntüsü](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Resmin adını `<img>` etiketinizdeki konuşma işaretlerinin arasına ekleyin.
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![ekran görüntüsü](images/story-image-name-add.png)
