@@ -1,16 +1,16 @@
-## Uploading images
+## Görüntülerinizi yükleme
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Bir Trinkey hesabınız** varsa, web sayfanıza kendi resimlerinizi de yükleyebilirsiniz.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Trinketin tepesindeki resim simgesine tıklayın ve ardından **Resim Ekle(Add Image)**'e tıklayınız.
 
-![screenshot](images/story-upload.png)
+![ekran görüntüsü](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ **Yükle** düğmesine ("Upload" yazan düğme) tıklayın, ardından bilgisayarınızda kullanmak istediğiniz görüntüyü bulun ve kutuya sürükleyin. Alternatif olarak, seçmek için butonu kullanın.
 
-![Upload](images/upload-image.png)
+![Yükleme](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Sonra, yeni görüntünüzün adını `<img>` etiketinizdeki konuşma işaretlerinin arasına ekleyin, şöyle:
 
 ```html
 <img src="buildings.png">
