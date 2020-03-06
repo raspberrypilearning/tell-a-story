@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Meydan Okuma: devam et!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Hikayenizi anlatmayı bitirmek için bu projede öğrendiklerinizi kullanın! İşte bir örnek:
 
-![screenshot](images/story-final.png)
+![ekran görüntüsü](images/story-final.png)
 
 \--- /challenge \---
