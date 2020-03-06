@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Meydan Okuma: bazı değişiklikler yapın
 
-Edit the HTML and CSS code to customise your webpage.
+Web sayfanızı kişiselleştirmek için HTML ve CSS kodunu düzenleyin.
 
-![screenshot](images/story-changes.png)
+![ekran görüntüsü](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+HTML içeriği `index.html` dosyasında ve `style.css` dosyasındaki CSS stilinde bulunabilir.
 
-![screenshot](images/story-files.png)
+![ekran görüntüsü](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+Web sayfasında kullanılan renkleri de değiştirebilir ve aşağıdakiler gibi farklı fontları kullanabilirsiniz:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+[Buradan](http://jumpto.cc/colours){: target = "_ blank"} CSS için renk bulabilir ve rengin CSS ismini bulabilirsiniz.
 
 \--- /challenge \---
