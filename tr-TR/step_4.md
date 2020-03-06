@@ -6,25 +6,25 @@ Hikayenin web sayfasının HTML içeriğini ve CSS stilini düzenleyerek başlay
 
 Proje şu şekilde gözükmeli:
 
-![screenshot](images/story-starter.png)
+![ekran görüntüsü](images/story-starter.png)
 
 Web sayfasının içeriği `index.html` HTML belgesinin `<body>` bölümünde olacak.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Web sayfası içeriğini 7. satırdan itibaren, `<body>` ve `</body>` etiketlerinin içinde bulun.
 
-![screenshot](images/story-html.png)
+![ekran görüntüsü](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Bakalım web sayfasında farklı bölümler oluşturmak için hangi etiketlerin kullanıldığını bulabilecek misiniz?
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Cevap
 
-![screenshot](images/story-elements.png)
+![ekran görüntüsü](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` bir **başlık**. Farklı boyutlarda başlıklar oluşturmak için 1'den 6'ya kadar olan sayıları kullanabilirsiniz.
++ `<div>`, **divison (Dilimizde bölüm gibi bir anlama geliyor) **anlamına geliyor ve yaptıklarınızı gruplara ayırmak için bir yol olarak kullanılır. Bu web sayfasında, hikayenizin her bir bölümü için tüm öğeleri bir araya getirmek için kullanacaksınız.
++ `<img>` **resim** anlamına geliyor.
++ `<p>` yazınızın bir **paragraf**ıdır.
 
 \--- /collapse \---
