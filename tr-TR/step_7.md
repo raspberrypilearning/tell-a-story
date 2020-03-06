@@ -1,15 +1,15 @@
-## Finding your own images
+## Kendi resimlerinizi bulma
 
-Let's find an image on the web to add to your story.
+Hikayenize eklemek için internet'de bir resim bulalım.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Bu sayfaya [gidin](http://jumpto.cc/html-images){: target = "_ blank"} ve hikayenize eklemek istediğiniz bir resim bulun.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Görüntüye sağ tıklayın ve **Görüntü URL'sini Kopyala** (veya kullandığınız bilgisayara bağlı olarak **Görüntü Adresini Kopyala**) tıklayın. URL, görüntünün adresidir.
 
-![screenshot](images/story-url.png)
+![ekran görüntüsü](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ `index.html` sayfanıza dönün.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ URL'yi `<img>` etiketinizdeki konuşma işaretlerinin arasına yapıştırın. Resminizin göründüğünü görmelisiniz!
 
-![screenshot](images/story-image.png)
+![ekran görüntüsü](images/story-image.png)
