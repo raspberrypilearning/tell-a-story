@@ -22,4 +22,4 @@
 
 이 프로젝트를 출력하고자 한다면, [프린터용 버전](https://projects.raspberrypi.org/ko-KR/projects/tell-a-story/print){:target="_blank"} 을 사용하세요.
 
-이 프로젝트를 위한 아래 쪽의 GitHub repository 링크를 이용하세요. (완료된 프로젝트 예제를 포함한) 모든 자료가 'zh-CN/resources' 폴더에 들어 있습니다.
+이 프로젝트를 위한 아래 쪽의 GitHub repository 링크를 이용하세요. (완료된 프로젝트 예제를 포함한) 모든 자료가 'ko-KR/resources' 폴더에 들어 있습니다.
