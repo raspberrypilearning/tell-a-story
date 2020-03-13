@@ -20,6 +20,6 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:ta
 
 ### Eğitimciler için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/tell-a-story/print) 'ü kullanın {:target="_blank"} .
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/tr-TR/projects/tell-a-story/print){:target="_blank"} 'ü kullanın.
 
 Bu projeye ait bütün kaynakları içeren (bitmiş örnek bir proje de dahil!) GitHub Repo'suna erişmek için, en alttaki linke tıklayabilirsiniz. Kaynaklar, 'tr-TR/resources' klasöründe bulunmakta.
