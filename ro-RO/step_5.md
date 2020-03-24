@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Provocare: fă niște modificări
 
-Edit the HTML and CSS code to customise your webpage.
+Editează codul HTML și CSS pentru a-ți personaliza pagina web.
 
-![screenshot](images/story-changes.png)
+![captură de ecran](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+Conținutul HTML poate fi găsit în fișierul `index.html` și stilul CSS în fișierul `style.css`.
 
-![screenshot](images/story-files.png)
+![captură de ecran](images/story-files.png)
 
 You can also alter the colours used in the webpage, and you can use different fonts such as:
 
@@ -17,6 +17,6 @@ You can also alter the colours used in the webpage, and you can use different fo
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Poți găsi mai multe nume de culori pentru CSS [aici](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
