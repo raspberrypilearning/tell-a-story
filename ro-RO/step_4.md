@@ -1,30 +1,30 @@
 ## Redactează-ți povestea
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Să începem prin a edita conținutul HTML și stilului CSS al paginii web a poveștii.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Deschide [acest trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Proiectul ar trebui să arate astfel:
 
 ![captură de ecran](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Conținutul paginii web intră în secțiunea `<body>` a documentului HTML `index.html`.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Găsește conținutul paginii web începând cu linia 7, în interiorul etichetelor `<body>` și ` </body>`.
 
 ![captură de ecran](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Vezi dacă îți poți da seama ce etichete sunt folosite pentru a crea diferitele componente ale paginii web.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Răspuns
 
 ![captură de ecran](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` este un **titlu**. Poți folosi numerele de la 1 la 6 pentru a crea titluri de diferite dimensiuni.
++ `<div>` este prescurtarea pentru **diviziune** și este un mod de a grupa lucrurile împreună. În această pagină web, vei folosi această etichetă pentru a grupa toate elementele din fiecare parte a poveștii tale.
++ `<img>` este o **imagine**.
++ `<p>` este un ** alineat ** de text.
 
 \--- /collapse \---
