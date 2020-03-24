@@ -24,9 +24,9 @@ Să adăugăm o a doua parte poveștii tale.
 
 Reține că etichetele `<img>` sunt puțin diferite de alte etichete: ele nu au o etichetă de sfârșit.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Pentru a afișa o imagine, trebuie să adaugi **sursa** (`src`) imaginii în interiorul ghilimelelor.
 
-Click the image icon to see the images available for your story.
+Dă click pe pictograma de imagini pentru a vedea imaginile disponibile poveștii tale.
 
 ![captură de ecran](images/story-see-images.png)
 
