@@ -1,40 +1,40 @@
-## Telling your story
+## Spune-ți povestea
 
-Let's add a second part to your story.
+Să adăugăm o a doua parte poveștii tale.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Mergi la linia 15 din cod și adaugă un nou set de etichete de început și sfârșit de tip `<div>` și `</div>`. Astfel, vei crea o casetă nouă pentru următoarea parte a poveștii tale.
 
-![screenshot](images/story-div.png)
+![captură de ecran](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Adaugă un alineat de text în interiorul noii tale etichete `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Mai mult text aici!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![captură de ecran](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Poți afișa o imagine în noua casetă adăugând acest cod în eticheta `<div>`:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![captură de ecran](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Reține că etichetele `<img>` sunt puțin diferite de alte etichete: ele nu au o etichetă de sfârșit.
 
 + To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
 Click the image icon to see the images available for your story.
 
-![screenshot](images/story-see-images.png)
+![captură de ecran](images/story-see-images.png)
 
 + Decide which image you want to add and remember its name, for example `buildings.png`.
 
 + Click on `index.html` to get back to your code.
 
-![screenshot](images/story-image-name.png)
+![captură de ecran](images/story-image-name.png)
 
 + Add the name of the image between the speech marks in your `<img>` tag.
 
@@ -42,4 +42,4 @@ Click the image icon to see the images available for your story.
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![captură de ecran](images/story-image-name-add.png)
