@@ -10,7 +10,7 @@ Conținutul HTML poate fi găsit în fișierul `index.html` și stilul CSS în f
 
 ![captură de ecran](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+De asemenea, poți schimba culorile utilizate în pagina web și poți folosi diferite fonturi, cum ar fi:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
