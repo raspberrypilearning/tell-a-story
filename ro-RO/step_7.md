@@ -1,15 +1,15 @@
-## Finding your own images
+## Caută-ți propriile tale imagini
 
-Let's find an image on the web to add to your story.
+Hai să căutăm o imagine pe internet și să o adăugăm poveștii tale.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Accesează [această pagină](http://jumpto.cc/html-images){:target="_blank"} și caută o imagine pe care vrei să o incluzi în povestea ta.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Fă click-dreapta pe imagine, apoi click pe **Copiere URL imagine** (sau **Copiază adresa imaginii**, în funcție de computerul pe care îl folosești). URL-ul este adresa imaginii.
 
-![screenshot](images/story-url.png)
+![captură de ecran](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Revino la pagina `index.html`.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Lipește adresa URL între acoladele din eticheta `<img>`. Ar trebui să vezi cum apare imaginea ta!
 
-![screenshot](images/story-image.png)
+![captură de ecran](images/story-image.png)
