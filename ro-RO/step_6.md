@@ -30,13 +30,13 @@ Dă click pe pictograma de imagini pentru a vedea imaginile disponibile povești
 
 ![captură de ecran](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Decide ce imagine dorești să adaugi și reține-i denumirea, de exemplu `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Fă click pe `index.html` pentru a reveni la codul tău.
 
 ![captură de ecran](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Adaugă denumirea imaginii între ghilimelele din eticheta `<img>`.
 
 ```html
 <img src="buildings.png">
