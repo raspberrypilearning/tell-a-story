@@ -6,7 +6,7 @@ Agreguemos una segunda parte a tu historia.
 
 ![captura de pantalla](images/story-div.png)
 
-+ Agrega un párrafo de texto dentro de tu nueva etiqueta `<div>`:
++ Añade un párrafo de texto dentro de tu nueva etiqueta `<div>`:
 
 ```html
 <p>¡Más texto aquí!</p>
@@ -36,7 +36,7 @@ Haz clic en el icono de imagen para ver las imágenes disponibles para tu histor
 
 ![captura de pantalla](images/story-image-name.png)
 
-+ Agrega el nombre de la imagen entre las comillas en tu etiqueta `<img>`.
++ Añade el nombre de la imagen entre las comillas en tu etiqueta `<img>`.
 
 ```html
 <img src="buildings.png">
