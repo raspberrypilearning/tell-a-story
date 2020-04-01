@@ -10,7 +10,7 @@ Proiectul ar trebui să arate astfel:
 
 Conținutul paginii web intră în secțiunea `<body>` a documentului HTML `index.html`.
 
-+ Găsește conținutul paginii web începând cu linia 7, în interiorul etichetelor `<body>` și ` </body>`.
++ Găsește conținutul paginii web începând cu linia 7, în interiorul etichetelor `<body>` și `</body>`.
 
 ![captură de ecran](images/story-html.png)
 
