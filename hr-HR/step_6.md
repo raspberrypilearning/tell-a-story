@@ -2,19 +2,19 @@
 
 Dodajmo drugi dio priče.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Idite na 15. redak koda i dodajte novi skup `<div>` i ` </div>` početne i završne oznake. Ovo će stvoriti novi odjeljak za sljedeći dio vaše priče.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Dodajte odlomak teksta unutar nove oznake `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Više teksta ovdje!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Možete prikazati sliku u novom okviru dodavanjem ovog koda unutar oznake `<div>`:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Dodajmo drugi dio priče.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Primjetite da su oznake `<img>` malo drugačije od ostalih oznaka: nemaju završnu oznaku.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Da biste prikazali sliku, morate dodati izvor ** ** (`src`) slike unutar navodnika.
 
-Click the image icon to see the images available for your story.
+Kliknite ikonu slike da biste vidjeli slike dostupne za vašu priču.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Odlučite koju sliku želite dodati i zapamtite njeno ime, na primjer ` buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Kliknite `index.html` da biste se vratili svom kodu.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Dodajte naziv slike između navodnika unutar oznake `<img>`.
 
 ```html
 <img src="buildings.png">
