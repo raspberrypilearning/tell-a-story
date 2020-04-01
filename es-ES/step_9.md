@@ -8,8 +8,14 @@
 
 --- /challenge ---
 
-Traducción aportada por la comunidad
 
-Este proyecto fue traducido por Laura Lurati y revisado por Asun Alsina.
+***
+Este proyecto fue traducido por voluntarios:
 
-Nuestros increíbles voluntarios de traducción nos ayudan a dar a los niños de todo el mundo la oportunidad de aprender a programar. Puedes ayudarnos a llegar a más niños traduciendo nuestros proyectos. Consigue más información en [rpf.io/translators](https://rpf.io/translators).
+Laura Lurati
+
+Asun Alsina
+
+Sara Conde
+
+Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puede ayudarnos a llegar a más personas ofreciéndose como voluntario para traducir; más información en [rpf.io/translate](https://rpf.io/translate).
