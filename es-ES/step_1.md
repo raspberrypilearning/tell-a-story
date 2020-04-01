@@ -4,7 +4,7 @@ En este proyecto, aprenderás cómo crear tu propia página web para contar una 
 
 ### Lo que vas a hacer
 
-¡Desplázate hacia abajo en el trinket para ver el remate!
+¡Desplázate hacia abajo en el trinket para leer el chiste!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
