@@ -1,0 +1,28 @@
+---
+hero_image: images/tell-a-story.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: Spune o poveste
+description: Creează o pagină web pentru a spune o poveste, o glumă sau o poezie
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: literature
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
+steps:
+  - title: Introducere
+  - title: De ce vei avea nevoie
+  - title: Stabilește o poveste
+  - title: Redactează-ți povestea
+  - title: 'Provocare: fă niște modificări'
+  - title: Spune-ți povestea
+  - title: Caută-ți propriile tale imagini
+  - title: Încărcarea imaginilor
+  - title: 'Provocare: continuă!'
