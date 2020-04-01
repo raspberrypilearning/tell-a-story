@@ -17,6 +17,6 @@ También puedes cambiar los colores utilizados en la página web, y puedes usar 
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours){:target="_ blank"}.
+Puedes encontrar más nombres de colores de CSS [aquí](http://jumpto.cc/colours){:target="_blank"}.
 
 --- /challenge ---
