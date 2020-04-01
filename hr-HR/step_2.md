@@ -1,6 +1,6 @@
-## What you will need
+## Trebat ćete
 
-### Hardware
+### Hardver
 
 + Računalo kojim možeš pristupiti web stranici [trinket.io](https://trinket.io){:target="_blank"}
 
