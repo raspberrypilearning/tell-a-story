@@ -1,8 +1,8 @@
-## Introduction
+## Uvod
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+U ovom projektu naučit ćete kako napraviti vlastitu web-stranicu kako biste ispričali priču, šalu ili pjesmu.
 
-### What you will make
+### Što ćete napraviti
 
 Scroll down in the trinket to see the punch line!
 
