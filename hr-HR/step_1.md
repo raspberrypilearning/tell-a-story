@@ -4,7 +4,7 @@ U ovom projektu naučit ćete kako napraviti vlastitu web-stranicu kako biste is
 
 ### Što ćete napraviti
 
-Scroll down in the trinket to see the punch line!
+Pomaknite se dolje na dno trinket stranice da vidite u čemu je poanta!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
