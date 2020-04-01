@@ -1,16 +1,16 @@
-## Uploading images
+## Učitavanje slike
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Ako imate Trinket račun**, na svoju web stranicu možete prenijeti i vlastite slike.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Kliknite ikonu slike na vrhu trinketa, a zatim kliknite **Dodaj sliku**.
 
 ![screenshot](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Kliknite **Upload** gumb, a zatim na računalu pronađite sliku koju želite koristiti i povucite je u okvir. Alternativno, koristite gumb da odaberete sliku.
 
-![Upload](images/upload-image.png)
+![Učitaj](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Dodajte naziv slike između navodnika u oznaku `<img>`:
 
 ```html
 <img src="buildings.png">
