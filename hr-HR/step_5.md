@@ -17,6 +17,6 @@ Također možete promijeniti boje koje se koriste na web stranici, a možete kor
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Više naziva CSS boja možete pronaći [ovdje](http://jumpto.cc/colours){:target="_ blank"}.
 
 \--- /challenge \---
