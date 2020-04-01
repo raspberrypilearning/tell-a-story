@@ -1,9 +1,9 @@
-## Decide on a story
+## Odlučite se za priču
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Prije nego što krenete kodirati, morat ćete odlučiti o priči. Razmislite o priči koju želite ispričati. To bi mogla biti:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Poznata priča
++ Priča koju ste izmislili
++ Nešto što se dogodilo vama ili nekome koga poznajete
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+To čak ne mora biti priča. To bi mogao biti vic, pjesma ili bilo što drugo!
