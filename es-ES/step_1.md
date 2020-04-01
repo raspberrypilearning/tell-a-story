@@ -11,7 +11,7 @@ En este proyecto, aprenderás cómo crear tu propia página web para contar una 
   </iframe>
   <img src="images/story-final.png">
 </div>
-/
+
 ### Lo que aprenderás
 
 Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
