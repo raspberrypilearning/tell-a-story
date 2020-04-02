@@ -17,6 +17,6 @@ HTML सामग्री `index.html` में पाई जा सकती 
 + <span style="font-family: Impact;">इंपैक्ट(Impact)</span>
 + <span style="font-family: Tahoma;">तहोमा(Tahoma)</span>
 
-आप अधिक सीएसएस(CSS) रंग के नाम [यहां](http://jumpto.cc/colours){:target="_blank"} पा सकते हैं ।
+आप अधिक CSS रंग के नाम [यहां](http://jumpto.cc/colours){:target="_blank"} पा सकते हैं ।
 
 \--- /challenge \---
