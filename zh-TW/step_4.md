@@ -2,9 +2,9 @@
 
 讓我們從故事網頁的 HTML 內容和 CSS 樣式開始編輯。
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ 開啟此[trinket](http://jumpto.cc/web-story){:target="_blank"}頁面。
 
-The project should look like this:
+專案版面看起來像這樣︰
 
 ![截圖](images/story-starter.png)
 
