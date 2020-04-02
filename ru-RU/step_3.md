@@ -1,9 +1,9 @@
-## Decide on a story
+## Определись с историей
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Прежде чем ты начнешь писать код, тебе нужно определиться с историей. Подумай об истории, которую ты хочешь рассказать. Это может быть:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Известная история
++ История, которую ты придумал
++ Что-то, что случилось с тобой или с кем-то, кого ты знаешь
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Это даже не должно быть историей. Это может быть шутка, стихотворение или что-то еще, что ты хочешь!
