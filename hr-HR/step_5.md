@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: napravite neke promjene
+## Izazov: napravi neke promjene
 
 Uredite HTML i CSS kôd da biste prilagodili svoju web stranicu.
 
