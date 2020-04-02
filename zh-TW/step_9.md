@@ -4,6 +4,6 @@
 
 使用你在本專案中學到的知識，完成屬於自己的故事！這邊提供範例：
 
-![screenshot](images/story-final.png)
+![截圖](images/story-final.png)
 
 \--- /挑戰\---
