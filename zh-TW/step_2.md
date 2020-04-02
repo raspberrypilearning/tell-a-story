@@ -1,4 +1,4 @@
-## 你所需要的配備
+## What you will need
 
 ### 硬體
 
@@ -6,4 +6,4 @@
 
 ### 軟體
 
-This project can be completed in a web browser using [trinket.io](https://trinket.io){:target="_blank"}.
+可直接於瀏覽器開啟的 [trinket.io](https://trinket.io){:target="_blank"} 裡完成本專案。
