@@ -1,10 +1,10 @@
-## Editing your story
+## Редактирование твоей истории
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Начнем с редактирования содержимого HTML и стиля CSS веб-страницы истории.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Откройте [этот trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Проект должен выглядеть следующим образом:
 
 ![screenshot](images/story-starter.png)
 
