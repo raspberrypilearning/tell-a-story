@@ -1,4 +1,4 @@
-## Uredite svoju priču
+## Uredi svoju priču
 
 Počnimo uređivanjem HTML sadržaja i CSS stila web stranice priče.
 
