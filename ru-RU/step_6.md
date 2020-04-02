@@ -1,45 +1,45 @@
-## Telling your story
+## Рассказываем твою историю
 
-Let's add a second part to your story.
+Давай добавим вторую часть к твоей истории.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Перейди к строке 15 кода и добавь еще один набор `<div>` и ` </div>` начальный и конечный теги. Это создаст новый блок для следующей части вашей истории.
 
-![screenshot](images/story-div.png)
+![скриншот](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Добавь абзац текста внутри нового тега `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Больше текста здесь!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![скриншот](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Ты можешь отобразить изображение в твоем новом блоке, добавив этот код внутри тега `<div>`:
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![скриншот](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Обрати внимание, что теги `<img>` немного отличаются от других тегов: у них нет конечного тега.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Чтобы изображение появилось, нужно добавить **источник** (`src`) изображения внутри кавычек.
 
-Click the image icon to see the images available for your story.
+Нажмите на значок изображения, чтобы увидеть изображения, доступные для твоей истории.
 
-![screenshot](images/story-see-images.png)
+![скриншот](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Реши, какое изображение ты хочешь добавить, и запомни его имя, например, `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Нажми на `index.html` чтобы вернуться к коду.
 
-![screenshot](images/story-image-name.png)
+![скриншот](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Добавь имя изображения между кавычками в теге `<img>`.
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![скриншот](images/story-image-name-add.png)
