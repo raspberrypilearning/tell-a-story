@@ -12,4 +12,4 @@
 
 + 將 URL 網址貼至 `<img>` 標籤的雙引號之間，你的圖片就會出現在頁面！
 
-![screenshot](images/story-image.png)
+![截圖](images/story-image.png)
