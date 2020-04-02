@@ -2,7 +2,7 @@
 
 U ovom projektu naučit ćete kako napraviti vlastitu web-stranicu kako biste ispričali priču, vic ili pjesmu.
 
-### Što ćete napraviti
+### Napravit ćeš
 
 Pomaknite se dolje na dno trinket stranice da vidite u čemu je poanta!
 
@@ -12,7 +12,7 @@ Pomaknite se dolje na dno trinket stranice da vidite u čemu je poanta!
   <img src="images/story-final.png">
 </div>
 
-### Što ćete naučiti
+### Naučit ćeš
 
 Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
@@ -20,6 +20,6 @@ Ovaj projekt pokriva elemente iz sljedećih dijelova nastavnoga plana i programa
 
 ### Dodatne informacije za voditelje kluba
 
-Ako trebate ispisati ovaj projekt, koristite [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:Target="_ blank"} .
+Ako želite ispisati ovaj projekt, koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
 Koristite poveznicu u podnožju da bi pristupili GitHub repozitoriju ovog projekta koji sadrži sve resurse (uključujući i primjer dovršenog projekta) u mapi 'hr-Hr/resources'.
