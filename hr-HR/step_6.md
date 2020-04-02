@@ -1,4 +1,4 @@
-## Ispričajte svoju priču
+## Ispričaj svoju priču
 
 Dodajmo drugi dio priče.
 
