@@ -1,30 +1,30 @@
-## Editing your story
+## 編輯你的故事
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+讓我們從故事網頁的 HTML 內容和 CSS 樣式開始編輯。
 
 + Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
 The project should look like this:
 
-![screenshot](images/story-starter.png)
+![截圖](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+網頁內容位於 HTML 文檔 `index.html` 中 `<body>`的部分。
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ 找到第 7 行 `<body>` 與 `</body>` 標籤之間的網頁內容。
 
-![screenshot](images/story-html.png)
+![截圖](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ 看你能否找出網頁建立各個部分的不同標籤，彼此的對應關係。
 
 ## \--- collapse \---
 
-## title: Answer
+## title: 答案
 
-![screenshot](images/story-elements.png)
+![截圖](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` 指的是**標題**，可以使用數字1到6建立不同的標題。
++ `<div>`為** division 區塊**的縮寫，分組的一種方式。在這個網頁中，你會將它用以組合故事裡的每個部分。
++ `<img>` 是**圖片**。
++ `<p>`是**段落**文字。
 
 \--- /collapse \---
