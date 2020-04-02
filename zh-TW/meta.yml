@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+title: 講個故事
+description: 建立一個網頁講個故事、一則笑話或一首詩
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,20 +18,20 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: What you will need
+    title: 你所需要的配備
   - 
-    title: Decide on a story
+    title: 決定一個故事
   - 
-    title: Editing your story
+    title: 編輯你的故事
   - 
-    title: 'Challenge: make some changes'
+    title: '挑戰：做些變化'
   - 
-    title: Telling your story
+    title: 講述你的故事
   - 
-    title: Finding your own images
+    title: 找你想要的圖片
   - 
-    title: Uploading images
+    title: 上傳圖片
   - 
     title: 'Challenge: keep going!'
