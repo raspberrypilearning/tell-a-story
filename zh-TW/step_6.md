@@ -1,20 +1,20 @@
-## Telling your story
+## 講述你的故事
 
-Let's add a second part to your story.
+為故事加入第二部分吧！
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ 前往程式碼的第15行，加入另一組 `<div>` 和 `</div>` 包含開始和結束的標籤，由此為故事的第二部分建立新的區塊。
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ 在新的 `<div>` 標籤內添加一段文字：
 
 ```html
-<p>More text here!</p>
+<p>這裡添加文字！</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ 你可以在 `<div>` 標籤內加入此程式碼，顯示一張圖片在新區塊中：
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+請注意，`<img>` 標籤與其他標籤有點不同：它們不需要結束標籤。
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ 為顯示圖片，你需要在引號內新增該圖片的**來源** （`src`）。
 
-Click the image icon to see the images available for your story.
+點選圖片圖示，來檢視可用於故事的圖片。
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ 確定你想新增的圖片並記住圖片名稱，例如 `buildings.png`。
 
-+ Click on `index.html` to get back to your code.
++ 點選 `index.html` 返回到程式碼的頁面。
 
-![screenshot](images/story-image-name.png)
+![截圖](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ 在 `<img>` 標籤引號內新增該圖片的名稱。
 
 ```html
 <img src="buildings.png">
