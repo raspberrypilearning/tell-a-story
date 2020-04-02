@@ -1,4 +1,4 @@
-## What you will need
+## 你所需要的配備
 
 ### 硬體
 
