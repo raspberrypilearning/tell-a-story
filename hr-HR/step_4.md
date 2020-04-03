@@ -2,7 +2,7 @@
 
 Počnimo uređivanjem HTML sadržaja i CSS stila web stranice priče.
 
-+ Otvori [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Otvori [ovaj trinket](https://trinket.io/html/7a191305aa){:target="_blank"}.
 
 Projekt bi trebao izgledati ovako:
 
