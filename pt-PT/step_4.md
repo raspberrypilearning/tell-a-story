@@ -10,7 +10,7 @@ The project should look like this:
 
 Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Encontras o conteúdo da página de Internet da linha 7 em diante, dentro das tags `<body>` e ` </body>`.
 
 ![screenshot](images/story-html.png)
 
