@@ -1,0 +1,28 @@
+---
+hero_image: images/tell-a-story.png
+theme: green
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+title: 講個故事
+description: 建立一個網頁講個故事、一則笑話或一首詩
+original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
+interests: literature
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 4
+last_tested: 2018-12-01
+steps:
+  - title: 介紹
+  - title: 你所需要的配備
+  - title: 決定一個故事
+  - title: 編輯你的故事
+  - title: '挑戰：做些變化'
+  - title: 講述你的故事
+  - title: 找你想要的圖片
+  - title: 上傳圖片
+  - title: '挑戰：持續前行！'
