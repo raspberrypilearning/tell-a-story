@@ -20,6 +20,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ### Additional information for educators
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Se precisas de imprimir este projeto, por favor, utiliza a [versão para impressão](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_ blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Use o link no rodapé para teres acesso ao repositório do GitHub deste projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en/resources'.
