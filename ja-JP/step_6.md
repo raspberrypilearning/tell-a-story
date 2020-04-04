@@ -1,45 +1,45 @@
-## Telling your story
+## 物語を伝える
 
-Let's add a second part to your story.
+あなたの物語に2番目のパートを追加しましょう。
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ コードの15行目に移動し、別の `<div>` と `</div>` の開始タグと終了タグの組を追加します。これで、あなたの物語の次のパートのための新しいボックスを作成します。
 
-![screenshot](images/story-div.png)
+![スクリーンショット](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ 新しい `<div>` タグの中にテキストの段落を追加しましょう：
 
 ```html
-<p>More text here!</p>
+<p>文章を足しましょう！</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![スクリーンショット](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ `<div>` タグの中にこのコードを追加すると、新しいボックスに画像を表示できます：
 
 ```html
 <img src="">
 ```
 
-![screenshot](images/story-img-tag.png)
+![スクリーンショット](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+`<img>` タグは他のタグとは少し異なります。つまり、終了タグはありません。
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ 画像を表示するには、画像の **情報** (`src`) を" "の内側に追加する必要があります。
 
-Click the image icon to see the images available for your story.
+画像アイコンをクリックして、あなたの物語で使える画像を見てみましょう。
 
-![screenshot](images/story-see-images.png)
+![スクリーンショット](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ 追加する画像を決めて、その名前を覚えておきます。たとえば、`buildings.png` 。
 
-+ Click on `index.html` to get back to your code.
++ コードに戻るには、 `index.html` をクリックしてください。
 
-![screenshot](images/story-image-name.png)
+![スクリーンショット](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ `<img>` タグの" "の間に画像の名前を追加します。
 
 ```html
 <img src="buildings.png">
 ```
 
-![screenshot](images/story-image-name-add.png)
+![スクリーンショット](images/story-image-name-add.png)
