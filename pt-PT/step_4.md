@@ -1,30 +1,41 @@
-## Editing your story
+## Editar a tua história
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Vamos começar por editar o conteúdo HTML e o estilo CSS da página da história.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Abre [este trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+O projeto deverá parecer-se com isto:
 
-![Encontras o conteúdo da página de Internet da linha 7 em diante, dentro das tags <0> e <1> </2></1>.](images/story-starter.png)
+![captura de ecrã](images/story-starter.png)
 
 O conteúdo da página fica na secção `<body>`</0> do ficheiro HTML `index.html`.</p> 
 
-+ Encontras o conteúdo da página de Internet a partir da linha 7 em diante, dentro das tags `<body>`</0> e `<body/>`.</li> </ul> 
++ Encontras o conteúdo da página de Internet a partir da linha 7 em diante, entre as etiquetas de HTML `<body>`</0> e `<body/>`.</li> </ul> 
     
-    ![screenshot](images/story-html.png)
+    ![captura de ecrã](images/story-html.png)
     
-    + See if you can work out which tags are used to create the different parts of the webpage.
+    + Vê se consegues descobrir quais são tags utilizadas para criar as diferentes partes da página da web.
     
     ## \--- collapse \---
     
-    ## title: Answer
+    ## title: Resposta
     
-    ![screenshot](images/story-elements.png)
+    ![captura de ecrã](images/story-elements.png)
     
-    + `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-    + `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-    + `<img>` is an **image**.
-    + `<p>` is a **paragraph** of text.
-    
-    \--- /collapse \---
+    + `<h1>`
+        # </0> é um **título**. Podes utilizar os valores de 1 a 6 para criar títulos de tamanhos diferentes.</li> 
+        
+        + `<div>`<div>
+              </0> é a abreviação de <strong>divisão</strong>, e serve para agrupar coisas. Nesta página de Internet, vais usá-lo para agrupar tudo o que pertencer a cada parte da tua história.</li> 
+              
+              <li>
+                <code>&lt;img&gt;</code><img /></0> é uma <strong>imagem</strong>.
+              </li>
+              
+              <li>
+                <code>&lt;p&gt;</code><p>
+                  </0> é um <strong>parágrafo</strong> de texto.</li> </ul> 
+                  
+                  <p>
+                    --- /collapse ---
+                  </p>
