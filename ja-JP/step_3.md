@@ -1,9 +1,9 @@
-## Decide on a story
+## 物語を決める
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+コーディングをはじめる前に、内容を決定する必要があります。あなたが伝えたい物語を考えてみてください。たとえば：
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ 有名な話
++ あなたが作った物語
++ あなたやあなたが知っている誰かに起こったこと
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+それは物語である必要はありません。それはジョーク、詩、もしくはほかのどんなものでもいいのです！
