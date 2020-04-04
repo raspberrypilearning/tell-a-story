@@ -2,8 +2,8 @@
 
 ## Repte: continua endavant!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Fes servir el que has après en aquest projecte per acabar d'explicar la teva història! Aquí tens un exemple:
 
-![screenshot](images/story-final.png)
+![captura de pantalla](images/story-final.png)
 
 \--- /challenge \---
