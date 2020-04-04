@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+title: Conta uma história
+description: Cria uma página de Internet para contar uma história, uma anedota ou um poema
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,20 +18,20 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: What you will need
+    title: O que vais precisar
   - 
-    title: Decide on a story
+    title: Escolhe uma história
   - 
-    title: Editing your story
+    title: Editar a tua história
   - 
-    title: 'Challenge: make some changes'
+    title: 'Desafio: faz algumas mudanças'
   - 
-    title: Telling your story
+    title: Contar a tua história
   - 
-    title: Finding your own images
+    title: Encontrar as tuas próprias imagens
   - 
-    title: Uploading images
+    title: Carregar imagens
   - 
-    title: 'Challenge: keep going!'
+    title: 'Desafio: continua!'
