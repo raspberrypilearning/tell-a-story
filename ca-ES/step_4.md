@@ -10,11 +10,11 @@ El teu projecte hauria de ser així:
 
 El contingut de la pàgina web inserta'l a la secció `<body>` del document HTML `index.html`.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Cerca el contingut de la pàgina web des de la línia 7 en endavant, dins de les etiquetes `<body>` i `</body>`.
 
 ![captura de pantalla](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Mira si pots esbrinar quines etiquetes s’utilitzen per crear les diferents parts de la pàgina web.
 
 ## \--- collapse \---
 
