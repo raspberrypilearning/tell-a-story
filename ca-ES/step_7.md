@@ -1,15 +1,15 @@
-## Finding your own images
+## Trobant les teves imatges
 
-Let's find an image on the web to add to your story.
+Anem a trobar una imatge a la web per afegir a la teva història.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Ves a [aquesta pàgina](http://jumpto.cc/html-images){:target="_ blank"} i troba una imatge que vulguis incloure a la teva història.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Fes clic amb el botó dret a la imatge i clica **Copia la URL de la imatge** (o **Copia l'adreça de la imatge**, segons l’ordinador que facis servir). L’URL és l’adreça de la imatge.
 
-![screenshot](images/story-url.png)
+![captura de pantalla](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Torna a la teva pàgina `index.html`.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Enganxa la URL entre les cometes de la teva etiqueta `<img>`. Hauries de veure aparèixer la teva imatge!
 
-![screenshot](images/story-image.png)
+![captura de pantalla](images/story-image.png)
