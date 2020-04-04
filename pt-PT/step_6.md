@@ -37,7 +37,7 @@ Let's add a second part to your story.
                   </p>
                   
                   <p>
-                    Notice that <code>&lt;img&gt;</code> tags are a bit different to other tags: they don't have an end tag.
+                    Repara que as etiquetas HTML <code>&lt;img&gt;</code><img /></0> são um pouco diferentes das outras, pois não têm uma etiqueta de fim.
                   </p>
                   
                   <ul>
