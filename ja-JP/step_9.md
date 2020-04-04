@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## チャレンジ：続けよう！
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+このプロジェクトで学んだことを使って、あなたの話を完成させましょう！例えば：
 
-![screenshot](images/story-final.png)
+![スクリーンショット](images/story-final.png)
 
 \--- /challenge \---
