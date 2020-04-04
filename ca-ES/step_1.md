@@ -1,10 +1,10 @@
-## Introduction
+## Introducció
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+En aquest projecte, aprendràs a crear la teva pròpia pàgina web per explicar una història, una broma o un poema.
 
-### What you will make
+### Què faràs
 
-Scroll down in the trinket to see the punch line!
+Desplaça't avall en Trinket fins veure la part final!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Què aprendràs
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Disseny elemental 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Informació addicional per educadors
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Utilitza l'enllaç del peu de pàgina per accedir al repositori de GitHub per a aquest programa, el qual conté tots els recursos (incloent-hi un exemple d'un projecte complet) a la carpeta ‘ca-ES/resources’.
