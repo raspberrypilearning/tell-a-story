@@ -1,6 +1,6 @@
-## Uploading images
+## Carregant imatges
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Si tens un compte Trinket**, també pots penjar les teves pròpies imatges a la pàgina web.
 
 + Click on the image icon at the top of your trinket, and then click **Add Image**.
 
