@@ -1,20 +1,20 @@
-## Telling your story
+## Explicant la teva història
 
-Let's add a second part to your story.
+Afegirem ara una segona part a la teva història.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Ves a la línia 15 del codi i afegeix un altre conjunt d'etiquetes `<div>` i `</div>` d’inici i final. D’aquesta manera es crearà un requadre nou per a la següent part de la teva història.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Afegeix un paràgraf de text dins l'etiqueta nova `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Més text aquí!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Pots visualitzar una imatge al requadre nou afegint aquest codi a dins de la teva etiqueta `<div>`:
 
 ```html
 <img src="">
@@ -22,7 +22,7 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Observa que les etiquetes `<img>` són una mica diferents de les altres etiquetes: no tenen una etiqueta final.
 
 + To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
