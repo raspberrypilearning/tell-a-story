@@ -1,22 +1,22 @@
 \--- challenge \---
 
-## Challenge: make some changes
+## Repte: fes alguns canvis
 
-Edit the HTML and CSS code to customise your webpage.
+Edita el codi HTML i CSS per personalitzar la teva pàgina web.
 
-![screenshot](images/story-changes.png)
+![captura de pantalla](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+El contingut HTML es troba al fitxer `index.html` i l'estil CSS al fitxer `style.css`.
 
-![screenshot](images/story-files.png)
+![captura de pantalla](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+També pots modificar els colors utilitzats a la pàgina web i utilitzar diferents tipus de lletra com:
 
 + <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Comic Sans MS;">Còmic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Troba més noms de color CSS [aquí](http://jumpto.cc/colours) {:target="_ blank"}.
 
 \--- /challenge \---
