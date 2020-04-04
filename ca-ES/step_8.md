@@ -2,15 +2,15 @@
 
 **Si tens un compte Trinket**, també pots penjar les teves pròpies imatges a la pàgina web.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Fes clic a la icona de la imatge que es troba a la part superior de la teva pàgina a Trinket, i després fes clic a **Image Library** (biblioteca d'imatges).
 
-![screenshot](images/story-upload.png)
+![captura de pantalla](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Fes clic al botó **Upload New Image** (carrega nova imatge) i, a continuació, busca la imatge que vols fer servir al teu ordinador i arrossega-la al quadre. Alternativament, utilitza el botó per seleccionar-lo.
 
-![Upload](images/upload-image.png)
+![Carregar](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Ara afegeix el nom de la teva nova imatge entre les cometes de la teva etiqueta `<img>`, així:
 
 ```html
 <img src="buildings.png">
