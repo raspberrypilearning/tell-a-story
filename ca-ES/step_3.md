@@ -1,9 +1,9 @@
-## Decide on a story
+## Decideix sobre una història
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Abans de rebre la codificació, hauràs de decidir sobre una història. Pensa en la història que vols explicar. Podria ser:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Una història famosa
++ Una història que t'hagis inventat
++ Alguna cosa que t'ha passat o a algú que coneguis
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Ni tan sols ha de ser una història. Podria ser una broma, un poema o qualsevol cosa que vulguis!
