@@ -1,30 +1,30 @@
-## Editing your story
+## Editant la teva història
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Comencem per l’edició del contingut HTML i l’estil CSS de la pàgina web de la història.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Obre [ aquest Trinket](http://jumpto.cc/web-story) {:target ="_ blank"}.
 
-The project should look like this:
+El teu projecte hauria de ser així:
 
-![screenshot](images/story-starter.png)
+![captura de pantalla](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+El contingut de la pàgina web inserta'l a la secció `<body>` del document HTML `index.html`.
 
 + Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
-![screenshot](images/story-html.png)
+![captura de pantalla](images/story-html.png)
 
 + See if you can work out which tags are used to create the different parts of the webpage.
 
 ## \--- collapse \---
 
-## title: Answer
+## títol: Resposta
 
-![screenshot](images/story-elements.png)
+![captura de pantalla](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` és un **encapçalament**. Pots fer servir els números 1 a 6 per crear encapçalaments de diferents mides.
++ `<div>` és una etiqueta abreviada de **divisió** i és una manera d'agrupar les coses. En aquesta pàgina web, la utilitzaràs per agrupar totes les coses de cada part de la teva història.
++ `<img>` és una **imatge**.
++ `<p>` és un **paràgraf** de text.
 
 \--- /collapse \---
