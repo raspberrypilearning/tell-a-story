@@ -2,7 +2,7 @@
 
 Neste projeto vais aprender a criar a tua própria página de Internet para contar uma história, anedota ou poema.
 
-### O que é que vais fazer
+### O que vais fazer
 
 Desliza a para baixo no trinket para veres onde está a piada!
 
