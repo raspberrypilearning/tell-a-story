@@ -2,44 +2,72 @@
 
 Agreguemos una segunda parte a tu historia.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ Ve a la línea 15 del código y agrega otro conjunto de etiquetas `<div>` y ` </div>` de inicio y finalización. Esto creará una nueva caja para la siguiente parte de tu historia.
 
-![screenshot](images/story-div.png)
+![captura de pantalla](images/story-div.png)
 
 + Add a paragraph of text inside your new `<div>` tag:
 
 ```html
-<p>More text here!</p>
+<p>¡Más texto aquí!</p>
 ```
 
-![screenshot](images/story-paragraph.png)
+![captura de pantalla](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
-
-```html
-<img src="">
-```
-
-![screenshot](images/story-img-tag.png)
-
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
-
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
-
-Click the image icon to see the images available for your story.
-
-![screenshot](images/story-see-images.png)
-
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
-
-+ Click on `index.html` to get back to your code.
-
-![screenshot](images/story-image-name.png)
-
-+ Add the name of the image between the speech marks in your `<img>` tag.
-
-```html
-<img src="buildings.png">
-```
-
-![screenshot](images/story-image-name-add.png)
++ Puedes mostrar una imagen en tu nueva caja agregando este código dentro de tu etiqueta <div>
+      :</li> </ul> 
+      
+      <pre><code class="html">&lt;img src=""&gt;
+</code></pre>
+      
+      <p>
+        <img src="images/story-img-tag.png" alt="captura de pantalla" />
+      </p>
+      
+      <p>
+        Ten en cuenta que las etiquetas <img /> son un poco diferentes a otras etiquetas: no tienen una etiqueta final.
+      </p>
+      
+      <ul>
+        <li>
+          To get an image to show up, you need to add the <strong>source</strong> (<code>src</code>) of the image inside the speech marks.
+        </li>
+      </ul>
+      
+      <p>
+        Haz click en el icono de imagen para ver las imágenes disponibles para tu historia.
+      </p>
+      
+      <p>
+        <img src="images/story-see-images.png" alt="captura de pantalla" />
+      </p>
+      
+      <ul>
+        <li>
+          <p>
+            Decide qué imagen deseas agregar y recuerda su nombre, por ejemplo, <code>buildings.png</code>.
+          </p>
+        </li>
+        <li>
+          <p>
+            Haz click en <code>index.html</code> para volver a tu código.
+          </p>
+        </li>
+      </ul>
+      
+      <p>
+        <img src="images/story-image-name.png" alt="captura de pantalla" />
+      </p>
+      
+      <ul>
+        <li>
+          Añade el nombre de la imagen entre las comillas en tu etiqueta <img />.
+        </li>
+      </ul>
+      
+      <pre><code class="html">&lt;img src="buildings.png"&gt;
+</code></pre>
+      
+      <p>
+        <img src="images/story-image-name-add.png" alt="captura de pantalla" />
+      </p>
