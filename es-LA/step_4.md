@@ -24,8 +24,17 @@ El contenido de la página web va en la sección `<body>` del documento HTML `in
 
 + # es un **heading (encabezado)**. Puedes usar los números del 1 al 6 para crear encabezados de diferentes tamaños.</li> 
     
-    + `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-    + <img />es **image**, una imagen.
-    + `<p>` is a **paragraph** of text.</ul> 
-    
-    \--- /collapse \---
+    + <div>
+          es la abreviatura de <strong>division</strong>, y es una forma de agrupar cosas. En esta página web, la usarás para agrupar todas las cosas de cada parte de tu historia.</li> 
+          
+          <li>
+            <img />es <strong>image</strong>, una imagen.
+          </li>
+          
+          <li>
+            <p>
+              es un <strong>paragraph</strong>, un párrafo de texto.</li> </ul> 
+              
+              <p>
+                --- /collapse ---
+              </p>
