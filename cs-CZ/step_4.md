@@ -1,30 +1,30 @@
-## Editing your story
+## Úprava tvého příběhu
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Pojďme začít úpravou obsahu v HTML a stylů v CSS tvé webové stránky.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Otevři [tento trinket](http://jumpto.cc/web-story){:target="_blank"}.
 
-The project should look like this:
+Projekt by měl vypadat přibližně takto:
 
 ![screenshot](images/story-starter.png)
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+Obsah webové stránky se píše do sekce `<body>`v HTML dokumentu `index.html`.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
++ Najdi obsah webové stránky od řádku 7 uvnitř tagů `<body>` a `</body>`.
 
 ![screenshot](images/story-html.png)
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
++ Schválně jestli přijdeš na to, které tagy se používají pro vytvoření různých částí webové stránky.
 
 ## \--- collapse \---
 
-## title: Answer
+## title: Odpověď
 
 ![screenshot](images/story-elements.png)
 
-+ `<h1>` is a **heading**. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for **division**, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an **image**.
-+ `<p>` is a **paragraph** of text.
++ `<h1>` je **nadpis**. Můžeš použít čísla od 1 do 6 pro vytvoření nadpisů různých velikostí.
++ `<div>` je zkratka pro **oddíl** a používá se pro seskupování věcí. Na této webové stránce ji použiješ pro seskupení všech věcí z jedné části tvého příběhu.
++ `<img>` je **obrázek**.
++ `<p>` je **odstavec**.
 
 \--- /collapse \---
