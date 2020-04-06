@@ -1,20 +1,20 @@
-## Telling your story
+## Vyprávění tvého příběhu
 
-Let's add a second part to your story.
+Pojďme přidat druhou část tvého příběhu.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
++ V kódu přejdi na řádek 15 a přidej další počáteční a koncový tag `<div>` a `</div>`. Tohle vytvoří nový rámeček pro další část tvého příběhu.
 
 ![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
++ Přidej odstavec do nového tagu `<div>`:
 
 ```html
-<p>More text here!</p>
+<p>Více textu zde!</p>
 ```
 
 ![screenshot](images/story-paragraph.png)
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
++ Do nového rámečku můžeš vložit obrázek přidáním tohoto kódu do tagu `<div>`:
 
 ```html
 <img src="">
@@ -22,21 +22,21 @@ Let's add a second part to your story.
 
 ![screenshot](images/story-img-tag.png)
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+Všimni si, že tagy `<img>` jsou trochu jiné než ostatní tagy: nemají koncový tag.
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
++ Aby se ti obrázek zobrazil, budeš muset přidat **umístění** (`src`) obrázku do uvozovek.
 
-Click the image icon to see the images available for your story.
+Klikni na ikonu obrázku pro zobrazení obrázků, které jsou pro tvůj příběh dostupné.
 
 ![screenshot](images/story-see-images.png)
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
++ Rozhodni se, který obrázek chceš přidat a zapamatuj si jeho jméno, například `buildings.png`.
 
-+ Click on `index.html` to get back to your code.
++ Klikni na `index.html` a vrať se zpátky do svého kódu.
 
 ![screenshot](images/story-image-name.png)
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
++ Přidej název obrázku mezi uvozovky do tagu `<img>`.
 
 ```html
 <img src="buildings.png">
