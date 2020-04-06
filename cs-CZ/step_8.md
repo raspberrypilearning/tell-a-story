@@ -1,16 +1,16 @@
-## Uploading images
+## Nahrávání obrázků
 
-**If you have a Trinket account**, you can also upload your own images to your webpage.
+**Pokud máš Trinket účet**, můžeš také na svoji webovou stránku nahrát i vlastní obrázky.
 
-+ Click on the image icon at the top of your trinket, and then click **Add Image**.
++ Klikni na ikonu obrázku v horní části trinketu a poté klikni na **Add Image**.
 
 ![screenshot](images/story-upload.png)
 
-+ Click the **Upload** button, then find the image you want to use on your computer and drag it into the box. Alternatively, use the button to select it.
++ Klikni na tlačítko **Upload**, najdi ve svém počítači obrázek, který chceš použít, a přetáhni jej do rámečku. Případně můžeš k vybrání použít tlačítko.
 
-![Upload](images/upload-image.png)
+![Nahrát](images/upload-image.png)
 
-+ Then just add the name of your new image between the speech marks in your `<img>` tag, like this:
++ Poté pouze přidej název svého nového obrázku do uvozovek v tagu `<img>`, třeba takhle:
 
 ```html
 <img src="buildings.png">
