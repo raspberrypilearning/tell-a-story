@@ -1,9 +1,9 @@
-## Decide on a story
+## Promysli si svůj příběh
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+Než se pustíš do kódování, budeš muset svůj příběh promyslet. Popřemýšlej nad ním. Mohl by to být:
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
++ Slavný příběh
++ Příběh, který si vymyslíš
++ Něco, co se stalo tobě nebo někomu, koho znáš
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+Nemusí to ani být příběh. Může to být vtip, báseň nebo cokoliv jiného!
