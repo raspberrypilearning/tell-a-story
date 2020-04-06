@@ -2,21 +2,21 @@
 
 ## Výzva: pozměň pár věcí
 
-Edit the HTML and CSS code to customise your webpage.
+Uprav HTML a CSS kód a přizpůsob svoji stránku.
 
 ![screenshot](images/story-changes.png)
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
+HTML obsah nalezneš v souboru `index.html` a CSS styly zase v souboru `style.css`.
 
 ![screenshot](images/story-files.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
+Také můžeš na webové stránce změnit barvy a použít různá písma jako:
 
 + <span style="font-family: Arial;">Arial</span>
 + <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
 + <span style="font-family: Impact;">Impact</span>
 + <span style="font-family: Tahoma;">Tahoma</span>
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+Více názvů pro CSS barvy nalezneš [zde](http://jumpto.cc/colours){:target="_blank"}.
 
 \--- /challenge \---
