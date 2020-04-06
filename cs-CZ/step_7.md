@@ -1,15 +1,15 @@
-## Finding your own images
+## Nalezení tvých obrázků
 
-Let's find an image on the web to add to your story.
+Pojďme najít obrázky na webu, které do svého příběhu přidáš.
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
++ Přejdi na [tuto stránku](http://jumpto.cc/html-images){:target="_blank"} a najdi obrázek, který chceš do svého příběhu přidat.
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
++ Pravým tlačítkem myši klikni na obrázek a klikni na **Kopírovat URL adresu obrázku** (nebo **Kopírovat adresu obrázku**, záleží na tom, jaký počítač používáš). URL je adresa daného obrázku.
 
 ![screenshot](images/story-url.png)
 
-+ Go back to your `index.html` page.
++ Přejdi zpět na svou stránku `index.html`.
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
++ Vlož URL mezi uvozovky tagu `<img>`. Tvůj obrázek by se měl teď ukázat!
 
 ![screenshot](images/story-image.png)
