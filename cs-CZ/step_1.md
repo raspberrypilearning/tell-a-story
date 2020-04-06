@@ -1,10 +1,10 @@
-## Introduction
+## Úvod
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+V tomto projektu se naučíš, jak vytvořit svoji vlastní webovou stránku, na které ukážeš svůj příběh, vtip nebo báseň.
 
-### What you will make
+### Co budeš dělat
 
-Scroll down in the trinket to see the punch line!
+Roluj v trinketu dolů a uvidíš pointu vtipu!
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -12,14 +12,14 @@ Scroll down in the trinket to see the punch line!
   <img src="images/story-final.png">
 </div>
 
-### What you will learn
+### Co se naučíš
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Tento projekt zahrnuje prvky z následujících částí výukových osnov [Raspberry Pi Digitální bastlení](http://rpf.io/curriculum)"}{:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [Designovat základní 2D a 3D prvky](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
-### Additional information for educators
+### Dodatečné informace pro učitele
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the ‘en/resources’ folder.
+Pomocí odkazu v zápatí získáte přístup k úložišti GitHub tohoto projektu, které obsahuje všechny zdrojové kódy (včetně příkladu dokončeného projektu) ve složce „en/resources“.
