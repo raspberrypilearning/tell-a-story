@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-title: Tell a story
-description: Create a webpage to tell a story, joke, or poem
+title: Vytvoř svůj příběh
+description: Vytvoř webovou stránku, na které ukážeš svůj příběh, vtip nebo báseň
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,20 +18,20 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: What you will need
+    title: Co budeš potřebovat
   - 
-    title: Decide on a story
+    title: Promysli svůj příběh
   - 
-    title: Editing your story
+    title: Úprava tvého příběhu
   - 
-    title: 'Challenge: make some changes'
+    title: 'Výzva: pozměň pár věcí'
   - 
-    title: Telling your story
+    title: Vyprávění tvého příběhu
   - 
-    title: Finding your own images
+    title: Nalezení tvých vlastních obrázků
   - 
-    title: Uploading images
+    title: Nahrávání obrázků
   - 
-    title: 'Challenge: keep going!'
+    title: 'Výzva: pokračuj!'
