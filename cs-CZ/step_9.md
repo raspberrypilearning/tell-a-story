@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: keep going!
+## Výzva: pokračuj!
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+Použij to, co jsme v tomto projektu probrali a dokonči svůj příběh. Tady je ukázka:
 
 ![screenshot](images/story-final.png)
 
