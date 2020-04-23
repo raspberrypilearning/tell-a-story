@@ -9,8 +9,13 @@ Usa quel che hai imparato in questo progetto per finire di raccontare la tua sto
 --- /challenge ---
 
 
-**Traduzioni della Community**
+***
+Questo progetto è stato tradotto da volontari:
 
-Questo progetto è stato tradotto da **Luca Fantin** e revisionato da **Omar Lazzari**.
+Luca Fantin
 
-Il nostro straordinario team di traduttori volontari ci permette di dare ai bambini di tutto il mondo la possibilità di imparare a programmare. Puoi aiutarci a raggiungere più bambini traducendo i nostri progetti - scopri di più su [rpf.io/translators](https://rpf.io/translators).
+Omar Lazzari
+
+Alessio Spadaro
+
+Grazie ai volontari, possiamo offrire alle persone di tutto il mondo la possibilità di imparare nella loro lingua. Puoi aiutarci a raggiungere più persone offrendoti come volontario per la traduzione - puoi trovare maggiori informazioni su [rpf.io/translate](https://rpf.io/translate).
