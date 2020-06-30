@@ -6,4 +6,4 @@
 
 ### 軟體
 
-可直接於瀏覽器開啟的 [trinket.io](https://trinket.io){:target="_blank"} 裡完成本專案。
+可直接在瀏覽器上進入 [trinket.io](https://trinket.io){:target="_blank"} 裡完成本專案。
