@@ -10,7 +10,7 @@ El proyecto debe verse así:
 
 El contenido de la página web va en la sección `<body>` del documento HTML `index.html`.
 
-+ Encuentra el contenido de la página web a partir de la línea 7, dentro de las etiquetas `<body>` y ` </body>`.
++ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
 
 ![captura de pantalla](images/story-html.png)
 
