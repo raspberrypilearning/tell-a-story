@@ -6,7 +6,7 @@
 
 ![screenshot](images/story-div.png)
 
-+ 在新的`<div>`标签之间内添加一段文字：
++ 在新的`<div>`标签之中添加一段文字：
 
 ```html
 <p>添加更多文字！</p>
@@ -14,7 +14,7 @@
 
 ![screenshot](images/story-paragraph.png)
 
-+ 您可以通过在您的`<div>`标签之间添加此代码以在您的新的故事框中显示图片：
++ 你可以通过在你的`<div>`标签之间添加此代码而在你的新的故事框中显示图片：
 
 ```html
 <img src="">
@@ -26,7 +26,7 @@
 
 + 为了能够显示图片，你需要将图片的 **源文件名** (`src`) 加入双引号之间.
 
-点击图标查看您的故事中可用的图片。
+点击图标查看你的故事中可用的图片。
 
 ![screenshot](images/story-see-images.png)
 
