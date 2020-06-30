@@ -14,12 +14,12 @@
 
 ### 你會學到
 
-本專案涵蓋 [Raspberry Pi 數位創造課程](http://rpf.io/curriculum) {:target="_blank"} 的以下部分：
+本專案涵蓋 [Raspberry Pi 數碼創造課程](http://rpf.io/curriculum) {:target="_blank"} 的以下部分：
 
 + [設計基本的 2D 和 3D 物件](https://www.raspberrypi.org/curriculum/design/creator) {:target="_blank"}。
 
-### 提供教育工作者的補充資訊
+### 教學補充資訊
 
 如果需要列印本專案，請使用[友善列印](https://projects.raspberrypi.org/en/projects/tell-a-story/print) {:target="_blank"} .
 
-頁尾連結至本專案的 GitHub 資源庫，“en/resources” 資料夾中包含所有資源（包括完成的範例專案）。
+頁尾鏈接至本專案的 GitHub 資源庫，“en/resources” 資料夾中包含所有資源（包括完成的範例專案）。
