@@ -2,7 +2,7 @@
 
 Agreguemos una segunda parte a tu historia.
 
-+ Ve a la línea 15 del código y agrega otro conjunto de etiquetas `<div>` y ` </div>` de inicio y finalización. Esto creará una nueva caja para la siguiente parte de tu historia.
++ Ve a la línea 15 del código y agrega otro conjunto de etiquetas `<div>` y `</div>` de inicio y finalización. Esto creará una nueva caja para la siguiente parte de tu historia.
 
 ![captura de pantalla](images/story-div.png)
 
