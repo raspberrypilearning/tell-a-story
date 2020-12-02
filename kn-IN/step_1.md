@@ -14,7 +14,7 @@
 
 ### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
 
-ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](http://rpf.io/curriculum){:target="_blank"} ಈ ಕೆಳಕಂಡ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
+ಈ ಯೋಜನೆಯು [ರಾಸ್‌ಪ್ಬೆರಿ ಪೈ ಡಿಜಿಟಲ್ ಮೇಕಿಂಗ್ ಪಠ್ಯಕ್ರಮದ](https://rpf.io/curriculum){:target="_blank"} ಈ ಕೆಳಕಂಡ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ:
 
 + [ಸಾಮಾನ್ಯ 2D ಮತ್ತು 3D ಸ್ವತ್ತುಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

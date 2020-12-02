@@ -14,7 +14,7 @@ Fais défiler vers le bas dans le trinket pour voir la ligne de frappe!
 
 ### Ce que tu vas apprendre
 
-Ce projet comprend des éléments des sections suivantes du [Programme de création numérique de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Ce projet comprend des éléments des sections suivantes du [Programme de création numérique de Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

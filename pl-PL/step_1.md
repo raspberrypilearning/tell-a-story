@@ -14,7 +14,7 @@ Przewiń w dół okna Trinket, aby poznać zakończenie!
 
 ### Czego się nauczysz
 
-Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Ten projekt pokrywa elementy z następujących wątków z [Cyfrowego Programu Nauczania Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 

@@ -15,7 +15,7 @@ Cer i waelod y 'trinket' i weld diwedd y stori!
 
 ### Beth fyddi di'n ei ddysgu
 
-Mae'r prosiect yma yn cynnwys elfennau o'r adrannau canlynol o [Gwricwlwm Creu Digidol Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+Mae'r prosiect yma yn cynnwys elfennau o'r adrannau canlynol o [Gwricwlwm Creu Digidol Raspberry Pi](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Dylunio elfennau sylfaenol 2D a 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
