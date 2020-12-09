@@ -14,7 +14,7 @@ Role para baixo no Trinket para ver o final!
 
 ### O que você vai aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](http://rpf.io/curriculum){:target="_ blank"}:
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Fabricação Digital Raspberry Pi](https://rpf.io/curriculum){:target="_ blank"}:
 
 + [Faça ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
