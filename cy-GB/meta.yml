@@ -1,3 +1,4 @@
+---
 hero_image: images/tell-a-story.png
 theme: green
 duration: 2
@@ -15,13 +16,15 @@ hardware: ''
 software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
-steps: 
+steps:
 - title: Cyflwyniad
 - title: Beth fyddi di ei angen
+  completion: engaged
 - title: Penderfynu ar stori
-- title: Golygu dy stori 
+- title: Golygu dy stori
 - title: 'Her: gwneud rhai newidiadau'
 - title: Dweud dy stori
 - title: Dod o hyd i luniau
 - title: Uwchlwytho lluniau
-- title: "Her: parhau â'r stori!"
+  completion: internal
+- title: 'Her: parhau â''r stori!'

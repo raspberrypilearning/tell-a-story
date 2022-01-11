@@ -17,12 +17,14 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-  - title: Introducció
-  - title: Què necessitaràs
-  - title: Decideix sobre una història
-  - title: Editant la teva història
-  - title: 'Repte: fes alguns canvis'
-  - title: Explicant la teva història
-  - title: Trobant les teves imatges
-  - title: Carregant imatges
-  - title: 'Repte: continua endavant!'
+- title: Introducció
+- title: Què necessitaràs
+  completion: engaged
+- title: Decideix sobre una història
+- title: Editant la teva història
+- title: 'Repte: fes alguns canvis'
+- title: Explicant la teva història
+- title: Trobant les teves imatges
+- title: Carregant imatges
+  completion: internal
+- title: 'Repte: continua endavant!'

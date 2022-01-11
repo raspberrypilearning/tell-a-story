@@ -17,12 +17,14 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-  - title: 介紹
-  - title: 你所需要的配備
-  - title: 決定一個故事
-  - title: 編輯你的故事
-  - title: '挑戰：做些變化'
-  - title: 講述你的故事
-  - title: 找你想要的圖片
-  - title: 上傳圖片
-  - title: '挑戰：持續前行！'
+- title: 介紹
+- title: 你所需要的配備
+  completion: engaged
+- title: 決定一個故事
+- title: 編輯你的故事
+- title: 挑戰：做些變化
+- title: 講述你的故事
+- title: 找你想要的圖片
+- title: 上傳圖片
+  completion: internal
+- title: 挑戰：持續前行！
