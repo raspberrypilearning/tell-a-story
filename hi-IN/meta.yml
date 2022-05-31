@@ -17,12 +17,16 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-  - title: परिचय
-  - title: आपको किसकी ज़रूरत होगी
-  - title: एक कहानी तय करो
-  - title: अपनी कहानी का संपादन
-  - title: 'चुनौती: कुछ बदलाव करें'
-  - title: अपनी कहानी बताना
-  - title: अपनी खुद की छवियां ढूंढना
-  - title: चित्र अपलोड करना
-  - title: 'चुनौती: चलते रहो!'
+- title: परिचय
+- title: आपको किसकी ज़रूरत होगी
+- title: एक कहानी तय करो
+- title: अपनी कहानी का संपादन
+  completion:
+  - engaged
+- title: 'चुनौती: कुछ बदलाव करें'
+- title: अपनी कहानी बताना
+- title: अपनी खुद की छवियां ढूंढना
+- title: चित्र अपलोड करना
+  completion:
+  - internal
+- title: 'चुनौती: चलते रहो!'

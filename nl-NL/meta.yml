@@ -17,12 +17,16 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-  - title: Inleiding
-  - title: Wat je nodig hebt
-  - title: Kies een verhaal
-  - title: Je verhaal bewerken
-  - title: 'Uitdaging: breng enkele wijzigingen aan'
-  - title: Vertel je verhaal
-  - title: Je eigen afbeeldingen zoeken
-  - title: Afbeeldingen uploaden
-  - title: 'Uitdaging: ga door!'
+- title: Inleiding
+- title: Wat je nodig hebt
+- title: Kies een verhaal
+- title: Je verhaal bewerken
+  completion:
+  - engaged
+- title: 'Uitdaging: breng enkele wijzigingen aan'
+- title: Vertel je verhaal
+- title: Je eigen afbeeldingen zoeken
+- title: Afbeeldingen uploaden
+  completion:
+  - internal
+- title: 'Uitdaging: ga door!'

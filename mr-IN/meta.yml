@@ -17,12 +17,16 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-  - title: परिचय
-  - title: तुम्हाला काय काय लागेल
-  - title: एक कथा निश्चित करा
-  - title: तुमची कथा संपादित करणे
-  - title: 'आव्हान: काही बदल करा'
-  - title: तुमची कथा सांगणे
-  - title: प्रतिमा स्वतः शोधणे
-  - title: प्रतिमा अपलोड करणे
-  - title: 'आव्हान: सुरु ठेवा!'
+- title: परिचय
+- title: तुम्हाला काय काय लागेल
+- title: एक कथा निश्चित करा
+- title: तुमची कथा संपादित करणे
+  completion:
+  - engaged
+- title: 'आव्हान: काही बदल करा'
+- title: तुमची कथा सांगणे
+- title: प्रतिमा स्वतः शोधणे
+- title: प्रतिमा अपलोड करणे
+  completion:
+  - internal
+- title: 'आव्हान: सुरु ठेवा!'
