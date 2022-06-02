@@ -19,12 +19,14 @@ last_tested: 2018-12-01
 steps:
 - title: Введение
 - title: Что тебе понадобится
-  completion: engaged
 - title: Определись с историей
 - title: Редактирование твоей истории
+  completion:
+  - engaged
 - title: 'Задача: внести некоторые изменения'
 - title: Рассказываем твою историю
 - title: Поиск собственных изображений
 - title: Загрузка изображений
-  completion: internal
+  completion:
+  - internal
 - title: 'Задача: продолжай!'

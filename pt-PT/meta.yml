@@ -20,12 +20,14 @@ last_tested: 2018-12-01
 steps:
 - title: Introdução
 - title: O que vais precisar
-  completion: engaged
 - title: Escolhe uma história
 - title: Editar a tua história
+  completion:
+  - engaged
 - title: 'Desafio: faz algumas mudanças'
 - title: Contar a tua história
 - title: Encontrar as tuas próprias imagens
 - title: Carregar imagens
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: continua!'

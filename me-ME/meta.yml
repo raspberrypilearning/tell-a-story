@@ -19,12 +19,14 @@ last_tested: 2018-12-01
 steps:
 - title: Uvod
 - title: Šta će ti biti potrebno
-  completion: engaged
 - title: Odaberi priču
 - title: Uređivanje priče
+  completion:
+  - engaged
 - title: 'Izazov: napravi nekoliko izmjena'
 - title: Pričanje priče
 - title: Pronalaženje sopstvenih slika
 - title: Prenošenje slika
-  completion: internal
+  completion:
+  - internal
 - title: 'Izazov: nastavi!'

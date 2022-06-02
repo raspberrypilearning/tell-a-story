@@ -19,12 +19,14 @@ last_tested: 2018-12-01
 steps:
 - title: Introducere
 - title: De ce vei avea nevoie
-  completion: engaged
 - title: Stabilește o poveste
 - title: Redactează-ți povestea
+  completion:
+  - engaged
 - title: 'Provocare: fă niște modificări'
 - title: Spune-ți povestea
 - title: Caută-ți propriile tale imagini
 - title: Încărcarea imaginilor
-  completion: internal
+  completion:
+  - internal
 - title: 'Provocare: continuă!'

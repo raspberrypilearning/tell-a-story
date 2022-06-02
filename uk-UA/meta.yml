@@ -19,12 +19,14 @@ last_tested: 2018-12-01
 steps:
 - title: Вступ
 - title: Що вам знадобиться
-  completion: engaged
 - title: Оберіть історію
 - title: Редагування історії
+  completion:
+  - engaged
 - title: 'Завдання: внесіть зміни'
 - title: Розкажіть історію
 - title: Пошук власних зображень
 - title: Завантаження зображень
-  completion: internal
+  completion:
+  - internal
 - title: 'Завдання: продовжуйте працювати!'

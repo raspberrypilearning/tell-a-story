@@ -19,12 +19,14 @@ last_tested: 2018-12-01
 steps:
 - title: 介绍
 - title: 你需要哪些准备
-  completion: engaged
 - title: 确定一个故事
 - title: 编辑你的故事
+  completion:
+  - engaged
 - title: 挑战：做一些更改
 - title: 讲述你的故事
 - title: 查找你自己的图片
 - title: 上传图片
-  completion: internal
+  completion:
+  - internal
 - title: 挑战：继续前进！
