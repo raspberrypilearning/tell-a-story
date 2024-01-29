@@ -14,7 +14,7 @@
 
 ### 你将学到什么
 
-本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum){:target="_blank"}中的下列部分内容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [设计基本的2D和3D资源](https://www.raspberrypi.org/curriculum/design/creator)。
 
