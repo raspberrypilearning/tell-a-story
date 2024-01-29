@@ -25,6 +25,8 @@ steps:
     title: Escolha uma história
   - 
     title: Editando sua história
+    completion:
+      - engaged
   - 
     title: 'Desafio: faça algumas alterações'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Encontrando suas próprias imagens
   - 
     title: Carregando imagens
+    completion:
+      - internal
   - 
     title: 'Desafio: continue!'
