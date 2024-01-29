@@ -25,6 +25,8 @@ steps:
     title: Wybierz historyjkę
   - 
     title: Redakcja Twojego opowiadania
+    completion:
+      - engaged
   - 
     title: 'Wyzwanie: Wprowadź pewne zmiany'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Poszukiwanie własnych obrazków
   - 
     title: Wgrywanie obrazków
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Nie zatrzymuj się!'
