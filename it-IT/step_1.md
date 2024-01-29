@@ -14,7 +14,7 @@ Scorri verso il basso nel trinket per vedere come finisce la storia!
 
 ### Che cosa imparerai
 
-Questo progetto include argomenti dai seguenti componenti del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Risorse base di design 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
