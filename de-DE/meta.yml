@@ -25,6 +25,8 @@ steps:
     title: Entscheide dich für eine Geschichte
   - 
     title: Erstell deine Geschichte
+    completion:
+      - engaged
   - 
     title: 'Aufgabe: mach ein paar Änderungen'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Suche eigene Bilder
   - 
     title: Lade eigene Bilder hoch
+    completion:
+      - internal
   - 
     title: 'Zusatzaufgabe: mach weiter!'
