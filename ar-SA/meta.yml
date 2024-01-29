@@ -25,6 +25,8 @@ steps:
     title: اتخاذ قرار بشأن قصة
   - 
     title: تحرير قصتك
+    completion:
+      - engaged
   - 
     title: 'تحدي: قم ببعض التغييرات'
   - 
@@ -33,5 +35,7 @@ steps:
     title: العثور على الصور الخاصة بك
   - 
     title: رفع الصور
+    completion:
+      - internal
   - 
     title: 'تحدي: امضي قدماً!'
