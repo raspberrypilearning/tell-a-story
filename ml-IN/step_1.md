@@ -14,7 +14,7 @@
 
 ### നിങ്ങൾ എന്തു പഠിക്കും
 
-[ റാസ്ബെറി പൈ ഡിജിറ്റൽ നിർമ്മാണ പാഠ്യപദ്ധതിയുടെ](http://rpf.io/curriculum) ഇനിപ്പറയുന്ന ഭാഗങ്ങളിൽ നിന്നുള്ള ഘടകങ്ങൾ ഈ പ്രോജക്റ്റ് ഉൾക്കൊള്ളുന്നു {:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ അടിസ്ഥാന 2D, 3D അസറ്റുകൾ രൂപകൽപ്പന ചെയ്യുക.](https://www.raspberrypi.org/curriculum/design/creator)
 
