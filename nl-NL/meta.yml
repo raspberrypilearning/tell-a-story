@@ -25,6 +25,8 @@ steps:
     title: Kies een verhaal
   - 
     title: Je verhaal bewerken
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: breng enkele wijzigingen aan'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Je eigen afbeeldingen zoeken
   - 
     title: Afbeeldingen uploaden
+    completion:
+      - internal
   - 
     title: 'Uitdaging: ga door!'
