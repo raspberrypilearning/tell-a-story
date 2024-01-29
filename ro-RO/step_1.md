@@ -14,7 +14,7 @@ Derulează în jos pentru a citi tot bancul!
 
 ### Ce vei învăța
 
-Acest proiect acoperă elemente din următoarele componente ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Proiectarea elementelor de bază în 2D și 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
