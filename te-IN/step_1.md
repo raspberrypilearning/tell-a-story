@@ -14,7 +14,7 @@
 
 ### మీరు ఏమి చేయబోతున్నారు
 
-ఈ ప్రాజెక్ట్ [Raspberry Pi డిజి మేకింగ్ కరికులం](http://rpf.io/curriculum) యొక్క క్రింది తంతువుల నుండి అంశాలను కవర్ చేస్తుంది{:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [ ప్రాథమిక 2D మరియు 3D అస్సేస్ట్ డిసైన్ ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
