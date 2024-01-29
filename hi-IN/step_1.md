@@ -1,6 +1,6 @@
-## परिचय
+## भूमिका
 
-इस परियोजना में, आप सीखेंगे कि कहानी, चुटकुला या कविता बताने के लिए अपना खुद का वेबपेज कैसे बनाया जाए।
+इस प्रोजेक्ट में, आप सीखेंगे कि कहानी, चुटकुला या कविता सुनाने के लिए अपना खुद का वेब पृष्ठ कैसे बनाया जाता है।
 
 ### आप क्या बनाएँगे
 
@@ -14,12 +14,12 @@
 
 ### आप क्या सीखेंगे
 
-इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} (Raspberry Pi डिजिटल निर्माण पाठ्यक्रम) के निम्नलिखित तत्वों को शामिल किया गया है:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
-+ [डिज़ाइन बेसिक 2D और 3D सामग्री](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
++ [बुनियादी 2D और 3D सामग्रियां डिजाइन करें](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}।
 
 ### शिक्षकों के लिए अतिरिक्त जानकारी
 
-अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/tell-a-story/print){: target = "_ blank"} का उपयोग करें।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर अनुकूल वर्ज़न](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} का उपयोग करें।
 
-इस परियोजना के गिटहब भंडार तक पहुंचने के लिए नीचे दिए गए लिंक का उपयोग करें, जिसमें 'en/resources' फ़ोल्डर में सभी संसाधन शामिल हैं (एक उदाहरण संपूर्ण परियोजना सहित)।
+इस प्रोजेक्ट के GitHub रेपो तक पहुंँचने के लिए फुटर में दिए लिंक का उपयोग करें, जिसके 'en/resources’ फोल्डर के अंदर सभी संसाधन (एक तैयार प्रोजेक्ट के उदाहरण सहित) हैं।
