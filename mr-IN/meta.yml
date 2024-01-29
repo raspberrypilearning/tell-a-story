@@ -25,6 +25,8 @@ steps:
     title: एक कथा निश्चित करा
   - 
     title: तुमची कथा संपादित करणे
+    completion:
+      - engaged
   - 
     title: 'आव्हान: काही बदल करा'
   - 
@@ -33,5 +35,7 @@ steps:
     title: प्रतिमा स्वतः शोधणे
   - 
     title: प्रतिमा अपलोड करणे
+    completion:
+      - internal
   - 
     title: 'आव्हान: सुरु ठेवा!'
