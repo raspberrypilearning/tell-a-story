@@ -14,7 +14,7 @@ Desliza a para baixo no trinket para veres onde está a piada!
 
 ### O que vais aprender
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry Pi Digital Making (Criação Digital)](http://rpf.io/curriculum){:target="_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Desenhar recursos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
