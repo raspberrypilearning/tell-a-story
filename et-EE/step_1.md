@@ -14,7 +14,7 @@ Keri trinketis alla, et näha lõppu!
 
 ### Mida sa õpid
 
-Selles projektis käsitletakse elemente [Raspberry Pi digitaalse tegemise õppekava](http://rpf.io/curriculum){:target="_blank"} järgmistest valdkondadest:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Disaini põhilisi 2D- ja 3D-varasid](https://www.raspberrypi.org/curriculum/design/creator){: target="_blank"}.
 
