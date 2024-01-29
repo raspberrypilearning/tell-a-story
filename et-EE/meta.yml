@@ -25,6 +25,8 @@ steps:
     title: Otsusta, mis lugu rääkida
   - 
     title: Oma loo muutmine
+    completion:
+      - engaged
   - 
     title: 'Väljakutse: tee muudatusi'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Sinu enda piltide leidmine
   - 
     title: Piltide üleslaadimine
+    completion:
+      - internal
   - 
     title: 'Väljakutse: jätka!'
