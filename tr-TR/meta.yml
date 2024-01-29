@@ -25,6 +25,8 @@ steps:
     title: Bir hikayeye karar verin
   - 
     title: Hikayenizi düzenleme
+    completion:
+      - engaged
   - 
     title: 'Meydan Okuma: bazı değişiklikler yapın'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Kendi resimlerinizi bulma
   - 
     title: Resimleri yükleme
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: devam et!'
