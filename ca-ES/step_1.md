@@ -14,7 +14,7 @@ Desplaça't avall en Trinket fins veure la part final!
 
 ### Què aprendràs
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Disseny elemental 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
