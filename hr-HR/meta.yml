@@ -25,6 +25,8 @@ steps:
     title: Odluči se za priču
   - 
     title: Uredi svoju priču
+    completion:
+      - engaged
   - 
     title: 'Izazov: napravi neke promjene'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Pronalaženje vlastitih slika
   - 
     title: Učitavanje slike
+    completion:
+      - internal
   - 
     title: 'Izazov: nastavite!'
