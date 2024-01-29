@@ -14,7 +14,7 @@
 
 ### Чему ты научишься
 
-Этот проект включает в себя элементы из [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Разработка базовых 2D и 3D ресурсов](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
