@@ -25,6 +25,8 @@ steps:
     title: 物語を決める
   - 
     title: 物語を編集する
+    completion:
+      - engaged
   - 
     title: 'チャレンジ：いくつかの変更を加える'
   - 
@@ -33,5 +35,7 @@ steps:
     title: 自分の画像を見つける
   - 
     title: 画像のアップロードをする
+    completion:
+      - internal
   - 
     title: 'チャレンジ：続けよう！'
