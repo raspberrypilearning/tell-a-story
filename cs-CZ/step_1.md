@@ -14,7 +14,7 @@ Roluj v trinketu dolů a uvidíš pointu vtipu!
 
 ### Co se naučíš
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [Raspberry Pi Digitální bastlení](http://rpf.io/curriculum)"}{:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [Designovat základní 2D a 3D prvky](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
 
