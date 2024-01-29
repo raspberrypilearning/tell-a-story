@@ -32,9 +32,9 @@ El contenido de la página web va en la sección `<body>` del documento HTML `in
           </li>
           
           <li>
-            <p>
-              es un <strong>paragraph</strong>, un párrafo de texto.</li> </ul> 
-              
-              <p>
-                --- /collapse ---
-              </p>
+            <code>&lt;p&gt;</code> es un <strong>paragraph</strong>, un párrafo de texto.
+          </li></ul> 
+          
+          <p>
+            --- /collapse ---
+          </p>
