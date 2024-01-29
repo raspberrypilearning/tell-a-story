@@ -25,6 +25,8 @@ steps:
     title: Decideix sobre una història
   - 
     title: Editant la teva història
+    completion:
+      - engaged
   - 
     title: 'Repte: fes alguns canvis'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Trobant les teves imatges
   - 
     title: Carregant imatges
+    completion:
+      - internal
   - 
     title: 'Repte: continua endavant!'
