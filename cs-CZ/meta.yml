@@ -25,6 +25,8 @@ steps:
     title: Promysli svůj příběh
   - 
     title: Úprava tvého příběhu
+    completion:
+      - engaged
   - 
     title: 'Výzva: pozměň pár věcí'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Nalezení tvých obrázků
   - 
     title: Nahrávání obrázků
+    completion:
+      - internal
   - 
     title: 'Výzva: pokračuj!'
