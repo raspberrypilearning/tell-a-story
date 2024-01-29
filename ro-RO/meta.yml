@@ -25,6 +25,8 @@ steps:
     title: Stabilește o poveste
   - 
     title: Redactează-ți povestea
+    completion:
+      - engaged
   - 
     title: 'Provocare: fă niște modificări'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Caută-ți propriile tale imagini
   - 
     title: Încărcarea imaginilor
+    completion:
+      - internal
   - 
     title: 'Provocare: continuă!'
