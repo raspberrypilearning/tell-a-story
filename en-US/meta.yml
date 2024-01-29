@@ -25,6 +25,8 @@ steps:
     title: Decide on a story
   - 
     title: Editing your story
+    completion:
+      - engaged
   - 
     title: 'Challenge: make some changes'
   - 
@@ -33,5 +35,7 @@ steps:
     title: Finding your own images
   - 
     title: Uploading images
+    completion:
+      - internal
   - 
     title: 'Challenge: keep going!'
