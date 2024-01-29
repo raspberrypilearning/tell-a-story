@@ -14,7 +14,7 @@ Trinketを下にスクロールしてジョークのオチを見てみてくだ�
 
 ### 学ぶこと
 
-このプロジェクトは、[ラズベリーパイデジタルメイクカリキュラム](http://rpf.io/curriculum){:target="_blank"}の次の要素をカバーします ：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
 
 + [基本的な2Dおよび3Dアセットの設計](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}
 
