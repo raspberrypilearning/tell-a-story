@@ -10,33 +10,30 @@ Before you get coding, you'll need to decide on a story. Think about the story y
 It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
 --- /task ---
 
+--- task ---
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Open the [starter project](https://editor.raspberrypi.org/en/projects/tell-a-story-starter)
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
-
-The project should look like this:
-
-![screenshot](images/story-starter.png)
+--- /task ---
 
 Webpage content goes in the `<body>` section of the `index.html` HTML document.
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
+--- task ---
 
-![screenshot](images/story-html.png)
+Change `My story` to the title of your story.
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
+--- /task ---
 
---- collapse ---
----
-title: Answer
----
+--- task ---
 
-![screenshot](images/story-elements.png)
+Change `Add your own text here!` to the first line of your story
 
-+ `<h1>` is a __heading__. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for __division__, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an __image__.
-+ `<p>` is a __paragraph__ of text.
+--- /task ---
 
---- /collapse ---
+--- task ---
+
+Click **Run** to see your web page
+
+![A comic with the title 'Adventures in space' and a first panel containin a sun with the caption 'There was once a star'](images/codeed-starter.png)
+
+--- /task ---
