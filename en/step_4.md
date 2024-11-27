@@ -1,31 +1,45 @@
-## Editing your story
+## Telling your story
 
-Let's start by editing the HTML content and CSS style of the story's webpage.
+Let's add a second part to your story.
 
-+ Open [this trinket](http://jumpto.cc/web-story){:target="_blank"}.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-The project should look like this:
+![screenshot](images/story-div.png)
 
-![screenshot](images/story-starter.png)
++ Add a paragraph of text inside your new `<div>` tag:
 
-Webpage content goes in the `<body>` section of the `index.html` HTML document.
+```html
+<p>More text here!</p>
+```
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
+![screenshot](images/story-paragraph.png)
 
-![screenshot](images/story-html.png)
++ You can display an image in your new box by adding this code inside your `<div>` tag:
 
-+ See if you can work out which tags are used to create the different parts of the webpage.
+```html
+<img src="">
+```
 
---- collapse ---
----
-title: Answer
----
+![screenshot](images/story-img-tag.png)
 
-![screenshot](images/story-elements.png)
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
 
-+ `<h1>` is a __heading__. You can use the numbers 1 to 6 to create headings of different sizes.
-+ `<div>` is short for __division__, and is a way of grouping stuff together. In this webpage, you'll use it to group together all the stuff for each part of your story.
-+ `<img>` is an __image__.
-+ `<p>` is a __paragraph__ of text.
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
 
---- /collapse ---
+Click the image icon to see the images available for your story.
+
+![screenshot](images/story-see-images.png)
+
++ Decide which image you want to add and remember its name, for example `buildings.png`.
+
++ Click on `index.html` to get back to your code.
+
+![screenshot](images/story-image-name.png)
+
++ Add the name of the image between the speech marks in your `<img>` tag.
+
+```html
+<img src="buildings.png">
+```
+
+![screenshot](images/story-image-name-add.png)

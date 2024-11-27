@@ -1,19 +1,15 @@
---- challenge ---
-## Challenge: make some changes
-Edit the HTML and CSS code to customise your webpage.
+## Finding your own images
 
-![screenshot](images/story-changes.png)
+Let's find an image on the web to add to your story.
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
++ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
 
-![screenshot](images/story-files.png)
++ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
+![screenshot](images/story-url.png)
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
++ Go back to your `index.html` page.
 
---- /challenge ---
++ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
+
+![screenshot](images/story-image.png)

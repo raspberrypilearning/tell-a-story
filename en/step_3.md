@@ -1,9 +1,19 @@
-## Decide on a story
+--- challenge ---
+## Challenge: make some changes
+Edit the HTML and CSS code to customise your webpage.
 
-Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
+![screenshot](images/story-changes.png)
 
-+ A famous story
-+ A story you have made up
-+ Something that has happened to you or someone you know
+The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
 
-It doesn't even have to be a story. It could be a joke, a poem, or anything else you want!
+![screenshot](images/story-files.png)
+
+You can also alter the colours used in the webpage, and you can use different fonts such as:
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+--- /challenge ---

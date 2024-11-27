@@ -17,9 +17,7 @@ software: html-css-javascript
 version: 4
 last_tested: 2018-12-01
 steps:
-- title: Introduction
-- title: What you will need
-- title: Decide on a story
+- title: What you will make
 - title: Editing your story
   completion:
   - engaged
@@ -29,4 +27,4 @@ steps:
 - title: Uploading images
   completion:
   - internal
-- title: 'Challenge: keep going!'
+- title: What can you do now?
