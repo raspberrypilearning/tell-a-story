@@ -1,19 +1,45 @@
---- challenge ---
-## Challenge: make some changes
-Edit the HTML and CSS code to customise your webpage.
+## Telling your story
 
-![screenshot](images/story-changes.png)
+Let's add a second part to your story.
 
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
++ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![screenshot](images/story-files.png)
+![screenshot](images/story-div.png)
 
-You can also alter the colours used in the webpage, and you can use different fonts such as:
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
++ Add a paragraph of text inside your new `<div>` tag:
 
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+```html
+<p>More text here!</p>
+```
 
---- /challenge ---
+![screenshot](images/story-paragraph.png)
+
++ You can display an image in your new box by adding this code inside your `<div>` tag:
+
+```html
+<img src="">
+```
+
+![screenshot](images/story-img-tag.png)
+
+Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+
++ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
+
+Click the image icon to see the images available for your story.
+
+![screenshot](images/story-see-images.png)
+
++ Decide which image you want to add and remember its name, for example `buildings.png`.
+
++ Click on `index.html` to get back to your code.
+
+![screenshot](images/story-image-name.png)
+
++ Add the name of the image between the speech marks in your `<img>` tag.
+
+```html
+<img src="buildings.png">
+```
+
+![screenshot](images/story-image-name-add.png)
