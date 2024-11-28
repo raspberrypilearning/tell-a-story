@@ -2,44 +2,91 @@
 
 Let's add a second part to your story.
 
-+ Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
+--- task ---
+Go to line 15 of the code, and add in another set of `<div>` and `</div>` start and end tags. This will create a new box for the next part of your story.
 
-![screenshot](images/story-div.png)
 
-+ Add a paragraph of text inside your new `<div>` tag:
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 15
+line_highlights: 15-17
+---
+<div>
 
-```html
-<p>More text here!</p>
-```
+</div>
+--- /code ---
 
-![screenshot](images/story-paragraph.png)
+--- /task ---
 
-+ You can display an image in your new box by adding this code inside your `<div>` tag:
+--- task ---
 
-```html
+Add the code for an image `<img>` tag:
+
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 15
+line_highlights: 16
+---
+<div>
 <img src="">
-```
+</div>
+--- /code ---
 
-![screenshot](images/story-img-tag.png)
+--- /task ---
 
-Notice that `<img>` tags are a bit different to other tags: they don't have an end tag.
+--- task ---
+Click on the images tab and choose one of the images. 
 
-+ To get an image to show up, you need to add the **source** (`src`) of the image inside the speech marks.
+Make a note of the name of the image, for example `buildings.png` or `spaceship.png`.
 
-Click the image icon to see the images available for your story.
+![Images tab highlghted to the left of the code editor pane](images/codeed-images.png)
 
-![screenshot](images/story-see-images.png)
+--- /task ---
 
-+ Decide which image you want to add and remember its name, for example `buildings.png`.
+--- task ---
 
-+ Click on `index.html` to get back to your code.
+Add the name of the image inside the `<img>` tag:
 
-![screenshot](images/story-image-name.png)
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 15
+line_highlights: 16
+---
+<div>
+<img src="spaceship.png">
+</div>
+--- /code ---
 
-+ Add the name of the image between the speech marks in your `<img>` tag.
+--- /task ---
 
-```html
-<img src="buildings.png">
-```
+--- task ---
+Add a `<p>` paragraph tag inside your new `<div>` tag, and write the next part of your story:
 
-![screenshot](images/story-image-name-add.png)
+--- code ---
+---
+language: html
+line_numbers: true
+line_number_start: 15
+line_highlights: 17
+---
+<div>
+<img src="spaceship.png">
+<p>The star asked a friend to come and visit.</p>
+</div>
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Press **Run** to see the next part of your story appear.
+
+![A comic with two panes, one contains a sun and one contains a rocket image. The next pane reads 'The star asked a friend to come and visit'.](images/codeed-part2.png)
+
+--- /task ---
