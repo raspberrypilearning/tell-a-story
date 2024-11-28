@@ -1,15 +1,56 @@
-## Finding your own images
+## Challenge
 
-Let's find an image on the web to add to your story.
+--- challenge ---
 
-+ Go to [this page](http://jumpto.cc/html-images){:target="_blank"}, and find an image that you want to include in your story.
+Edit the CSS code to customise your webpage. 
 
-+ Right-click the image, and click **Copy Image URL** (or **Copy Image Address**, depending on the computer you are using). The URL is the address of the image.
+--- task ---
+Click on the file `style.css`:
 
-![screenshot](images/story-url.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-+ Go back to your `index.html` page.
+--- /task ---
 
-+ Paste the URL between the speech marks in your `<img>` tag. You should see your image appear!
+--- task ---
+Find the style for the body, and change the font. 
 
-![screenshot](images/story-image.png)
+You can choose different fonts such as:
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 3
+---
+body {
+  background-color: white;
+  font-family: Comic Sans MS;
+}
+--- /code ---
+--- /task ---
+
+--- task ---
+Change the background colour to a different colour:
+
+--- code ---
+---
+language: css
+line_numbers: true
+line_number_start: 1
+line_highlights: 2
+---
+body {
+  background-color: white;
+  font-family: Comic Sans MS;
+}
+--- /code ---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+--- /task ---
+
+--- /challenge ---

@@ -1,26 +1,11 @@
-## Challenge
+## What can you do now?
 
---- challenge ---
+If you are following the [HTML and CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Wanted](https://projects.raspberrypi.org/en/projects/wanted) project. In this project, you will learn how to make your own poster.
 
-Use what you've learnt in this project to finish telling your story! Here's an example:
+--- print-only --- 
 
-![A cartoon with six panels in, each with part of a story](images/story-final.png)
+![ALT TEXT](images/wanted-final.png)
 
-Edit the HTML and CSS code to customise your webpage.
+--- /print-only ---
 
-![screenshot](images/story-changes.png)
-
-The HTML content can be found in the `index.html` file, and the CSS style in the `style.css` file.
-
-![screenshot](images/story-files.png)
-
-You can also alter the colours used in the webpage, and you can use different fonts such as:
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
-
-Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
-
-
---- /challenge ---
+Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.

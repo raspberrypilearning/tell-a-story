@@ -22,8 +22,8 @@ steps:
   completion:
   - engaged
 - title: Telling your story
-- title: Finding your own images
-- title: Uploading images
   completion:
   - internal
+- title: Challenge
+  challenge: true
 - title: What can you do now?
