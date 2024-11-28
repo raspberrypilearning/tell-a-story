@@ -12,7 +12,7 @@ It doesn't even have to be a story. It could be a joke, a poem, or anything else
 
 --- task ---
 
-Open the [starter project](https://editor.raspberrypi.org/en/projects/tell-a-story-starter)
+Open the [starter project](https://editor.raspberrypi.org/en/projects/tell-a-story-starter){:target="_blank"}
 
 --- /task ---
 

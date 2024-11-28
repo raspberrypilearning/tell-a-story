@@ -90,3 +90,7 @@ Press **Run** to see the next part of your story appear.
 ![A comic with two panes, one contains a sun and one contains a rocket image. The next pane reads 'The star asked a friend to come and visit'.](images/codeed-part2.png)
 
 --- /task ---
+
+--- task ---
+Now, follow the same steps to add as many boxes as you need to finish your story.
+--- /task ---
