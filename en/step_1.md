@@ -1,6 +1,6 @@
 ## What you will make
 
-In this project, you'll learn how to create your own webpage to tell a story, joke, or poem.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
 --- no-print ---
 Scroll down to see the punch line!
