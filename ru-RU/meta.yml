@@ -29,4 +29,3 @@ steps:
 - title: Загрузка изображений
   completion:
   - internal
-- title: 'Задача: продолжай!'

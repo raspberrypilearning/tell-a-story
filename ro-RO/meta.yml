@@ -29,4 +29,3 @@ steps:
 - title: Încărcarea imaginilor
   completion:
   - internal
-- title: 'Provocare: continuă!'
