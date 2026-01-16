@@ -1,25 +1,7 @@
-## ಪರಿಚಯ
+## ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
 
-ಈ ಯೋಜನೆಯಲ್ಲಿ, ಕಥೆ, ತಮಾಷೆ ಅಥವಾ ಕವಿತೆಯನ್ನು ಹೇಳಲು ನಿಮ್ಮ ಸ್ವಂತ ವೆಬ್‌ಪುಟವನ್ನು ಹೇಗೆ ರಚಿಸುವುದು ಎಂದು ನೀವು ಕಲಿಯುವಿರಿ.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
-### ನೀವು ಏನು ಮಾಡುತ್ತೀರಿ
+\--- no-print \--- Scroll down to see the punch line! <iframe src="https://editor.raspberrypi.org/en/embed/viewer/tell-a-story-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-ಪಂಚ್ ಲೈನ್ ನೋಡಲು trinket ‌ನಲ್ಲಿ ಕೆಳಗೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ!
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/story-final.png">
-</div>
-
-### ನೀವು ಏನು ಕಲಿಯುವಿರಿ
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [ಸಾಮಾನ್ಯ 2D ಮತ್ತು 3D ಸ್ವತ್ತುಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
-
-### ಶಿಕ್ಷಣತಜ್ಞರಿಗೆ ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ
-
-ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಮುದ್ರಿಸಬೇಕಾದರೆ, ದಯವಿಟ್ಟು [ಮುದ್ರಕ-ಸ್ನೇಹಿ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"}.
-
-ಈ ಯೋಜನೆಯ ಗಿಟ್‌ಹಬ್ ರೆಪೊಸಿಟರಿಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅಡಿಟಿಪ್ಪಣಿ ಲಿಂಕ್ ಅನ್ನು ಬಳಸಿ, ಅದರ 'en/resources' ಫೋಲ್ಡರ್‌ನಲ್ಲಿ ಎಲ್ಲಾ ಸಂಪನ್ಮೂಲಗಳು ಒಳಗೊಂಡಿದೆ (ಮುಗಿದಿರುವ ಉದಾಹರಣೆ ಪ್ರಾಜೆಕ್ಟ್ ಸೇರಿದಂತೆ).
+\--- /no-print \---
