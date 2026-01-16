@@ -1,30 +1,43 @@
-## Úprava tvého příběhu
+## Challenge
 
-Pojďme začít úpravou obsahu v HTML a stylů v CSS tvé webové stránky.
+\--- challenge \---
 
-+ Otevři [tento trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Projekt by měl vypadat přibližně takto:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Obsah webové stránky se píše do sekce `<body>`v HTML dokumentu `index.html`.
+\--- /task \---
 
-+ Najdi obsah webové stránky od řádku 7 uvnitř tagů `<body>` a `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Schválně jestli přijdeš na to, které tagy se používají pro vytvoření různých částí webové stránky.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Odpověď
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` je **nadpis**. Můžeš použít čísla od 1 do 6 pro vytvoření nadpisů různých velikostí.
-+ `<div>` je zkratka pro **oddíl** a používá se pro seskupování věcí. Na této webové stránce ji použiješ pro seskupení všech věcí z jedné části tvého příběhu.
-+ `<img>` je **obrázek**.
-+ `<p>` je **odstavec**.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
