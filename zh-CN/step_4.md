@@ -1,30 +1,43 @@
-## 编辑你的故事
+## Challenge
 
-让我们首先开始编辑故事网页的HTML内容和CSS样式。
+\--- challenge \---
 
-+ 打开 [这个trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-这个项目应该是这样的：
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-网页内容位于HTML文件`index.html`的`<body>`部分中。
+\--- /task \---
 
-+ 从第7行起找到位于`<body>`和`</body>`标签之间的网页内容。
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ 看看你是否可以找到哪些标签用于创建网页的哪些部分。
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: 答案
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>`是**标题** 。你可以使用标题1到6创建不同大小的标题。
-+ `<div>`是**分组（division）**的缩写 ，是将某些内容组合在一起的一种方法。在此网页中，你将使用它来将故事各部分的所有内容归为一组。
-+ `<img>`是一张**图片** 。
-+ `<p>`是文字**段落**。
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
