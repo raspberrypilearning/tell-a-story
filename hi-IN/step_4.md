@@ -1,30 +1,43 @@
-## अपनी कहानी को एडिट करना
+## Challenge
 
-आइए कहानी के वेब पृष्ठ की HTML सामग्री और CSS स्टाइल को एडिट करके शुरू करें।
+\--- challenge \---
 
-+ खोलें [यह trinket](http://jumpto.cc/web-story){:target= "_ blank"}।
+Edit the CSS code to customise your webpage.
 
-प्रोजैक्ट इस तरह दिखना चाहिए:
+\--- task \--- Click on the file `style.css`:
 
-![स्क्रीनशॉट](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-वेब पृष्ठ सामग्री `index.html` HTML दस्तावेज़ के `<body>` अनुभाग में जाती है।
+\--- /task \---
 
-+ लाइन 7 के बाद से `<body>` और `</body>` टैग के अंदर वेब पृष्ठ सामग्री खोजें।
+\--- task \--- Find the style for the body, and change the font.
 
-![स्क्रीनशॉट](images/story-html.png)
+You can choose different fonts such as:
 
-+ देखें कि क्या आप यह पता लगा सकते हैं कि वेब पृष्ठ के विभिन्न हिस्सों को बनाने के लिए कौन से टैग का उपयोग किया जाता है।
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: उत्तर
+language: css line_numbers: true line_number_start: 1
 
-![स्क्रीनशॉट](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` एक **शीर्षक** है। विभिन्न आकारों के शीर्षकों को बनाने के लिए आप संख्या 1 से 6 का उपयोग कर सकते हैं।
-+ `<div>` **विभाजन**लिए छोटा है, और सामान को एक साथ समूहीकृत करने का एक तरीका है। इस वेब पृष्ठ में, आप इसका उपयोग अपनी कहानी के प्रत्येक भाग के लिए सभी सामग्री को एक साथ समूहित करने के लिए करेंगे।
-+ `<img>` एक **चित्र** है ।
-+ `<p>` टेक्स्ट का एक **पैराग्राफ** है ।
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
