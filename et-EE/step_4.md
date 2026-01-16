@@ -1,30 +1,43 @@
-## Oma loo muutmine
+## Challenge
 
-Alustame loo veebilehe HTML-sisu ja CSS-stiili muutmisega.
+\--- challenge \---
 
-+ Ava [see trinket](http://jumpto.cc/web-story){:target ="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Projekt peaks välja nägema selline:
+\--- task \--- Click on the file `style.css`:
 
-![kuvatõmmis](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Veebilehe sisu läheb `<body>` jaotisesse `index.html` HTML-dokumendis.
+\--- /task \---
 
-+ Veebilehe sisu leiad alates 7. reast edasi,seest `<body>`ja`</body>` sildiga.
+\--- task \--- Find the style for the body, and change the font.
 
-![kuvatõmmis](images/story-html.png)
+You can choose different fonts such as:
 
-+ Vaata, kas suudad välja mõelda, milliseid silte veebilehe erinevate osade loomiseks kasutatakse.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Vastus
+language: css line_numbers: true line_number_start: 1
 
-![kuvatõmmis](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` on **pealkiri**. Võid kasutada numbreid 1 kuni 6 erisuuruste pealkirjade loomiseks.
-+ `<div>` on lühend **jaotamisele**ja see on moodus asjade rühmitamiseks. Sellel veebilehel saad seda kasutada, et rühmitada kõik asjad oma loo iga osa jaoks.
-+ `<img>` on **kujutis**.
-+ `<p>` on teksti **lõige**.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
