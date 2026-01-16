@@ -1,30 +1,43 @@
-## Redactează-ți povestea
+## Challenge
 
-Să începem prin a edita conținutul HTML și stilului CSS al paginii web a poveștii.
+\--- challenge \---
 
-+ Deschide [acest trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Proiectul ar trebui să arate astfel:
+\--- task \--- Click on the file `style.css`:
 
-![captură de ecran](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Conținutul paginii web intră în secțiunea `<body>` a documentului HTML `index.html`.
+\--- /task \---
 
-+ Găsește conținutul paginii web începând cu linia 7, în interiorul etichetelor `<body>` și ` </body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![captură de ecran](images/story-html.png)
+You can choose different fonts such as:
 
-+ Vezi dacă îți poți da seama ce etichete sunt folosite pentru a crea diferitele componente ale paginii web.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Răspuns
+language: css line_numbers: true line_number_start: 1
 
-![captură de ecran](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` este un **titlu**. Poți folosi numerele de la 1 la 6 pentru a crea titluri de diferite dimensiuni.
-+ `<div>` este prescurtarea pentru **diviziune** și este un mod de a grupa lucrurile împreună. În această pagină web, vei folosi această etichetă pentru a grupa toate elementele din fiecare parte a poveștii tale.
-+ `<img>` este o **imagine**.
-+ `<p>` este un ** alineat ** de text.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
