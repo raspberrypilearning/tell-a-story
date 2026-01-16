@@ -1,22 +1,16 @@
-\--- challenge \---
+## What can you do now?
 
-## Πρόκληση: κάνε μερικές αλλαγές
+If you are following the [HTML and CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Wanted](https://projects.raspberrypi.org/en/projects/wanted) project. In this project, you will learn how to make your own poster.
 
-Επεξεργάσου τον κώδικα HTML και CSS για να προσαρμόσεις την ιστοσελίδα σου.
+\--- print-only \---
 
-![screenshot](images/story-changes.png)
+![A wanted poster of a robot](images/wanted-final.png)
 
-Το περιεχόμενο HTML μπορεί να βρεθεί στο αρχείο `index.html`, και το CSS στυλ στο αρχείο `style.css`.
+\--- /print-only \---
 
-![screenshot](images/story-files.png)
+\--- no-print \--- <iframe src="https://editor.raspberrypi.org/en/embed/viewer/wanted-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> 
 
-Μπορείς επίσης να αλλάξεις τα χρώματα που χρησιμοποιούνται στην ιστοσελίδα, και μπορείς να χρησιμοποιήσεις διαφορετικές γραμματοσειρές όπως:
+\--- /no-print \---
 
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
-
-Βρες περισσότερα CSS ονόματα χρωμάτων [εδώ](http://jumpto.cc/colours){:target="_blank"}.
-
-\--- /challenge \---
+Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
