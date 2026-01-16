@@ -1,25 +1,7 @@
-## Wprowadzenie
+## Co stworzysz
 
-W tym projekcie nauczysz się, jak stworzyć własną stronę internetową, aby opowiedzieć historię, dowcip lub wiersz.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
-### Co będziesz robił
+\--- no-print \--- Scroll down to see the punch line! <iframe src="https://editor.raspberrypi.org/en/embed/viewer/tell-a-story-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-Przewiń w dół okna Trinket, aby poznać zakończenie!
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/story-final.png">
-</div>
-
-### Czego się nauczysz
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
-
-### Dodatkowe informacje dla nauczycieli
-
-Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
-
-Skorzystaj z odnośnika w stopce, aby uzyskać dostęp do repozytorium kodu tego projektu w serwisie GitHub. Repozytorium to zawiera wszystkie zasoby (w tym przykład gotowego projektu) w folderze 'pl-PL/resources'.
+\--- /no-print \---
