@@ -1,30 +1,43 @@
-## Hikayenizi düzenleme
+## Challenge
 
-Hikayenin web sayfasının HTML içeriğini ve CSS stilini düzenleyerek başlayalım.
+\--- challenge \---
 
-+ [Bu trinketi](http://jumpto.cc/web-story){:target="_blank"} açın.
+Edit the CSS code to customise your webpage.
 
-Proje şu şekilde gözükmeli:
+\--- task \--- Click on the file `style.css`:
 
-![ekran görüntüsü](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Web sayfasının içeriği `index.html` HTML belgesinin `<body>` bölümünde olacak.
+\--- /task \---
 
-+ Web sayfası içeriğini 7. satırdan itibaren, `<body>` ve `</body>` etiketlerinin içinde bulun.
+\--- task \--- Find the style for the body, and change the font.
 
-![ekran görüntüsü](images/story-html.png)
+You can choose different fonts such as:
 
-+ Bakalım web sayfasında farklı bölümler oluşturmak için hangi etiketlerin kullanıldığını bulabilecek misiniz?
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Cevap
+language: css line_numbers: true line_number_start: 1
 
-![ekran görüntüsü](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` bir **başlık**. Farklı boyutlarda başlıklar oluşturmak için 1'den 6'ya kadar olan sayıları kullanabilirsiniz.
-+ `<div>`, **divison (Dilimizde bölüm gibi bir anlama geliyor) **anlamına geliyor ve yaptıklarınızı gruplara ayırmak için bir yol olarak kullanılır. Bu web sayfasında, hikayenizin her bir bölümü için tüm öğeleri bir araya getirmek için kullanacaksınız.
-+ `<img>` **resim** anlamına geliyor.
-+ `<p>` yazınızın bir **paragraf**ıdır.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
