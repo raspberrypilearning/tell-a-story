@@ -1,30 +1,43 @@
-## Επεξεργασία της ιστορίας σου
+## Challenge
 
-Ας αρχίσουμε με την επεξεργασία του περιεχομένου HTML και του CSS στυλ της ιστοσελίδας της ιστορίας.
+\--- challenge \---
 
-+ Άνοιξε [αυτό το trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Το έργο πρέπει να μοιάζει έτσι:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Το περιεχόμενο της ιστοσελίδας εισάγεται στην `<body>` ενότητα του `index.html` HTML εγγράφου.
+\--- /task \---
 
-+ Βρες το περιεχόμενο της ιστοσελίδας από τη γραμμή 7 και μετά, ανάμεσα στις ετικέτες `<body>` και `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Δες αν μπορείς να ξεχωρίσεις ποιες ετικέτες χρησιμοποιούνται για τη δημιουργία των διαφόρων τμημάτων της ιστοσελίδας.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Απάντηση
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` είναι μια **επικεφαλίδα**. Μπορείς να χρησιμοποιήσεις τους αριθμούς 1 έως 6 για να δημιουργήσεις επικεφαλίδες διαφορετικών μεγεθών.
-+ `<div>` είναι συντόμευση για την **διαίρεση**, και είναι ένας τρόπος ομαδοποίησης στοιχείων. Σε αυτή την ιστοσελίδα, θα το χρησιμοποιήσεις για να ομαδοποιήσεις όλα τα στοιχεία για κάθε μέρος της ιστορίας σου.
-+ `<img>` είναι μια **εικόνα**.
-+ `<p>` είναι μια **παράγραφος** του κειμένου.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
