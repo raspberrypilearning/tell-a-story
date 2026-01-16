@@ -1,9 +1,37 @@
-## आपको किन चीज़ों की आवश्यकता होगी
+## Editing your story
 
-### हार्डवेयर
+\--- task \--- Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ एक कंप्यूटर जो [trinket.io](https://trinket.io){:target="_blank"} वेबसाइट तक पहुँचने में सक्षम हो
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-### सॉफ्टवेयर
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want! \--- /task \---
 
-इस प्रोजेक्ट को [trinket.io](https://trinket.io){:target="_blank"} का उपयोग करके किसी वेब ब्राउज़र में पूरा किया जा सकता है।
+\--- task \---
+
+Open the [starter project](https://editor.raspberrypi.org/en/projects/tell-a-story-starter){:target="_blank"}
+
+\--- /task \---
+
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
+
+\--- task \---
+
+Change `My story` to the title of your story.
+
+\--- /task \---
+
+\--- task \---
+
+Change `Add your own text here!` to the first line of your story
+
+\--- /task \---
+
+\--- task \---
+
+Click **Run** to see your web page
+
+![A comic with the title 'Adventures in space' and a first panel containin a sun with the caption 'There was once a star'](images/codeed-starter.png)
+
+\--- /task \---
