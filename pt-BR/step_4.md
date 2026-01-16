@@ -1,30 +1,43 @@
-## Editando sua história
+## Challenge
 
-Vamos começar editando o conteúdo HTML e CSS da página web da história.
+\--- challenge \---
 
-+ Abra [este trinket](http://jumpto.cc/web-story) {:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-O arquivo ficará assim:
+\--- task \--- Click on the file `style.css`:
 
-![captura de Tela](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-O conteúdo da página fica na seção `<body>` do `index.html` documento HTML.
+\--- /task \---
 
-+ Encontre o conteúdo da página web a partir da linha 7, dentro das tags `<body>` e `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![captura de tela](images/story-html.png)
+You can choose different fonts such as:
 
-+ Veja se pode descobrir quais tags são usadas para criar as diferentes partes da página web.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Resposta
+language: css line_numbers: true line_number_start: 1
 
-![captura de tela](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` é um **cabeçalho (heading)**. Você pode usar os números de 1 a 6 para criar cabeçalhos de diferentes tamanhos.
-+ `<div>` é abreviação de **divisão**, e é uma maneira de agrupar coisas. Nesta página web, você a usará para agrupar todas as informações de cada parte da sua história.
-+ `<img>` é uma **imagem (image)**.
-+ `<p>` é um **parágrafo** de texto.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
