@@ -1,30 +1,43 @@
-## Editant la teva història
+## Challenge
 
-Comencem per l’edició del contingut HTML i l’estil CSS de la pàgina web de la història.
+\--- challenge \---
 
-+ Obre [ aquest Trinket](http://jumpto.cc/web-story) {:target ="_ blank"}.
+Edit the CSS code to customise your webpage.
 
-El teu projecte hauria de ser així:
+\--- task \--- Click on the file `style.css`:
 
-![captura de pantalla](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-El contingut de la pàgina web inserta'l a la secció `<body>` del document HTML `index.html`.
+\--- /task \---
 
-+ Cerca el contingut de la pàgina web des de la línia 7 en endavant, dins de les etiquetes `<body>` i `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![captura de pantalla](images/story-html.png)
+You can choose different fonts such as:
 
-+ Mira si pots esbrinar quines etiquetes s’utilitzen per crear les diferents parts de la pàgina web.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## títol: Resposta
+language: css line_numbers: true line_number_start: 1
 
-![captura de pantalla](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` és un **encapçalament**. Pots fer servir els números 1 a 6 per crear encapçalaments de diferents mides.
-+ `<div>` és una etiqueta abreviada de **divisió** i és una manera d'agrupar les coses. En aquesta pàgina web, la utilitzaràs per agrupar totes les coses de cada part de la teva història.
-+ `<img>` és una **imatge**.
-+ `<p>` és un **paràgraf** de text.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
