@@ -1,30 +1,43 @@
-## Fare modifiche alla tua storia
+## Challenge
 
-Iniziamo modificando il contenuto HTML e lo stile CSS della pagina web della storia.
+\--- challenge \---
 
-+ Apri [questo trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Il progetto dovrebbe assomigliare a questo:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Il contenuto della pagina web va nella sezione `<body>` del documento HTML `index.html`.
+\--- /task \---
 
-+ Troverai il contenuto della pagina web dalla riga 7 in poi, dentro i tag `<body>` e `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Prova a capire quali sono i tag da usare per creare le diverse parti della pagina web.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Risposta
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` è un'**intestazione**. Puoi usare i numeri da 1 a 6 per creare intestazioni di misure differenti.
-+ `<div>` è l'abbreviazione di **divisore** ed è un modo di raggruppare vari elementi. In questa pagina, lo userai per mettere insieme tutti gli elementi di ogni parte della tua storia.
-+ `<img>` è un'**immagine**.
-+ `<p>` è un **paragrafo** del testo.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
