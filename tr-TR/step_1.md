@@ -1,25 +1,7 @@
-## Giriş
+## Ne yapacaksınız
 
-Bu projede, bir hikaye, şaka ya da şiir anlatmak için kendi web sayfanızı nasıl oluşturabileceğinizi öğreneceksiniz.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
-### Ne yapacaksınız
+\--- no-print \--- Scroll down to see the punch line! <iframe src="https://editor.raspberrypi.org/en/embed/viewer/tell-a-story-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-Karikatürün can alıcı noktasını görmek için "trinket" penceresini aşağı kaydır!
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/story-final.png">
-</div>
-
-### Ne öğreneceksiniz
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Basit 2D ve 3D varlıklar tasarlama](https://www.raspberrypi.org/curriculum/design/creator){: target = "_ blank"}.
-
-### Eğitimciler için ek bilgiler
-
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/tell-a-story/print) 'ü kullanın {: target = "_ blank"} .
-
-Bu projeye ait bütün kaynakları içeren (bitmiş örnek bir proje de dahil!) GitHub Repo'suna erişmek için, en alttaki linke tıklayabilirsiniz. Kaynaklar, 'en/resources' klasöründe bulunmakta.
+\--- /no-print \---
