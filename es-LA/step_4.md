@@ -1,40 +1,43 @@
-## Editando tu historia
+## Challenge
 
-Empecemos por editar el contenido HTML y el estilo CSS de la página web de la historia.
+\--- challenge \---
 
-+ Abre [este trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-El proyecto debe verse así:
+\--- task \--- Click on the file `style.css`:
 
-![captura de pantalla](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-El contenido de la página web va en la sección `<body>` del documento HTML `index.html`.
+\--- /task \---
 
-+ Find the webpage content from line 7 onwards, inside `<body>` and `</body>` tags.
+\--- task \--- Find the style for the body, and change the font.
 
-![captura de pantalla](images/story-html.png)
+You can choose different fonts such as:
 
-+ Fíjate si puedes averiguar qué etiquetas se utilizan para crear las diferentes partes de la página web.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Respuesta
+language: css line_numbers: true line_number_start: 1
 
-![captura de pantalla](images/story-elements.png)
+## line_highlights: 3
 
-+ # es un **heading (encabezado)**. Puedes usar los números del 1 al 6 para crear encabezados de diferentes tamaños.</li> 
-    
-    + <div>
-          es la abreviatura de <strong>division</strong>, y es una forma de agrupar cosas. En esta página web, la usarás para agrupar todas las cosas de cada parte de tu historia.</li> 
-          
-          <li>
-            <img />es <strong>image</strong>, una imagen.
-          </li>
-          
-          <li>
-            <code>&lt;p&gt;</code> es un <strong>paragraph</strong>, un párrafo de texto.
-          </li></ul> 
-          
-          <p>
-            --- /collapse ---
-          </p>
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
+
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
