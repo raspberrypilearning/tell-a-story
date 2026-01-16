@@ -8,6 +8,7 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Vytvoř svůj příběh
 description: Vytvoř webovou stránku, na které ukážeš svůj příběh, vtip nebo báseň
+pdf: resources/rpfi-tell-a-story.pdf
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,24 +19,17 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Úvod
+    title: What you will make
   - 
-    title: Co budeš potřebovat
-  - 
-    title: Promysli svůj příběh
-  - 
-    title: Úprava tvého příběhu
+    title: Editing your story
     completion:
       - engaged
   - 
-    title: 'Výzva: pozměň pár věcí'
-  - 
-    title: Vyprávění tvého příběhu
-  - 
-    title: Nalezení tvých obrázků
-  - 
-    title: Nahrávání obrázků
+    title: Telling your story
     completion:
       - internal
   - 
-    title: 'Výzva: pokračuj!'
+    title: Challenge
+    challenge: true
+    completion:
+      - external
