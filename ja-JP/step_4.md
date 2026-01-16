@@ -1,30 +1,43 @@
-## 物語を編集する
+## Challenge
 
-まず、物語のウェブページのHTMLコンテンツとCSSスタイルを編集してみましょう。
+\--- challenge \---
 
-+ [このTrinket](http://jumpto.cc/web-story){:target="_ blank"}を開いてください。
+Edit the CSS code to customise your webpage.
 
-リンクを開くと、このような画面が表示されます。
+\--- task \--- Click on the file `style.css`:
 
-![スクリーンショット](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-ウェブページの内容は、 `index.html` HTMLドキュメントの `<body>` セクションにあります。
+\--- /task \---
 
-+ ウェブページの内容を7行目以降から探してください。`<body>` と `</body>` のタグの間にあります。
+\--- task \--- Find the style for the body, and change the font.
 
-![スクリーンショット](images/story-html.png)
+You can choose different fonts such as:
 
-+ ウェブページのさまざまな部分を作成するためにどのタグが使われているか確認してみましょう。
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: 答え
+language: css line_numbers: true line_number_start: 1
 
-![スクリーンショット](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` は **見出し**です。数字1〜6を使用して、さまざまなサイズの見出しを作成できます。
-+ `<div>` は **division** (分割) の略であり、いろいろなものをグループにすることができます。このウェブページでは、ストーリーの各部分のすべてのものをまとめてグループにするために使用します。
-+ `<img>` は **画像**です。
-+ `<p>` はテキストの **段落** です。
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
