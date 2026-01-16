@@ -1,25 +1,7 @@
-## Inleiding
+## Wat ga je maken
 
-In dit project leer je hoe je je eigen webpagina kunt maken om een ​​verhaal, grap of gedicht te vertellen.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
-### Wat ga je maken
+\--- no-print \--- Scroll down to see the punch line! <iframe src="https://editor.raspberrypi.org/en/embed/viewer/tell-a-story-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-Blader naar beneden in de trinket om de clou te zien!
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/story-final.png">
-</div>
-
-### Wat ga je leren
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Ontwerp standaard 2D- en 3D-items](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
-
-### Aanvullende informatie voor clubleiders
-
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"}.
-
-Gebruik de link in de voettekst om toegang te krijgen tot de GitHub-repository voor dit project, dat alle bronnen (inclusief een voorbeeld van een voltooid project) bevat in de map 'en/resources'.
+\--- /no-print \---
