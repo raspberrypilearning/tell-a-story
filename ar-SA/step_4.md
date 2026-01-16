@@ -1,30 +1,43 @@
-## تحرير قصتك
+## Challenge
 
-لنبدأ بتحرير محتوى HTML ونمط CSS لصفحة الويب الخاصة بالقصة.
+\--- challenge \---
 
-+ افتح [هذا الـ trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-يجب ان يبدو المشروع مثل هذا:
+\--- task \--- Click on the file `style.css`:
 
-![لقطة شاشة](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-محتوى صفحة الويب يوضع في القسم `<body>` من `index.html` في مستند HTML.
+\--- /task \---
 
-+ ابحث عن محتوى صفحة الويب من السطر 7 فصاعدًا، داخل علامات التبويب`<body>` و ` </body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![لقطة الشاشة](images/story-html.png)
+You can choose different fonts such as:
 
-+ حاول معرفة العلامات التي يتم استخدامها لإنشاء الأجزاء المختلفة من صفحة الويب.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: الإجابة
+language: css line_numbers: true line_number_start: 1
 
-![لقطة الشاشة](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` هو **عنوان**. يمكنك استخدام الأرقام من 1 إلى 6 لإنشاء عناوين بأحجام مختلفة.
-+ `<div>` هو اختصار لـ **division** أي التقسيم ، وهو وسيلة لتجميع الأشياء معًا. في صفحة الويب هذه، ستستخدمه لتجميع كل العناصر معًا لكل جزء من قصتك.
-+ `<img>` هي **صورة**.
-+ `<p>` هي **فقرة** من النص.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
