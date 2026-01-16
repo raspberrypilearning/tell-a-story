@@ -1,25 +1,7 @@
-## Introducere
+## Ce vei face
 
-În acest proiect, vei învăța cum să îți creezi propria pagină web pentru a spune o poveste, o glumă sau o poezie.
+Learn how to create your own webpage to tell a story, joke, or poem.
 
-### Ce vei face
+\--- no-print \--- Scroll down to see the punch line! <iframe src="https://editor.raspberrypi.org/en/embed/viewer/tell-a-story-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe> 
 
-Derulează în jos pentru a citi tot bancul!
-
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/c8afdef912?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-  <img src="images/story-final.png">
-</div>
-
-### Ce vei învăța
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum){:target="_blank"}:
-
-+ [Proiectarea elementelor de bază în 2D și 3D](https://www.raspberrypi.org/curriculum/design/creator){:target="_blank"}.
-
-### Informații suplimentare pentru educatori
-
-Dacă ai nevoie să tipărești acest proiect, folosește [versiunea imprimabilă](https://projects.raspberrypi.org/en/projects/tell-a-story/print){:target="_blank"} .
-
-Folosește link-ul din subsolul paginii pentru a accesa referința GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în folder-ul „ro-RO/resources”.
+\--- /no-print \---
