@@ -1,30 +1,43 @@
-## ನಿಮ್ಮ ಕಥೆಯನ್ನು ತಿದ್ದುವ ವಿಧಾನ
+## Challenge
 
-ಕಥೆಯ ವೆಬ್‌ಪುಟದ HTML ವಿಷಯ ಮತ್ತು CSS ಶೈಲಿಯನ್ನು ತಿದ್ದುವ ಮೂಲಕ ಪ್ರಾರಂಭಿಸೋಣ.
+\--- challenge \---
 
-+ [ಈ trinket](http://jumpto.cc/web-story){:target="_blank"} ನನ್ನು ತೆರೆಯಿರಿ.
+Edit the CSS code to customise your webpage.
 
-ಯೋಜನೆಯು ಈ ರೀತಿ ಕಾಣಿಸಬೇಕು:
+\--- task \--- Click on the file `style.css`:
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-ವೆಬ್‌ಪುಟದ ವಿಷಯವು `index.html` HTML ಡಾಕ್ಯುಮೆಂಟಿನ `<body>` ವಿಭಾಗದಲ್ಲಿ ಹೋಗುತ್ತದೆ.
+\--- /task \---
 
-+ ವೆಬ್‌ಪುಟದ ವಿಷಯವನ್ನು 7 ನೇ ಸಾಲಿನಿಂದ, `<body>` ಮತ್ತು ` </body>` ಒಳಗಿನ ಟ್ಯಾಗ್ ಗಳಲ್ಲಿ ನೋಡಿರಿ.
+\--- task \--- Find the style for the body, and change the font.
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/story-html.png)
+You can choose different fonts such as:
 
-+ ವೆಬ್‌ಪುಟದ ವಿಭಿನ್ನ ಭಾಗಗಳನ್ನು ರಚಿಸಲು ಯಾವ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೀವು ಅರಿಯಬಹುದೇ ಎಂದು ನೋಡಿ.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## ಶೀರ್ಷಿಕೆ: ಉತ್ತರ
+language: css line_numbers: true line_number_start: 1
 
-![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` ಒಂದು ** ಶೀರ್ಷಿಕೆ **. ವಿಭಿನ್ನ ಗಾತ್ರದ ಶೀರ್ಷಿಕೆಗಳನ್ನು ರಚಿಸಲು ನೀವು 1 ರಿಂದ 6 ಸಂಖ್ಯೆಗಳನ್ನು ಬಳಸಬಹುದು.
-+ `<div>` **ವಿಭಾಗಕ್ಕೆ** ಸಂಕ್ಷಿಪ್ತ ರೂಪ, ಮತ್ತು ವಿಷಯವನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡುವ ಒಂದು ಮಾರ್ಗ. ಈ ವೆಬ್‌ಪುಟದಲ್ಲಿ, ನಿಮ್ಮ ಕಥೆಯ ಪ್ರತಿಯೊಂದು ಭಾಗಕ್ಕೂ ಎಲ್ಲ ಗತಿಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಲು ನೀವು ಇದನ್ನು ಬಳಸುತ್ತೀರಿ.
-+ `<img>` ಒಂದು **ಚಿತ್ರ**.
-+ `<p>` ಒಂದು ** ಪಠ್ಯದ ಪ್ಯಾರಾಗ್ರಾಫ್ ಆಗಿದೆ **.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
