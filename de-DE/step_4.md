@@ -1,30 +1,43 @@
-## Erstell deine Geschichte
+## Challenge
 
-Beginnen wir damit, den HTML-Inhalt und den CSS-Stil der Webseite der Story zu bearbeiten.
+\--- challenge \---
 
-+ Öffne [dieses trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Das Projekt sollte so aussehen:
+\--- task \--- Click on the file `style.css`:
 
-![Screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Der Inhalt der Webseite wird in den Abschnitt `<body>` von ` index.html` vom HTML-Dokument aufgenommen.
+\--- /task \---
 
-+ Suche den Inhalt der Webseite ab Zeile 7 innerhalb von `<body>` und ` </body>` Marken.
+\--- task \--- Find the style for the body, and change the font.
 
-![Screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Versuche herauszufinden, welche Marken benutzt werden, um die unterschiedlichen Teile der Webseite zu erstellen.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Antwort
+language: css line_numbers: true line_number_start: 1
 
-![Screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` ist eine **Überschrift**. Du kannst die Zahlen 1 bis 6 verwenden, um Überschriften unterschiedlicher Größe zu erstellen.
-+ `<div>` steht für **Division** und ist eine Möglichkeit, Dinge zusammenzufassen. Auf dieser Webseite kannst du es benutzen, um alle Elemente deiner Geschichte zusammenzufassen.
-+ `<img>` ist ein **Bild**.
-+ `<p>` ist ein **Absatz** mit Text.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
