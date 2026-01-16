@@ -1,30 +1,43 @@
-## Uredi svoju priču
+## Challenge
 
-Počnimo uređivanjem HTML sadržaja i CSS stila web stranice priče.
+\--- challenge \---
 
-+ Otvorite [ovaj trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Projekt bi trebao izgledati ovako:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Sadržaj web-stranice ide u `<body>` odjeljak `index.html` HTML dokumenta.
+\--- /task \---
 
-+ Pronađite sadržaj web stranice od retka 7 nadalje, unutar `<body>` i `</body>` oznake.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Pogledajte možete li odrediti koje se oznake koriste za stvaranje različitih dijelova web-stranice.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## naslov: Odgovor
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` je **heading**. Možete koristiti brojeve od 1 do 6 za stvaranje naslova različitih veličina.
-+ `<div>` je skraćenica za ** podjela ** i to je način grupiranja stvari. Na ovoj web stranici upotrebljavat ćete je za grupiranje svih elemenata za svaki dio vaše priče.
-+ `<img>` je **slika**.
-+ `<p>` je **odlomak** teksta.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
