@@ -8,6 +8,7 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: Расскажи историю
 description: Создай веб-страницу, чтобы рассказать историю, шутку или стихи
+pdf: resources/rpfi-tell-a-story.pdf
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,24 +19,17 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: Введение
+    title: What you will make
   - 
-    title: Что тебе понадобится
-  - 
-    title: Определись с историей
-  - 
-    title: Редактирование твоей истории
+    title: Editing your story
     completion:
       - engaged
   - 
-    title: 'Задача: внести некоторые изменения'
-  - 
-    title: Рассказываем твою историю
-  - 
-    title: Поиск собственных изображений
-  - 
-    title: Загрузка изображений
+    title: Telling your story
     completion:
       - internal
   - 
-    title: 'Задача: продолжай!'
+    title: Challenge
+    challenge: true
+    completion:
+      - external
