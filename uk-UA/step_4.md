@@ -1,30 +1,43 @@
-## Редагування історії
+## Challenge
 
-Розпочнемо із редагування HTML та CSS вмісту історії на веб-сторінці.
+\--- challenge \---
 
-+ Відкрийте [цей трінкет](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Проект повинен виглядати так:
+\--- task \--- Click on the file `style.css`:
 
-![знімок екрану](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Вміст веб-сторінки знаходиться в `<body>`розділі `index.html` документу HTML.
+\--- /task \---
 
-+ Вміст веб-сторінки можна знайти починаючи із рядка 7 всередині тегів `<body>` і `</body>`.
+\--- task \--- Find the style for the body, and change the font.
 
-![знімок екрану](images/story-html.png)
+You can choose different fonts such as:
 
-+ Переконайтеся, що знаєте, які теги використовуються для створення різних частин веб-сторінки.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Відповідь
+language: css line_numbers: true line_number_start: 1
 
-![знімок екрану](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` - це **заголовок**. Щоб створити заголовки різних розмірів, використовуйте числа від 1 до 6.
-+ `<div>` - це **розділ**. Цей код допомагає об'єднати все докупи. На цій веб-сторінці він використовується, щоб об'єднати елементи кожної частини історії.
-+ `<img>` - це **зобаження**.
-+ `<p>` - це **абзац** тексту.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
