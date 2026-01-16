@@ -1,22 +1,16 @@
-\--- challenge \---
+## What can you do now?
 
-## Repte: fes alguns canvis
+If you are following the [HTML and CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Wanted](https://projects.raspberrypi.org/en/projects/wanted) project. In this project, you will learn how to make your own poster.
 
-Edita el codi HTML i CSS per personalitzar la teva pàgina web.
+\--- print-only \---
 
-![captura de pantalla](images/story-changes.png)
+![A wanted poster of a robot](images/wanted-final.png)
 
-El contingut HTML es troba al fitxer `index.html` i l'estil CSS al fitxer `style.css`.
+\--- /print-only \---
 
-![captura de pantalla](images/story-files.png)
+\--- no-print \--- <iframe src="https://editor.raspberrypi.org/en/embed/viewer/wanted-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> 
 
-També pots modificar els colors utilitzats a la pàgina web i utilitzar diferents tipus de lletra com:
+\--- /no-print \---
 
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Còmic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
-
-Troba més noms de color CSS [aquí](http://jumpto.cc/colours) {:target="_ blank"}.
-
-\--- /challenge \---
+Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
