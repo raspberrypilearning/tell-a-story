@@ -1,9 +1,37 @@
-## 你所需要的配備
+## Editing your story
 
-### 硬體
+\--- task \--- Before you get coding, you'll need to decide on a story. Think about the story you want to tell. It could be:
 
-+ 一台能夠連到 [trinket.io](https://trinket.io){:target="_blank"} 網站的電腦
++ A famous story
++ A story you have made up
++ Something that has happened to you or someone you know
 
-### 軟體
+It doesn't even have to be a story. It could be a joke, a poem, or anything else you want! \--- /task \---
 
-可直接在瀏覽器上進入 [trinket.io](https://trinket.io){:target="_blank"} 裡完成本專案。
+\--- task \---
+
+Open the [starter project](https://editor.raspberrypi.org/en/projects/tell-a-story-starter){:target="_blank"}
+
+\--- /task \---
+
+Webpage content goes in the `<body>` section of the `index.html` HTML document.
+
+\--- task \---
+
+Change `My story` to the title of your story.
+
+\--- /task \---
+
+\--- task \---
+
+Change `Add your own text here!` to the first line of your story
+
+\--- /task \---
+
+\--- task \---
+
+Click **Run** to see your web page
+
+![A comic with the title 'Adventures in space' and a first panel containin a sun with the caption 'There was once a star'](images/codeed-starter.png)
+
+\--- /task \---
