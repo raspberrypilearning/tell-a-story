@@ -1,22 +1,16 @@
-\--- challenge \---
+## What can you do now?
 
-## チャレンジ：いくつかの変更を加える
+If you are following the [HTML and CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Wanted](https://projects.raspberrypi.org/en/projects/wanted) project. In this project, you will learn how to make your own poster.
 
-HTMLコンテンツとCSSコードを編集してウェブページをカスタマイズします。
+\--- print-only \---
 
-![スクリーンショット](images/story-changes.png)
+![A wanted poster of a robot](images/wanted-final.png)
 
-HTMLコンテンツは `index.html` ファイルにあり、CSSスタイルは `style.css` ファイルにあります。
+\--- /print-only \---
 
-![スクリーンショット](images/story-files.png)
+\--- no-print \--- <iframe src="https://editor.raspberrypi.org/en/embed/viewer/wanted-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> 
 
-ウェブページで使用される色を変更することもできます。また、次のような異なるフォントを使用することもできます。
+\--- /no-print \---
 
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
-
-CSSの他の色の名前を[ここ](http://jumpto.cc/colours){:target="_blank"}で探してみましょう。
-
-\--- /challenge \---
+Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
