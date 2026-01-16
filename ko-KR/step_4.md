@@ -1,30 +1,43 @@
-## 이야기 수정하기
+## Challenge
 
-이야기 웹 페이지에서 HTML 콘텐츠와 CSS 스타일을 수정해 보세요.
+\--- challenge \---
 
-+ [trinket 열기](http://jumpto.cc/web-story){:target="_blank"}
+Edit the CSS code to customise your webpage.
 
-Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
+\--- task \--- Click on the file `style.css`:
 
-![스크린샷](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-웹 페이지의 내용은 HTML `index.html`의 `<body>` 부분에 있어요.
+\--- /task \---
 
-+ 웹페이지 내용은 7번째 줄부터이며, `<body>`와 `</body>` 태그 사이에 있습니다.
+\--- task \--- Find the style for the body, and change the font.
 
-![스크린샷](images/story-html.png)
+You can choose different fonts such as:
 
-+ 각각의 내용들이 어떤 태그에 해당하는지 확인해 보세요.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: 답변
+language: css line_numbers: true line_number_start: 1
 
-![스크린샷](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>`은 **제목**이예요. 1에서 6까지의 숫자를 사용하여 다양한 크기의 제목을 만들 수 있어요.
-+ `<div>`은 **division**의 약자로, 레이아웃을 나눌 때 사용해요. 이 웹페이지에선 이야기의 각 장을 나눌 때 사용합니다.
-+ `<img>`는 **이미지**를 삽입하는 태그예요. src 속성을 통해 이미지 경로를 지정합니다.
-+ `<p>`은 **paragraph**의 약자로, 하나의 문단을 만들 때 쓰입니다.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
