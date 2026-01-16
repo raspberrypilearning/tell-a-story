@@ -1,22 +1,16 @@
-\---挑戰\---
+## What can you do now?
 
-## 挑戰：做些更改
+If you are following the [HTML and CSS: Module 1](https://projects.raspberrypi.org/en/pathways/webdev-module-1) pathway, you can move on to the [Wanted](https://projects.raspberrypi.org/en/projects/wanted) project. In this project, you will learn how to make your own poster.
 
-編輯 HTML 和 CSS 代碼製做屬於自己的網頁。
+\--- print-only \---
 
-![截圖](images/story-changes.png)
+![A wanted poster of a robot](images/wanted-final.png)
 
-HTML 內容可以在 `index.html` 文件中找到，CSS樣式則是在 `style.css` 文件。
+\--- /print-only \---
 
-![截圖](images/story-files.png)
+\--- no-print \--- <iframe src="https://editor.raspberrypi.org/en/embed/viewer/wanted-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe> 
 
-您還可以修改網頁中使用的顏色，還能使用不同的字體，例如：
+\--- /no-print \---
 
-+ <span style="font-family: Arial;">Arial</span>
-+ <span style="font-family: Comic Sans MS;">Comic Sans MS</span>
-+ <span style="font-family: Impact;">Impact</span>
-+ <span style="font-family: Tahoma;">Tahoma</span>
-
-你可以在[這裡](http://jumpto.cc/colours)找到更多 CSS 的顏色代碼 {:target="_blank"}。
-
-\--- /challenge \---
+Or, why not try out another [HTML](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
