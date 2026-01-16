@@ -1,30 +1,43 @@
-## Je verhaal bewerken
+## Challenge
 
-Laten we beginnen met het bewerken van de HTML-inhoud en CSS-stijl van de webpagina van het verhaal.
+\--- challenge \---
 
-+ Open [deze trinket](http://jumpto.cc/web-story){:target="_blank"}.
+Edit the CSS code to customise your webpage.
 
-Het project zou er als volgt uit moeten zien:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-De inhoud van webpagina's komt in het gedeelte `<body>` van het `index.html` HTML-document.
+\--- /task \---
 
-+ Zoek de inhoud van de webpagina vanaf regel 7 binnen de `<body>` en `</body>` tags.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Kijk of je kunt uitzoeken welke tags worden gebruikt om de verschillende delen van de webpagina te maken.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: Antwoord
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` is een **kop** (Engels: heading). Je kunt de nummers 1 tot 6 gebruiken om koppen van verschillende formaten te maken.
-+ `<div>` is een afkorting van **division** en is een manier om dingen samen te groeperen. In deze webpagina gebruik je het om alle dingen voor je verhaal te groeperen.
-+ `<img>` is een **afbeelding**.
-+ `<p>` is een **alinea** van tekst.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
