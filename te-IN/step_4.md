@@ -1,30 +1,43 @@
-## మీ కథను మార్చడం
+## Challenge
 
-కథ యొక్క వెబ్‌పేజీ లో HTML కంటెంట్ మరియు CSS శైలిలో మార్పులు చేద్దాం.
+\--- challenge \---
 
-+ ఈ [ట్రింకెట్](http://jumpto.cc/web-story) {:target="_blank"} ను తెరవండి.
+Edit the CSS code to customise your webpage.
 
-ప్రాజెక్ట్ ఇలా ఉండాలి:
+\--- task \--- Click on the file `style.css`:
 
-![స్క్రీన్ షాట్](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-వెబ్‌పేజీ కంటెంట్ `<body>`HTML డాక్యుమెంట్ లేదా పత్ర౦ లోని `index.html` విభాగంలో ఉంటుంది.
+\--- /task \---
 
-+ వెబ్‌పేజీ కంటెంట్‌ 7వ పంక్తి నుండి `<body>`మరియు ` </body>` టాగ్లు లోపల కలదు.
+\--- task \--- Find the style for the body, and change the font.
 
-![స్క్రీన్ షాట్](images/story-html.png)
+You can choose different fonts such as:
 
-+ వెబ్‌పేజీ యొక్క విభిన్న భాగాలను సృష్టించడానికి ఏ ట్యాగ్‌లు ఉపయోగించబడుతున్నాయో చూడండి.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: సమాధానం
+language: css line_numbers: true line_number_start: 1
 
-![స్క్రీన్ షాట్](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>`ఒక **శీర్షిక**. విభిన్న శీర్షికలను వ్రాయడానికి మీరు 1 నుండి 6 సంఖ్యలను ఉపయోగించవచ్చు.
-+ `<div>` సులభ౦గా **విభజన** చేయమటకు మరియు సమూహ అంశాలను కలిపే మార్గం. ఈ వెబ్‌పేజీలో, మీరు దీన్ని మీ కథలోని సమూహ భాగాలకు ఉపయోగించవచ్చు.
-+ `<img>` ఒక ** చిత్రం **.
-+ `<p>`టెక్స్ట్**పేరా**.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
