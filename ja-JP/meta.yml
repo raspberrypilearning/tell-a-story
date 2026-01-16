@@ -8,6 +8,7 @@ copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 title: 物語を作ってみよう
 description: 物語、ジョーク、または詩のウェブページを作成する
+pdf: resources/rpfi-tell-a-story.pdf
 original_url: https://codeclubprojects.org/en-GB/webdev/tell-a-story
 interests: literature
 technologies: html-css-javascript
@@ -18,24 +19,17 @@ version: 4
 last_tested: 2018-12-01
 steps:
   - 
-    title: はじめに
+    title: What you will make
   - 
-    title: 必要なもの
-  - 
-    title: 物語を決める
-  - 
-    title: 物語を編集する
+    title: Editing your story
     completion:
       - engaged
   - 
-    title: 'チャレンジ：いくつかの変更を加える'
-  - 
-    title: あなたの物語を伝える
-  - 
-    title: 自分の画像を見つける
-  - 
-    title: 画像のアップロードをする
+    title: Telling your story
     completion:
       - internal
   - 
-    title: 'チャレンジ：続けよう！'
+    title: Challenge
+    challenge: true
+    completion:
+      - external
