@@ -1,30 +1,43 @@
-## तुमची कथा संपादित करणे
+## Challenge
 
-चला HTML सामग्री आणि कथेच्या webpage ची CSS शैली संपादित करून सुरुवात करूया.
+\--- challenge \---
 
-+ [ हे trinket](http://jumpto.cc/web-story){:target="_blank"} उघडा.
+Edit the CSS code to customise your webpage.
 
-प्रकल्प ह्यासारखा दिसायला हवा:
+\--- task \--- Click on the file `style.css`:
 
-![screenshot](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-Webpage सामग्री `<body>` जो `index.html` HTML दस्तऐवजच्या विभाग आहे त्यात जाते.
+\--- /task \---
 
-+ `<body>` आणि ` </body>` टॅग्जच्या आत, ओळी 7 च्या पासून webpage च्या आतली सामग्री शोधा.
+\--- task \--- Find the style for the body, and change the font.
 
-![screenshot](images/story-html.png)
+You can choose different fonts such as:
 
-+ Webpage चे वेगेळे भाग तयार करण्यासठी कोणते टॅग वापरले जातात ते आपण कार्य करूण पहा.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## title: उत्तर
+language: css line_numbers: true line_number_start: 1
 
-![screenshot](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` हे ** शीर्षक आहे **. वेगवेगळ्या आकारांची शीर्षके तयार करण्यासाठी आपण 1 ते 6 नंबर वापरू शकता.
-+ `<div>`हे ** छोटं विभागासाठी आहे **, आणि सामग्री एकत्रित करण्याचा एक मार्ग आहे. या webpage मध्ये आपण आपल्या कथेच्या प्रत्येक भागासाठी सर्व सामग्री एकत्रित करण्यासाठी याचा वापर कराल.
-+ `<img>` एक ** प्रतिमा **आहे.
-+ `<p>`एक ** परिच्छेद आहे ** मजकुराचा.
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
