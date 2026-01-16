@@ -1,30 +1,43 @@
-## നിങ്ങളുടെ കഥയുടെ എഡിറ്റിംഗ്
+## Challenge
 
-സ്റ്റോറിയുടെ വെബ്‌പേജിലെ HTML ഉള്ളടക്കവും CSS ശൈലിയും എഡിറ്റുചെയ്‌തുകൊണ്ട് നമുക്ക് ആരംഭിക്കാം.
+\--- challenge \---
 
-+ ഈ [ട്രിങ്കറ്റ്](http://jumpto.cc/web-story) തുറക്കുക.
+Edit the CSS code to customise your webpage.
 
-പ്രോജക്റ്റ് കാണാൻ ഇങ്ങനെയായിരിക്കണം:
+\--- task \--- Click on the file `style.css`:
 
-![സ്‌ക്രീൻഷോട്ട്](images/story-starter.png)
+![A screenshot of the UI for the code editor with the file style.css highlighted](images/codeed-css.png)
 
-വെബ്‌പേജിന്റെ ഉള്ളടക്കം `index.html` എന്ന HTML ഡോക്യൂമെന്റിന്റെ `<body>` വിഭാഗത്തിൽ ഉൾപ്പെടുന്നു.
+\--- /task \---
 
-+ വെബ്‌പേജിന്റെ ഉള്ളടക്കം ഏഴാം വരി മുതൽ `<body>`, ` </body>` എന്നീ ടാഗുകൾക്കുളിൽ കാണാം.
+\--- task \--- Find the style for the body, and change the font.
 
-![സ്‌ക്രീൻഷോട്ട്](images/story-html.png)
+You can choose different fonts such as:
 
-+ വെബ്‌പേജിന്റെ വ്യത്യസ്‌ത ഭാഗങ്ങൾ‌ സൃഷ്‌ടിക്കുന്നതിന് ഏത് ടാഗുകളാണ് ഉപയോഗിക്കുന്നതെന്ന് നിങ്ങൾക്ക് കണ്ടുപിടിക്കാൻ കഴിയുമോയെന്ന് നോക്കുക.
++ <span style="font-family: Arial;">Arial</span>
++ <span style="font-family: Impact;">Impact</span>
++ <span style="font-family: Tahoma;">Tahoma</span>
 
-## \--- collapse \---
+## \--- code \---
 
-## ഉത്തരം
+language: css line_numbers: true line_number_start: 1
 
-![സ്ക്രീൻഷോട്ട്](images/story-elements.png)
+## line_highlights: 3
 
-+ `<h1>` ഒരു ** തലക്കെട്ടാണ് **. വ്യത്യസ്ത വലുപ്പത്തിലുള്ള തലക്കെട്ടുകൾ സൃഷ്ടിക്കാൻ നിങ്ങൾക്ക് 1 മുതൽ 6 വരെയുള്ള അക്കങ്ങൾ ഉപയോഗിക്കാം.
-+ **division** എന്ന വാക്കിന്റെ ചുരുക്കെഴുത്താണ് `<div>`, ഒപ്പം കാര്യങ്ങൾ ഗ്രൂപ്പുചെയ്യുന്നതിനുള്ള ഒരു മാർഗവുമാണ്. ഈ വെബ്‌പേജിൽ‌, നിങ്ങളുടെ സ്റ്റോറിയുടെ ഓരോ ഭാഗത്തിനായുള്ള എല്ലാ കാര്യങ്ങളും ഗ്രൂപ്പുചെയ്യാൻ നിങ്ങൾക്ക് ഇത് ഉപയോഗിക്കാം.
-+ `<img>` ഒരു **ചിത്രമാണ്**.
-+ `<p>` ഒരു **പാരഗ്രാഫ് ആണ്**
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \--- \--- /task \---
 
-\--- /collapse \---
+\--- task \--- Change the background colour to a different colour:
+
+## \--- code \---
+
+language: css line_numbers: true line_number_start: 1
+
+## line_highlights: 2
+
+body { background-color: white; font-family: Comic Sans MS; } \--- /code \---
+
+Find more CSS colour names [here](http://jumpto.cc/colours){:target="_blank"}.
+
+\--- /task \---
+
+\--- /challenge \---
